@@ -4,17 +4,35 @@
 
 <head style=text-alignment: center;>
 <font size="28">Aaron Ottinger, Ph.D.</font>
-</head>
+
 
 
 
 <style type="text/css">
-body {background-color: white; font-family: Helvetica; font-size: 12;}
+
+
+body {background-image:url: "/Users/aaronottinger/Desktop/Web_Development/images/marbled_page"; font-family: Helvetica; font-size: 12;}
+article {border:thin solid black; padding-top: 10px; padding-bottom: 20px; padding-left:30px; padding-right:30px}
+
 h1   {color: black;font-size:30}
 h2   {color: red}
 p    {color: black}
 a	{color:black}
 a:hover {background:#00934a; color:white}
+footer {
+border:thin solid black; 
+  position: fixed;
+   left: 0;
+   bottom: 100;
+   width: 100%;
+
+}
+
+img {position:absolute;
+  left: 500px;
+  top: 100px;
+  z-index: -1;}
+
 
 footer {
   position: fixed;
@@ -27,23 +45,40 @@ footer {
   color: white;
   text-align: auto}
 
+* LIST #1 */
+ul {list-style:none; text-align:center; border-top:1px solid #eee; border-bottom:1px solid #eee; padding:10px 0; }
+ul li { display:inline; text-transform:uppercase;padding:10px;letter-spacing:10px; }
+ul li a { text-decoration:none; color:#eee; }
+ul li a:hover { color:black; }
+
 
 </style>
+</head>
 
 <body>
 
 
+
+
+<header>
 <nav style="background-color:white;
 color:black">
-Home | Bio/CV | Research | Teaching | Blog | Contact | 
+Home | Bio/CV | Research | Teaching | Blogs | Contact | 
 </nav>
+</header>
 
-
+<div class="relative">
 <img src="/Users/aaronottinger/sourcecode/aaronottinger.github.io/aaron.png" height="400" width="600" alt="Aaron Ottinger Image" style=float:right/>
+</div>
 
-<section style="background-color:#DBDBDB;height:225px; width:600px;float:left"">
+
+
+<article style="background-color:#DBDBDB;height:225px; width:600px;position:absolute; top:150px"">
+
+
 
 <h1>About Aaron</h1>
+
 
 <p>
 Aaron Ottinger is a part-time writing instructor at Highline College and he teaches the 
@@ -54,24 +89,22 @@ psychology and mathematics in British literature of the long eighteenth century.
 includes publications in <i>Essays in Romanticism</i>, the edited volume <i>Romanticism and Speculative
 Realism</i> (Bloomsbury 2019), and the forthcoming anthology <i>The Palgrave Handbook to Literature and Mathematics</i>.
 </p>
-</section>
+</article>
 
 
-<section style="background-color:#DBDBDB;height:225px; width:600px">
-<p>
 
-
-</p>
-</section>
 
 
 <footer>
 
+
 <ul>
-<li><a href="index.html">HOME</a></li>
-<li><a href="football.html">something professional</a></li>
-<li><a href="http://www.nfl.com">blog or something</a></li>
-<li><a href="http://http://www.seahawks.com/">buy my books on Amazon, once they're written</a></li>
+<li style="float:left; padding"><a href="index.html">HOME</a></li>
+<li style="float:left"><a href="football.html">Bio/CV</a></li>
+<li style="float:left"><a href="http://www.nfl.com">Research</a></li>
+<li style="float:left"><a href="http://http://www.seahawks.com/">Teaching</a></li>
+<li style="float:left"><a href="http://http://www.seahawks.com/">Blogs</a></li>
+<li style="float:left"><a href="http://http://www.seahawks.com/">Contacts</a></li>
 </ul>
 	
 
