@@ -1,0 +1,60 @@
+<!DOCTYPE CSS>
+
+body { 
+font-family: Helvetica; font-size: 12;
+}
+
+nav {
+  padding-left:  :
+  padding-right: ;
+  padding-top: 5px;
+  border-top: 1px solid black ;
+  border-bottom: 1px solid ;
+  margin: 5px ;
+}
+
+article {border:thin solid black; padding-top: 10px; padding-bottom: 20px; padding-left:30px; padding-right:30px}
+
+h1   {color: black;font-size:30}
+h2   {color: red}
+p    {color: black}
+a	{color:black}
+a:hover {background:#00934a; color:white}
+
+
+img {position:absolute;
+  left: 500px;
+  top: 150px;
+  z-index: -1;}
+
+
+footer {
+border:thin solid black; 
+  position: fixed;
+   left: 0;
+   bottom: 100;
+   width: 100%;
+}
+
+
+footer {
+  position: fixed;
+  margin left: auto;
+  margin right: auto;
+  bottom: 0;
+  width: 100%;
+  background-position:center;
+  background-color: grey;
+  color: white;
+  text-align: auto}
+
+
+
+
+
+* LIST #1 */
+ul {list-style:none; text-align:center; border-top:1px solid #eee; border-bottom:1px solid #eee; padding:10px 0; }
+ul li { display:inline; text-transform:uppercase;padding:10px;letter-spacing:10px; }
+ul li a { text-decoration:none; color:black; }
+ul li a:hover { color:white; }
+
