@@ -3,7 +3,7 @@
 
 head {
 
-	font-family: Helvetica Garamond
+	font-family: Helvetica
 
 }
 
@@ -22,10 +22,10 @@ p {
 
 nav {
 
-  padding-left:  :
+  padding-left:  ;
   padding-right: ;
   padding-top: 5px;
-  border-top: 1px solid black ;
+  border-top: 1px solid black;
   border-bottom: 1px solid ;
   margin: 5px ;
 }
