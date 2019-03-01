@@ -93,10 +93,9 @@ nav {
 
 
 section {
-   background: lightsteelblue;
    float:right;
-   line-height: 90px;
-   width: 200px;
+   line-height: 200px;
+   width: 400px;
 }
 
 
@@ -115,12 +114,8 @@ section {
 
 
 .forthcoming {
-
-		width: 200px;
-		height: 200px;
 		background-color:lightgrey;
 		border: thin solid black;
-		float:right;
 		padding-left:5px;
 		padding-right:5px;
 		padding-top:0px;
