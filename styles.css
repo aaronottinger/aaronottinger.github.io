@@ -121,10 +121,9 @@ nav {
 		padding-top:0px;
 		padding-bottom:10px;
 		position:fixed;
-		left:150px;
-		top 300px;
-		box-shadow: 10px 10px 5px black;
+		float:right;
 }
+
 
 
 
