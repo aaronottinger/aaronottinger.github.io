@@ -41,8 +41,8 @@ nav {
 		background-color:#8f9091; 
 		border: thin solid black;
 		position:fixed;
-		top:250px;
-		left:125px;
+		top:200px;
+		left:50px;
 		padding-left:10px;
 		padding-bottom: 10px;
 		padding-right:5px;
@@ -54,18 +54,19 @@ nav {
 
 .focus {
 
-		width: 425px;
-		height: 200px;
+		width: 400px;
+		height: 275px;
 		background-color:lightgrey;
 		border: thin solid black;
-		padding-left:5px;
-		padding-right:5px;
-		padding-top:0px;
-		padding-bottom:10px;
+		padding-left:25px;
+		padding-right:25px;
+		padding-top: 15px;
+		padding-bottom:25px;
 		position:fixed;
-		left:150px;
-		top 300px;
+		left:100px;
+		top 200px;
 		box-shadow: 10px 10px 5px black;
+		text-align:justify; 
 
 
 }	
@@ -74,18 +75,19 @@ nav {
 
 .bio {
 
-		width: 425px;
-		height: 400px;
+		width: 400px;
+		height: 550px;
 		background-color:lightgrey;
 		border: thin solid black;
-		padding-left:5px;
-		padding-right:5px;
-		padding-top:0px;
-		padding-bottom:10px;
+		padding-left:25px;
+		padding-right:25px;
+		padding-top:15px;
+		padding-bottom:25px;
 		position:fixed;
-		left:150px;
-		top 300px;
+		left:100px;
+		top 250px;
 		box-shadow: 10px 10px 5px black;
+		text-align:justify; 
 
 
 }
@@ -94,41 +96,47 @@ nav {
 
 section {
 	background-color:lightgrey;
-	float:right;
-	line-height: 200px;
-	width: 200px;
-	float:right;
-	padding-left:5px;
-	padding-right:5px;
-	padding-top:5px;
-	padding-bottom:10px;
+	height: 215px;
+	width: 400px;
+	position: fixed;
+	left: 650px;
+	top:200px;
+	padding-left:25px;
+	padding-right:25px;
+	padding-top:15px;
+	padding-bottom:25px;
 	border: thin solid black;
+	box-shadow: 2px 5px 2px black;
 
 }
 
 aside {
 	background-color:grey;
-	float:right;
-	line-height: 200px;
-	width: 200px;
-	float:right;
-	padding-left:5px;
-	padding-right:5px;
-	padding-top:5px;
-	padding-bottom:10px;
+	height: 425px;
+	width: 400px;
+	position: fixed;
+	left: 650px;
+	top: 475px;
+	padding-left:25px;
+	padding-right:25px;
+	padding-top:15px;
+	padding-bottom:25px;
 	border: thin solid black;
-
+	box-shadow: 2px 5px 2px black;
+	
 }
 
 
 .publications {
-		font-type:Garramond		
+		font-family:Garramond	
+		font-size:15px
 }
 
 
 
 .forthcoming {
-		font-type:Garramond	
+		font-family:Garramond	
+		font-size:15px
 }
 
 
@@ -144,9 +152,23 @@ h1.em {
 
 
 h2   {
-		color:black
-		font-size
+		color:black;
+		font-size: 25px;
+		font-family: helvetica, Sans-serif;
+		font-weight: normal;
 }
+
+h3{
+		color:black;
+		font-size: 20px;
+		font-family: helvetica, Sans-serif;
+		font-weight: normal;}
+
+p {
+		color:black;
+		font-size: 15px
+}
+
 
 
 
@@ -164,27 +186,17 @@ a:hover {
 }
 
 
-ul.textbox {
 
-	border: 2px thin black;
-	margin: 2px thin black;
-	padding-left: 10px;
-	padding-right: 10px;
-	padding-top: 5px;
-	padding-bottom: 5px;
-	background color: yellow;
-	font-style: Helvetica;
-	font-size: 12;
-}
 
 #selfportrait {
 
 	position:absolute;
   	left: 400px;
-  	top: 200px;
+  	top: 175px;
   	z-index: -1;
 
 }
+
 
 
 footer {
