@@ -97,7 +97,7 @@ nav {
 section {
 	background-color:lightgrey;
 	height: 215px;
-	width: 400px;
+	width: 550px;
 	position: fixed;
 	left: 650px;
 	top:200px;
@@ -113,7 +113,7 @@ section {
 aside {
 	background-color:grey;
 	height: 425px;
-	width: 400px;
+	width: 550px;
 	position: fixed;
 	left: 650px;
 	top: 475px;
@@ -197,6 +197,16 @@ a:hover {
 
 }
 
+
+object {
+	border: thin solid black; 
+	position: fixed;
+	left: 650px;
+	top:200px;
+
+}
+
+.contain {object-fit: contain;}
 
 
 footer {
