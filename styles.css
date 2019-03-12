@@ -91,6 +91,26 @@ nav {
 }
 
 
+.details {
+
+		width: 400px;
+		height: 350px;
+		background-color:lightgrey;
+		border: thin solid black;
+		padding-left:15px;
+		padding-right:15px;
+		padding-top:5px;
+		padding-bottom:15px;
+		position:relative;
+		top 200px;
+		left:50px;
+		box-shadow: 10px 10px 5px black;
+		text-align:justify; 
+
+
+}
+
+
 
 section {
 	background-color:lightgrey;
