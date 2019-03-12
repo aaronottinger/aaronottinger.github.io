@@ -39,7 +39,7 @@ nav {
 		background-color:#8f9091; 
 		border: thin solid black;
 		position:relative;
-		top: 150px;
+		top: 1150px;
 		left:50px;
 		padding-top:15px;
 		padding-bottom: 15px;
@@ -58,7 +58,7 @@ nav {
 		background-color:#8f9091; 
 		border: thin solid black;
 		position:relative;
-		top: 100px;
+		top: -100px;
 		left:150px;
 		padding-top:15px;
 		padding-bottom: 15px;
