@@ -31,6 +31,7 @@ nav {
 
 
 
+
 .head {
 
 		width:400px;
@@ -38,7 +39,7 @@ nav {
 		background-color:#8f9091; 
 		border: thin solid black;
 		position:relative;
-		top: -350px;
+		top: 150px;
 		left:50px;
 		padding-top:15px;
 		padding-bottom: 15px;
@@ -58,7 +59,7 @@ nav {
 		border: thin solid black;
 		position:relative;
 		top: 100px;
-		left:50px;
+		left:150px;
 		padding-top:15px;
 		padding-bottom: 15px;
 		padding-left:15px;
@@ -67,6 +68,7 @@ nav {
 
 		
 }
+
 
 
 .focus {
@@ -121,8 +123,8 @@ nav {
 		padding-top:5px;
 		padding-bottom:15px;
 		position:relative;
-		top 200px;
-		left:50px;
+		top 150px;
+		left:100px;
 		box-shadow: 10px 10px 5px black;
 		text-align:justify; 
 
@@ -141,8 +143,8 @@ nav {
 		padding-top:5px;
 		padding-bottom:15px;
 		position:relative;
-		top 200px;
-		left:50px;
+		top 150px;
+		left:100px;
 		box-shadow: 10px 10px 5px black;
 		text-align:justify; 
 
