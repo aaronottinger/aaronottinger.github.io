@@ -31,16 +31,15 @@ nav {
 
 
 
-
 .head {
 
-		width:400px;
-		height:300px;
+		width:300px;
+		height:400px;
 		background-color:#8f9091; 
 		border: thin solid black;
-		position:relative;
-		top: -150px;
-		left:50px;
+		position: relative;  
+		top: -10%;
+		left:10%;
 		padding-top:15px;
 		padding-bottom: 15px;
 		padding-left:15px;
@@ -51,80 +50,22 @@ nav {
 }
 
 
-.about {
-
-		width:400px;
-		height:300px;
-		background-color:#8f9091; 
-		border: thin solid black;
-		position:relative;
-		top: -100px;
-		left:150px;
-		padding-top:15px;
-		padding-bottom: 15px;
-		padding-left:15px;
-		padding-right: 15px;
-		box-shadow: 2px 5px 2px black;
-
-		
-}
-
-
-
-.focus {
-
-		width: 400px;
-		height: 275px;
-		background-color:lightgrey;
-		border: thin solid black;
-		padding-left:25px;
-		padding-right:25px;
-		padding-top: 15px;
-		padding-bottom:50px;
-		position:relative;
-		top 200px;
-		left:50px;
-		box-shadow: 10px 10px 5px black;
-		text-align:justify; 
-
-
-}	
 
 
 
 .content {
 
-		width: 400px;
-		height: 550px;
+		width: 350px;
+		overflow: hidden;
 		background-color:lightgrey;
 		border: thin solid black;
-		padding-left:25px;
-		padding-right:25px;
+		padding-left:30px;
+		padding-right:30px;
 		padding-top:15px;
 		padding-bottom:25px;
 		position:relative;
-		top 250px;
-		left:100px;
-		box-shadow: 10px 10px 5px black;
-		text-align:justify; 
-
-
-}
-
-
-.details {
-
-		width: 400px;
-		height: 350px;
-		background-color:lightgrey;
-		border: thin solid black;
-		padding-left:15px;
-		padding-right:15px;
-		padding-top:5px;
-		padding-bottom:15px;
-		position:relative;
 		top 150px;
-		left:100px;
+		left:50px;
 		box-shadow: 10px 10px 5px black;
 		text-align:justify; 
 
@@ -132,7 +73,10 @@ nav {
 }
 
 
-.dhrole {
+
+
+
+#dhrole {
 
 		width: 400px;
 		height: 450px;
@@ -143,14 +87,42 @@ nav {
 		padding-top:5px;
 		padding-bottom:15px;
 		position:relative;
-		top 150px;
-		left:100px;
+		top 200px;
+		left:50px;
 		box-shadow: 10px 10px 5px black;
 		text-align:justify; 
 
 
 }
 
+
+article {
+		background: #8f9091;
+		overflow: hidden;
+		width: 525px;
+		margin: 25px;
+		float: left;
+		padding-left:25px;
+		padding-right:25px;
+		padding-top:15px;
+		padding-bottom:50px;
+		border: thin solid black;
+	
+}
+
+aside {
+	background-color:lightgrey; 
+	overflow: hidden;
+	word-wrap: break-word;
+	height: 150%;
+	margin: 75px; 
+	float:right;
+	padding-left:25px;
+	padding-right:25px;
+	padding-top:15px;
+	padding-bottom:25px;
+	border: thin solid black;
+}
 
 section {
 	background-color:lightgrey;
@@ -168,21 +140,7 @@ section {
 
 }
 
-aside {
-	background-color:#8f9091; 
-	height: 425px;
-	width: 550px;
-	position: relative;
-	left: 650px;
-	top: 475px;
-	padding-left:25px;
-	padding-right:25px;
-	padding-top:15px;
-	padding-bottom:25px;
-	border: thin solid black;
-	box-shadow: 2px 5px 2px black;
-	
-}
+
 
 
 .publications {
@@ -193,24 +151,90 @@ aside {
 
 
 .forthcoming {
-		font-family:Garramond	
-		font-size:15px
+		background: lightgrey;
+		overflow: hidden;
+		word-wrap: break-word;
+		width:30%;
+		position:relative;
+		float:left;
+		margin: 1.75%;
+		padding-left:25px;
+		padding-right:25px;
+		padding-top:15px;
+		padding-bottom:25px;
+		border: thin solid black;
 }
+
+#pictureframe {
+		background: lightgrey;
+		word-wrap: break-word;
+		width:37.5%;
+		height: 40%;
+		position:relative;
+		float:left;
+		margin: 1.75%;
+		padding-left:30px;
+		padding-right: 10px;
+		padding-top:15px;
+		padding-bottom:25px;
+		border: thin solid black;
+				    		
+
+		
+}
+
+
+#selfpictureframe {
+		background: lightgrey;
+		word-wrap: break-word;
+		width:500px;
+		height: 40%;
+		position:relative;
+		float:left;
+		margin: 1.75%;
+		padding-left:30px;
+		padding-right: 10px;
+		padding-top:15px;
+		padding-bottom:25px;
+		border: thin solid black;
+				    			
+}
+
+
+#adapictureframe {
+		background: lightgrey;
+		word-wrap: break-word;
+		width: 500px;
+		height: 40%;
+		position:relative;
+		float:left;
+		margin: 1.75%;
+		padding-left:30px;
+		padding-right: 10px;
+		padding-top:15px;
+		padding-bottom:25px;
+		border: thin solid black;
+				    		
+
+		
+}
+
 
 
 #dh {
 
-		width:400px;
-		height:300px;
-		background-color:#8f9091; 
-		border: thin solid black;
+	background: lightgrey;
+		word-wrap: break-word;
+		width:40%;
+		height: 40%;
 		position:relative;
-		top:200px;
-		left:50px;
-		padding-left:10px;
-		padding-bottom: 10px;
-		padding-right:5px;
-		box-shadow: 2px 5px 2px black;
+		float:left;
+		margin: 1.75%;
+		padding-left:30px;
+		padding-right: 10px;
+		padding-top:15px;
+		padding-bottom:25px;
+		border: thin solid black;
 		
 }
 
@@ -244,7 +268,7 @@ h1.em {
 
 h2   {
 		color:black;
-		font-size: 25px;
+		font-size: 20px;
 		font-family: helvetica, Sans-serif;
 		font-weight: normal;
 }
@@ -259,6 +283,62 @@ p {
 		color:black;
 		font-size: 15px
 }
+
+
+object 	{
+		    		background: lightgrey;
+		word-wrap: break-word;
+		overflow: hidden;
+		width:600px;
+		height: 650px;
+		position:relative;
+		float:left;
+		margin: 1.75%;
+		padding-left:30px;
+		padding-right: 30px;
+		padding-top:30px;
+		padding-bottom:25px;
+		border: thin solid black;
+		
+}
+
+
+ /* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */ 
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+} 
+
+
+
 
 
 
@@ -281,23 +361,28 @@ a:hover {
 
 #selfportrait {
 
-	position:relative;
-  	left: 400px;
-  	top: 50px;
-  	z-index: -1;
-
+	margin: 2.5%;
+  	left: 50%; 
+  	top: 1%;
+    		box-shadow: 10px 10px 5px black;
 }
 
 
-object {
-	border: thin solid black; 
-	position: fixed;
-	left: 650px;
-	top:200px;
+#ada {
+		margin: 2.5%;
+    	box-shadow: 10px 10px 5px black;
+}
+
+
+
+#dhgraph {
+	position: relative; 
+  	float: left;
+  		box-shadow: 10px 10px 5px black;
+  	
 
 }
 
-.contain {object-fit: contain;}
 
 
 
