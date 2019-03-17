@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+
+<head>
+<font size="28">Aaron Ottinger, Ph.D.</font>
+
+<link rel="stylesheet" href="/Users/aaronottinger/Desktop/Excellent_Stuff/Web_Development/pro_website/styles.css">
+
+<meta charset="UTF-8">
+
+</head>
+
+<body>
+
+
+
+
+
+<header>
+<nav>
+<ul>
+<li>|<a href="https://aaronottinger.github.io"> HOME</a> |</li>
+<li><a href="https://aaronottinger.github.io/cv.html">BIO/CV</a> |</li>
+<li><a href="http://aaronottinger.github.io/research.html">Research</a> |</li>
+<li><a href="">Teaching</a> |</li>
+<li><a href="">Blogs</a> |</li>
+<li><a href="">DH</a> |</li>
+<li><a href="">Contact</a> |</li>
+</ul>
+</nav>
+</header>
+
+
+<article>
+<h1>Blogging and Public Engagement</h1>
+
+	<div class=content>
+
+	<p>
+	Blogging is an important part of public engagement. 	
+
+	</div>	
+
+</article>
+
+
+
+<aside class="forthcoming">
+<h1>Blog Entries</h1>
+
+<h2>Editor and Contributor, “Ada Lovelace, Romantic from the Future,” a three-part series for <i>The K-SAA Blog</i>.</h2>
+<ol>
+		<li><a href="https://k-saa.org/ada-lovelace-romantic-from-the-future-adapting-ada/">"Ada Lovelace, Romantic from the Future: Adapting Ada,"</a> 10 Dec. 2018.</li>
+		<br>
+		<li><a href="https://k-saa.org/ada-lovelace-romantic-from-the-future-adapting-ada/">"Ada Lovelace, Romantic from the Future: An Interview with 
+		Roger Whitson, Part II,"</a> 28 Nov. 2018</li>
+		<br>
+		<li><a href="https://k-saa.org/ada-lovelace-romantic-from-the-future-adapting-ada/">"Ada Lovelace, Romantic from the Future: An Interview with 
+		Roger Whitson, Part I,"</a> 27 Nov. 2018</li>
+		
+</ol>
+
+<h2>Communications Fellow, <i>Keats-Shelley Association of America</i>.</h2>
+
+<ol>
+		<li><a href="https://k-saa.org/keats-symposium-ann-rowland-on-keats-america-and-author-love/">"Interview: Keats Symposium:Ann Rowland on Keats, America, and Author Love"</a> 22 Jan. 2018.</li>
+
+
+
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer>
+
+
+
+The views expressed on this site do not represent the views of my employers.  
+
+	
+
+</footer>
+</body>
+</html>
