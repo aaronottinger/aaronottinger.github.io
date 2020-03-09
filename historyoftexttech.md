@@ -1,4 +1,7 @@
 # History of Text Technologies
+
+![an image of ancient Greek text](ancient-greek-panel-text-691245.jpg)
+
 **Instructor:** Dr. Aaron Ottinger
 
 **Email:** aottinger@seattleu.edu
@@ -6,8 +9,6 @@
 **Office:** Harding 240
 
 **Office Hours:** Mondays 4:30-5:30
-
-![an image of ancient Greek text](ancient-greek-panel-text-691245.jpg)
 
 ## Course Overview 
 
