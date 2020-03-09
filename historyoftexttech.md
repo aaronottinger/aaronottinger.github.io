@@ -7,6 +7,8 @@
 
 **Office Hours:** Mondays 4:30-5:30
 
+![image of a bits or code in the shape of a human profile](digitalmind.jpg)
+
 ## Course Overview 
 
 What's this class about
