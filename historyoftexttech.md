@@ -1,4 +1,4 @@
-# History of Text Technologies
+# DICE3020 Winter 2020 History of Text Technologies
 
 ![an image of ancient Greek text](ancient-greek-panel-text-691245.jpg)
 
