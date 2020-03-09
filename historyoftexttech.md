@@ -7,7 +7,7 @@
 
 **Office Hours:** Mondays 4:30-5:30
 
-![image of a bits or code in the shape of a human profile](digitalmind.jpg)
+![an image of ancient Greek text](ancient-greek-panel-text-691245.jpg)
 
 ## Course Overview 
 
