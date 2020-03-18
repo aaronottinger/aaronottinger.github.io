@@ -48,6 +48,11 @@ I would like to thank Jordan Kraemer, Kathryn, Eugenia Zuroski, Emma Zuroski, Co
 
 ### Grade Breakdown 
 
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text | 
+
 ## Communication 
 
 ### Face-to-Face
