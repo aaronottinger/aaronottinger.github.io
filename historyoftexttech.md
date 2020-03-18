@@ -50,8 +50,10 @@ I would like to thank Jordan Kraemer, Kathryn, Eugenia Zuroski, Emma Zuroski, Co
 
 | Syntax | Description |
 | ----------- | ----------- |
-| Header | Title |
 | Paragraph | Text | 
+| Paragraph | Text | 
+| Paragraph | Text | 
+| Paragraph | Text | | Paragraph | Text | 
 
 ## Communication 
 
