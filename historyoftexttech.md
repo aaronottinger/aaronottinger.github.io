@@ -44,7 +44,7 @@ I would like to thank Jordan Kraemer, Kathryn, Eugenia Zuroski, Emma Zuroski, Co
 
 ## Assignments and Grading 
 
-![an image of the course modules with short descriptions](coursemapHOTT.jpg)
+![an image of the course modules with short descriptions](coursemapHOTT.png)
 
 
 ### Short and Major Assignments
