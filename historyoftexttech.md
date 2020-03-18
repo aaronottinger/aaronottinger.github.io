@@ -48,8 +48,8 @@ I would like to thank Jordan Kraemer, Kathryn, Eugenia Zuroski, Emma Zuroski, Co
 
 ### Grade Breakdown 
 
-| Syntax | Description |
-| ----------- | ----------- |
+| Grade Percentage | GPA | Letter Grade |
+| ----------- | ----------- | ----------- |
 | 93-100 | 3.8-4.0 | A | 
 | 89-92 | 3.4-3.7 | A- | 
 |  | Text | 
