@@ -12,7 +12,15 @@
 
 ## Course Overview 
 
-What's this class about
+This class address the history of text technologies and its relationship to the history of human consciousness. While this relationship might come as a surprise to some at first, consider that memory, a pillar of human consciousness, must change dramatically with the invention of writing and reading materials, like books. With the rise of books, knowledge can be passed from one generation to the next, knowledge that can be studied and re-read, activities more difficult to achieve in a strictly oral culture.
+
+Already a complicated history, this class aims to braoden its scope by taking a global approach and evaluating who is often included in narratives of text technologies and who is often excluded. Furthermore, we will consider how we measure time in a history of text technologies: Is it linear? Cylcical? Recurssive? Is it shallow? Deep? or Really deep?? 
+
+To assist us in all of the aforementioned questions, this class combines historical readings of text technologies, theoretical texts, and methods in distant reading, namely, text mining and visualization. 
+
+This course is a fully-online class. Students should expect to spend roughly 10-12 hours per week reading and preparing homework assignments. The course is oranized into three modules, each consisting of discussion boards, a collaborative timeline assignment, plus a short assignment that develops into a major assignment. Major assignments will incorporate an array of modes and genres, including a research paper, video presentation, and a multimodal research paper on the present state of digital  At least twice throughout the term, students will meet individually with the instructor via an online conferencing platform (Zoom). The final major assignment and final reflection will be due during finals week, but there will be no final exam. 
+
+![an image of the course modules with short descriptions](coursemapHOTT.png)
 
 ## Course Outcomes 
 
@@ -44,7 +52,6 @@ I would like to thank Jordan Kraemer, Kathryn, Eugenia Zuroski, Emma Zuroski, Co
 
 ## Assignments and Grading 
 
-![an image of the course modules with short descriptions](coursemapHOTT.png)
 
 
 ### Short and Major Assignments
