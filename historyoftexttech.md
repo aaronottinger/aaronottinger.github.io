@@ -25,17 +25,21 @@ I would like to thank Jordan Kraemer, Kathryn, Eugenia Zuroski, Emma Zuroski, Co
 ### Think before acting
 
 Employ anti-violent, inclusive communication (think about connotations of language, e.g. “This movie is lame!”) 
+
 Avoid speaking over one another
 
 ### Empower one another
 
 Be okay with being questioned, but challenge and question with respect (avoid personal attacks)Offer solutions
+
 Ask questions, encourage, and challenge one another. 
 
 ### Be accountable
 
 Be Punctual 
+
 Be willing to apologize
+
 Be willing to forgive
 
 ## Assignments and Grading 
