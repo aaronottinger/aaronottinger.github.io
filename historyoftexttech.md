@@ -100,7 +100,7 @@ Bear in mind that some opinions and materials in this class might challenge our 
 
 Last, consider that the path to emotional and intellectual growth may not be won by challenging one’s own personal beliefs and values only. To embrace new ideas, skills, and values for future use in different contexts, we must also conduct personal investigations that ask why our views are being challenged in the first place. Accordingly, it is always worth asking “Why do I feel x?”, “Why do I believe x?”, and “Why do I value x?” Ultimately, this course is not solely intended to increase our knowledge about a list of terms; more importantly, the task is to alter the fundamental ways in which we understand ourselves and our relationship to ourselves and others within a digital culture.
 
-## Take Care of Yourself and Others
+## Self Care and Caring for Others
 
 This classroom is a place where everyone is welcome and should feel like they matter. Everyone is encouraged to advocate for themselves. Here are some items to consider:      
 
