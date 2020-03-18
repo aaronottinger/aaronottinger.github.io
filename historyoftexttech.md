@@ -1,6 +1,6 @@
 # DICE3020: History of Text Technologies, Spring 2020
 
-![an image of ancient Greek text](aldus.jpg)
+![an image of ancient Greek text](aldus.JPG)
 
 **Instructor:** Dr. Aaron Ottinger
 
