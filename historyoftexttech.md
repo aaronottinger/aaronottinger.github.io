@@ -30,17 +30,17 @@ I would like to thank Jordan Kraemer, Kathryn, Eugenia Zuroski, Emma Zuroski, Co
 
 ### Empower one another
 
-Be okay with being questioned, but challenge and question with respect (avoid personal attacks)Offer solutions
+- Be okay with being questioned, but challenge and question with respect (avoid personal attacks)Offer solutions
 
-Ask questions, encourage, and challenge one another. 
+- Ask questions, encourage, and challenge one another. 
 
 ### Be accountable
 
-Be Punctual 
+- Be Punctual 
 
-Be willing to apologize
+- Be willing to apologize
 
-Be willing to forgive
+- Be willing to forgive
 
 ## Assignments and Grading 
 
