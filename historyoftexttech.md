@@ -179,4 +179,5 @@ You are expected to budget 10 hours per week for this course. Most of the time, 
 | Module 0.5 | What is a History of Text Technologies |  |
 | Week 1: What is a History of Text Technologies? | 1. Rousseau, Discourse on Inequality 2. Jerome McGann, "Why Textual Scholarship Matters?" 3. Marvin, "Introduction," When Old Technologies Were New. 4. Michael Haworth, "Bernard Stiegler on Transgenerational Memory and the Dual Origin of the Human" | 2 Discussion Board Assignments |
 | Module 1 | Ancient Reading and Writing Technologies |  |
-| Week 2: Orality and Writing Before the Greek Alphabet | 1. Text | 2 Discussion Board Assignments |
+| Week 2: Orality and Writing Before the Greek Alphabet | 1. Text | 2 Discussion Board Assignments, Short Assignment 1 |
+| Week 3: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
