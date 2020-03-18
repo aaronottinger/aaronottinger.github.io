@@ -171,3 +171,10 @@ An agreement to receive an Incomplete (I) grade may be negotiated if your circum
 Student Responsibilities for Learning
 
 You are expected to budget 10 hours per week for this course. Most of the time, this will be adequate time to complete all of the requirements for each week. However, given the nature of the material in these courses, it is likely that some weeks will be more time-consuming than others due to complexity of concepts. Please communicate openly with your instructor about how the course is going and let your instructor know if you are regularly spending a lot more time to complete work. Additional tutoring or other assistance may be available depending on the nature of the issue. You are also encouraged to review the calendar at the beginning of the quarter to flag any weeks that seem to you to be especially full or challenging.
+
+# Calendar
+
+| Week | What to Read | What to Complete |
+| ----------- | ----------- | ----------- |
+| Week 1 | 1. Rousseau, Discourse on Inequality 2. Jerome McGann, "Why Textual Scholarship Matters?" 3. Marvin, "Introduction," When Old Technologies Were New Thinking about Electric Communication in the Late Nineteenth Century. New | 2 Discussion Board Assignments |
+| Week 2 | texts | 2 Discussion Board Assignments |
