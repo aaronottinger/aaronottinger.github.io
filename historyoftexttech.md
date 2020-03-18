@@ -55,15 +55,16 @@ I would like to thank Jordan Kraemer, Kathryn, Eugenia Zuroski, Emma Zuroski, Co
 | ----------- | ----------- | ----------- |
 | 93-100 | 3.8-4.0 | A | 
 | 89-92 | 3.4-3.7 | A- | 
-| Paragraph | Text | 
-| Paragraph | Text | 
-| Paragraph | Text | 
-| Paragraph | Text | 
-| Paragraph | Text | 
-| Paragraph | Text | 
-| Paragraph | Text | 
-| Paragraph | Text | 
-| Paragraph | Text | 
+| 86-88 | 3.1-3.3 | B+ | 
+| 83-85 | 2.8-3.0 | B | 
+| 79-82 | 2.4-2.7 | B- | 
+| 76-78 | 2.1-2.3 | C+ | 
+| 70-73 | 1.8-2.0 | C | 
+| 65-68 | 1.4-1.7 | C- | 
+| 62-64 | 1.1-1.3 | D+ | 
+| 60-61 | 0.8-1.0 | D | 
+| 58-59 | 0.1-0.7 | D- | 
+| 0-57 | 0.0 | F | 
 
 ## Communication 
 
