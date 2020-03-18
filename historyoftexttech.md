@@ -18,7 +18,7 @@ What's this class about
 
 ## Aknowledgements 
 
-I would like to thank Jordan Kraemer, Kathryn, Eugenia Zuroski, Emma Zuroski, Corinne Cath-Speth, Hined A. Rafeh, Jaclyn (@j_nfoster), Blair Stein, David Krankauer, Emily Yates-Doerr, Michael, Bacon, and @praymurray. Many of these folks responded to a request for text recommendations. I am also inspired daily by the work of Dania Glabau. And my brother, Christopher, a practicing artist and media archaeologist, has referred to me to a number of important works over the years.
+I would like to thank Jordan Kraemer, Kathryn, Eugenia Zuroski, Emma Zuroski, Corinne Cath-Speth, Hined A. Rafeh, Jaclyn (@j_nfoster), Blair Stein, David Krankauer, Emily Yates-Doerr, Michael, Bacon, and @praymurray. Many of these folks responded to a request for text recommendations. I am also inspired daily by the work of Dania Glabau. And my brother, Christopher Ottinger, a practicing artist and media archaeologist, has referred to me to a number of important works over the years.
 
 ## Community Agreements
 
