@@ -24,7 +24,7 @@ I would like to thank Jordan Kraemer, Kathryn, Eugenia Zuroski, Emma Zuroski, Co
 
 ### Think before acting
 
-- Employ anti-violent, inclusive communication (think about connotations of language, e.g. “This movie is lame!”) 
+- Employ anti-violent, inclusive communication (think about connotations of language, e.g. "lame" is often used as a pejorative adjective. Who would likely find this usage hurtful?) 
 
 - Avoid speaking over one another
 
