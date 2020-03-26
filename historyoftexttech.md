@@ -24,6 +24,16 @@ This course is an asynchronous online class (i.e. there are regularly scheduled 
 
 ## Course Outcomes 
 
+The Learning Outcomes for this class are the same as the course outcomes for the department. However, to make sense of these outcomes in the context of a History of Text Technologies, each outcomes will require a little qualification. Briefly, each outcome is qualified on this page. In addition, every assignment in this course corresponds with one or more Learning Outcome. In each module/assignment, the corresponding Learning Outcomes will be qualified further to fit the task at hand.
+
+### 1. EXPLAIN KEY CONCEPTS IN COMPUTING: This outcome focuses your ability to explain key concepts in computing, media production, and internet-enabled communication.
+
+Throughout the term, there will be key concepts introduced, pertaining either to the history of text technologies, the study of text technologies, or the text technologies themselves. Oftentimes, students will find these key concepts designated by a DEFINITION page. However, new concepts are introduced throughout the modules, often with links to external guides or source materials.
+
+### 2. EVALUATE RESEARCH SOURCES & DIGITAL TOOLS: This outcome focuses on your ability to evaluate the relative strengths and weaknesses of research sources, digital tools, interfaces, and technologies. 
+
+Students will encounter a number of critics, historians, and theorists throughout the term, and will have opportunities to compare, contrast, and synthesize these theories and outlooks. In addition, students will have the opportunity to compare "old" and "new" technologies for an audience of their choice (Module 2). Last, throughout the term, students will compare and contrast technological aids to reading and writing, from pen and paper to optical character recognition software.
+
 ## Aknowledgements 
 
 I would like to thank Jordan Kraemer, Kathryn Nogue, Eugenia Zuroski, Emma Zuroski, Corinne Cath-Speth, Hined A. Rafeh, Jaclyn (@j_nfoster), Blair Stein, David Krankauer, Emily Yates-Doerr, Michael, Bacon, Kevin MacDonnell, and @praymurray. Many of these folks amplified or responded to a request for text recommendations. I am also inspired daily by the work of Dania Glabau. And for years, my brother, Christopher Ottinger, a practicing artist and media archaeologist, has referred me to pertinent works of art and criticism, in addition to entertaining my many questions.
