@@ -24,7 +24,6 @@ This course is an asynchronous online class (i.e. there are regularly scheduled 
 
 I would like to thank Jordan Kraemer, Kathryn Nogue, Eugenia Zuroski, Emma Zuroski, Corinne Cath-Speth, Hined A. Rafeh, Jaclyn (@j_nfoster), Blair Stein, David Krankauer, Emily Yates-Doerr, Michael, Bacon, Kevin MacDonnell, and @praymurray. Many of these folks amplified or responded to a request for text recommendations. I am also inspired daily by the work of Dania Glabau. And for years, my brother, Christopher Ottinger, a practicing artist and media archaeologist, has referred me to pertinent works of art and criticism, in addition to entertaining my many questions.
 
-![an image of the course modules with short descriptions](coursemapHOTT2.png)
 
 ## Course Outcomes 
 
@@ -79,9 +78,31 @@ At various touchstones throughout the term will be punctuated by reflective writ
 
 ## Assignments and Grading 
 
-
+![an image of the course modules with short descriptions](coursemapHOTT2.png)
 
 ### Short and Major Assignments
+
+#### Short Assignments (10 points ea. / 35% total)
+
+
+
+#### Major Assignments (100 points / 45% total
+
+- Major Assignment 1 
+
+- Major Assignment 2 
+
+- Major Assignment 3 
+
+##### Discussion Boards (10 points ea. / 10% total)
+
+##### Timeline (5 points ea. / 5% total) 
+
+##### Reflections (10 points ea. / 5% total)
+
+Following major assignment sequences 2 and 3, students will submit reflective essays. These reflective essays are intended to be meditations on your writing and grading process and decisions. They demonstrate an understanding of the outcomes fulfilled. Additionally, students will reflect on how the skills acquired in class will apply outside of class.
+
+
 
 ### Grade Breakdown 
 
