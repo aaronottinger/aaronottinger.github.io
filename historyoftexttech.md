@@ -34,6 +34,22 @@ Throughout the term, there will be key concepts introduced, pertaining either to
 
 Students will encounter a number of critics, historians, and theorists throughout the term, and will have opportunities to compare, contrast, and synthesize these theories and outlooks. In addition, students will have the opportunity to compare "old" and "new" technologies for an audience of their choice (Module 2). Last, throughout the term, students will compare and contrast technological aids to reading and writing, from pen and paper to optical character recognition software.
 
+### 3. ANALYZE TECHNOLOGY USING INTERDISCIPLINARY THEORIES & METHODS: This outcome focuses on your ability to analyze new and emerging media using interdisciplinary theories and methods. 
+
+Students will analyze ancient, modern, and digital technologies using frameworks provided by a variety of theorists and critics. Students will also employ a variety of methodologies, from hands-on exploration to "distant reading."
+
+### 4. EXAMINE TECHNOLOGICALLY MEDIATED IDENTITIES: This outcome focuses on your ability to examine how technology changes sense of self and transforms ideologies of gender, nationality, ethnicity, sexuality, and social class. 
+
+One of the fundamental questions of this class is: Who is included and excluded from the history of text technologies? While we will sometimes think of the technological mediation of humans, more generally, we will also consider the differences between technological innovation around the globe and its positive and negative consequences for women, people of color, and disabled communities.
+
+### 5. DESIGN MULTIMODAL PROJECTS: This outcome focuses on your ability to design socially responsible multimodal projects using digital rhetoric and audience engagement strategies. 
+
+Students will write traditional, college-level research papers, but they will also create multimodal projects involving video, text, and data visualization.
+
+### 6. REFLECTION: This outcome focuses on your ability to reflect upon your own work, roles, values, and identities related to digital culture and engagement with social justice issues.
+
+At various touchstones throughout the term will be punctuated by reflective writing. Rather than ask students to wait until the end of the course to share their personal thoughts and feelings, reflections will be incorporated into each module.
+
 ## Aknowledgements 
 
 I would like to thank Jordan Kraemer, Kathryn Nogue, Eugenia Zuroski, Emma Zuroski, Corinne Cath-Speth, Hined A. Rafeh, Jaclyn (@j_nfoster), Blair Stein, David Krankauer, Emily Yates-Doerr, Michael, Bacon, Kevin MacDonnell, and @praymurray. Many of these folks amplified or responded to a request for text recommendations. I am also inspired daily by the work of Dania Glabau. And for years, my brother, Christopher Ottinger, a practicing artist and media archaeologist, has referred me to pertinent works of art and criticism, in addition to entertaining my many questions.
