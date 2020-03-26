@@ -195,11 +195,13 @@ All assignments from teh second four weeks of the quarter will be due no later t
 | Module 1 | Ancient Reading and Writing Technologies |  |
 | Week 2: Orality and Writing Before the Greek Alphabet | 1. Text | 2 Discussion Board Assignments, Short Assignment 1 |
 | Week 3: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
+| Module 2 | The Gutenburg Galaxy |  |
 | Week 4: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
 | Week 5: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
 | Week 6: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
+| Module 3 | Text Technologies in the Digital Age |  |
 | Week 7: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
 | Week 8: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
 | Week 9: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
-| FINALS WEEK | 1. Text | 2 Discussion Board Assignments |
+| FINALS WEEK | No new texts | Major Assignment 3  |
 
