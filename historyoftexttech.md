@@ -134,7 +134,7 @@ During lectures and discussions, we may need things said again or slowed down. Y
 
 If someone looks like they are not doing well, ask them, “Are you okay?” Let’s not ignore one another. Let’s not let anyone go unnoticed—unless, of course, someone expresses that they would like to be left alone. Then leave them alone.
 
-6. In light of the corona virus: Stay home, wash your hands frequently, and don't touch your face: 
+6. In light of the coronavirus: Stay home, wash your hands frequently, and don't touch your face: 
 
 While we are trying to proceed as noraml, there is nothing normal about a pandemic, and everyone is encouraged to follow state guidelines and to take necessary precautions. Please visit [the CDC's website regarding the Coronavirus disease (covid-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
