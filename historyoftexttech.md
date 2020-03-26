@@ -227,9 +227,11 @@ Assignments should be submitted at the designated due date/time. If a student re
 
 #### Extended Extensions
 
-All assignments from the first four weeks of the quarter will be due no later than the start of week 5. Exceptions will require additional permission.  
+All assignments from the first four weeks of the quarter will be due no later than the start of week 5. This hard deadline will be automated. Exceptions will require additional permission.  
 
-All assignments from teh second four weeks of the quarter will be due no later than the start of week 9. Exceptions will require additional permission. 
+All assignments from teh second four weeks of the quarter will be due no later than the start of week 9. This hard deadline will be automated. Exceptions will require additional permission.
+
+
 
 ![an image of ancient Greek texts on stone](ancient-greek-panel-text-691245.jpg)
 
