@@ -80,23 +80,28 @@ At various touchstones throughout the term will be punctuated by reflective writ
 
 ![an image of the course modules with short descriptions](coursemapHOTT2.png)
 
-### Short and Major Assignments
+##### DISUCSSION (10 points ea. / 10% total)
 
-#### Short Assignments (10 points ea. / 35% total)
+##### TIMELINE (5 points ea. / 5% total) 
 
 
+#### SHORT ASSIGNMENTS (10 points ea. / 35% total)
 
-#### Major Assignments (100 points / 45% total
+Short Assignments are designed to help students get a jumpstart on Major Assignments. They are smaller in scope and lower in stakes. They also allow students to receive feedback before reaching a more critical or decisive point within their research and work. 
 
-- Major Assignment 1 
+#### MAJOR ASSIGNMENTS (100 points / 45% total
 
-- Major Assignment 2 
+Major assignments wrap up each module. They synthesize what has been read and discussed for each module, and so they tend to cover 2-3 weeks worth of materials. 
 
-- Major Assignment 3 
+- Major Assignment 1: The Psychodynamics of Early Writing Technology
 
-##### Discussion Boards (10 points ea. / 10% total)
+Major assignment one is a traditional college-level essay. Following our first example of Rousseau's Discourse on Inequality, students select a form of early lexigraphic writing from one of the five times/regions examined and meditates on how this particular form of writing might have determined the epistemic state of a particular community in history. As a somewhat speculative endeavor, students are encouraged to use their imagination, while at the same time grounding their claims in the practical and theoretical research discussed in class. 
 
-##### Timeline (5 points ea. / 5% total) 
+- Major Assignment 2: The Inclusion and Exclusion of Modern Text Technologies
+
+- Major Assignment 3: Reading, Writing, Thinking, Feeling: Text Technologies in an Algorithmic Culture
+
+
 
 ##### Reflections (10 points ea. / 5% total)
 
