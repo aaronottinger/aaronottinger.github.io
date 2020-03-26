@@ -141,50 +141,47 @@ While we are trying to proceed as noraml, there is nothing normal about a pandem
 
 ## University Resources
 
-CANVAS HELP (Links to an external site.)
+[CANVAS and DIGITAL LEARNING HELP](https://www.seattleu.edu/cdlihelp/?redirect=true)
 
-LIBRARY AND LEARNING COMMONS (Links to an external site.)
+[LIBRARY and LEARNING COMMONS](https://www.seattleu.edu//learningcommons/)
 
-WRITING CENTER (Links to an external site.)
+[WRITING CENTER](https://www.seattleu.edu/writingcenter/)
 
-LEARNING ASSISTANCE PROGRAMS (Links to an external site.)
+[LEARNING ASSISTANCE PROGRAMS](https://www.seattleu.edu/learning-assistance/)
 
-ACADEMIC INTEGRITY TUTORIAL (Links to an external site.)
+[ACADEMIC INTEGRITY TUTORIAL](https://www.seattleu.edu/academic-integrity/?redirect=true)
 
 The following policies govern this course and comply with Seattle University policies.
-Support for Students With Disabilities
+
+## Support for Students With Disabilities
 
 If you have, or think you may have, a disability (including an “invisible disability” such as a learning disability, a chronic health problem, or a mental health condition) that interferes with your performance as a student in this class, you are encouraged to arrange support services and/or accommodations through Disabilities Services staff located in Loyola 100, (206) 296- 5740. Disability-based adjustments to course expectations can be arranged only through this process. 
 
-DISABILITY SERVICES (Links to an external site.)
-Academic Policies from the SU Registrar
+[DISABILITY SERVICES](https://www.seattleu.edu/disability-services/)
 
-Be sure that you understand the following university academic policies, posted on the Registrar’s website:
+## Academic Policies from the SU Registrar
 
-    ACADEMIC INTEGRITY POLICY
-    ACADEMIC GRADING GRIEVANCE POLICY 
-    Policy on Religious Accommodations for Students (Links to an external site.)
+Be sure that you understand the appropriate university academic policies, posted on the Registrar’s website:
 
-https://www.seattleu.edu/registrar/academics/performance/ (Links to an external site.) (Links to an external site.) 
-Incomplete Grades
+   [SU's Academic Policies](https://www.seattleu.edu/redhawk-service-center/academic-policies/)
+    
+### Incomplete Grades
 
 If you are unable to complete course requirements because of extenuating circumstances, please notify the instructor on or before the date the assignment is due and provide relevant supporting documentation (e.g. doctor’s note, note from counselor).
 
-An agreement to receive an Incomplete (I) grade may be negotiated if your circumstances do not allow you to finish the course on time. The Incomplete Removal Policy of the university is available on the Office of the Registrar web site: https://www.seattleu.edu/registrar/Policies.aspx (Links to an external site.) (Links to an external site.) 
-Assignment Deadlines and Extensions
+An agreement to receive an Incomplete (I) grade may be negotiated if your circumstances do not allow you to finish the course on time. The Incomplete Removal Policy of the university is available on the Office of the [Registrar web site](https://www.seattleu.edu/registrar/Policies.aspx). 
 
-Assignment deadlines are visible on both the Course Syllabus and the Assignment List (as well as the individual Assignment pages themselves). You can always find links to those two pages in the left sidebar of the course. If an emergency arises, please contact me. Extensions are not a given. They must be granted.  
+## Course Policies
 
-Due to the nature of the work, and the online structure of the course materials, assignment deadlines will be automatically enforced. Generally, there will be no extensions to the assignment deadlines, primarily because falling behind on work in this course makes it exponentially more difficult to complete the course successfully.
+### Assignment Deadlines and Extensions
 
-Because our face to face sessions are limited, missing class sessions can have a negative impact on your learning experience, and that of your colleagues.  If you feel you must miss a session, and you know beforehand, you will need to consult with me, schedule a 30 minute 1 on 1, and demonstrate prior completion of coursework.  
+Assignments should be submitted at the designated due date/time. If a student requies an extension, they should request one from the instructor 24 hours in advance. 
 
-If an emergency arises, please alert me as soon as you can to schedule a meeting to explore next steps.  My goal is for you to succeed, so please communicate with me.
+#### Extended Extensions
 
-An agreement to receive an Incomplete (I) grade may be negotiated if your circumstances do not allow you to finish the course on time. The Incomplete Removal Policy of the university is available on the Office of the Registrar web site: https://www.seattleu.edu/registrar/Policies.aspx 
-Student Responsibilities for Learning
+All assignments from the first four weeks of the quarter will be due no later than the start of week 5. Exceptions will require additional permission.  
 
-You are expected to budget 10 hours per week for this course. Most of the time, this will be adequate time to complete all of the requirements for each week. However, given the nature of the material in these courses, it is likely that some weeks will be more time-consuming than others due to complexity of concepts. Please communicate openly with your instructor about how the course is going and let your instructor know if you are regularly spending a lot more time to complete work. Additional tutoring or other assistance may be available depending on the nature of the issue. You are also encouraged to review the calendar at the beginning of the quarter to flag any weeks that seem to you to be especially full or challenging.
+All assignments from teh second four weeks of the quarter will be due no later than the start of week 9. Exceptions will require additional permission. 
 
 ![an image of ancient Greek texts on stone](ancient-greek-panel-text-691245.jpg)
 
@@ -198,3 +195,11 @@ You are expected to budget 10 hours per week for this course. Most of the time, 
 | Module 1 | Ancient Reading and Writing Technologies |  |
 | Week 2: Orality and Writing Before the Greek Alphabet | 1. Text | 2 Discussion Board Assignments, Short Assignment 1 |
 | Week 3: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
+| Week 4: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
+| Week 5: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
+| Week 6: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
+| Week 7: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
+| Week 8: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
+| Week 9: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
+| FINALS WEEK | 1. Text | 2 Discussion Board Assignments |
+
