@@ -6,9 +6,9 @@
 
 **Email:** aottinger@seattleu.edu
 
-**Office:** Harding 240
+**Office:** Online
 
-**Office Hours:** Mondays 4:30-5:30
+**Office Hours:** Mondays 4:30-5:30 or by appointment
 
 ## Course Overview 
 
