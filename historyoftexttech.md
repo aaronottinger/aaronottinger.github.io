@@ -20,7 +20,7 @@ To assist us in all of the aforementioned questions, this class combines histori
 
 This course is an asynchronous online class (i.e. there are regularly scheduled class meetings). Students should expect to spend roughly 10-12 hours per week reading and preparing homework assignments. The course is organized into three modules, each consisting of readings (Text, Context, and Theory), discussion boards, an ongoing collaborative timeline assignment, plus a short assignment that develops into a major assignment. Major assignments will incorporate an array of modes and genres, including a research paper, a video presentation, and a multimodal research paper on the present state of digital reading tools. At least twice throughout the term, students will meet individually with the instructor via an online conferencing platform (Zoom). The final major assignment and final reflection will be due during finals week, but there will be no final exam. 
 
-## Aknowledgements 
+> ## Aknowledgements 
 
 I would like to thank Jordan Kraemer, Kathryn Nogue, Eugenia Zuroski, Emma Zuroski, Corinne Cath-Speth, Hined A. Rafeh, Jaclyn (@j_nfoster), Blair Stein, David Krankauer, Emily Yates-Doerr, Michael, Bacon, Kevin MacDonnell, and @praymurray. Many of these folks amplified or responded to a request for text recommendations. I am also inspired daily by the work of Dania Glabau. And for years, my brother, Christopher Ottinger, a practicing artist and media archaeologist, has referred me to pertinent works of art and criticism, in addition to entertaining my many questions.
 
