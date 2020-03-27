@@ -112,7 +112,9 @@ This course will be fully online, therefore you will need access to an up-to-dat
 
 It is essential that you have a reliable broadband network connection available during the course. We recommend cable broadband, DSL, or for mobile devices, availability of LTE. Use of satellite broadband services or WIMAX services such as Clear may not have sufficient bandwidth to allow successful participation in this course. If you can watch Netflix or YouTube videos on high definition without lags, it is likely your broadband connection is sufficient. You should also be aware that some countries block content, such as YouTube videos. If you will be traveling to a country that may block content, please talk to me right away.
 
-Software: Most of this course will take place within the learning management system Canvas. For their final project, students will also have the opportunity to work with the R programming environment. We will download R in the early weeks of the course to address any issues before the software is required for the course. 
+### Software
+
+Most of this course will take place within the learning management system Canvas. For their final project, students will also have the opportunity to work with the R programming environment. We will download R in the early weeks of the course to address any issues before the software is required for the course. 
 
 
 
