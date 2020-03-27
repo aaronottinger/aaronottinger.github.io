@@ -155,6 +155,50 @@ If someone looks like they are not doing well, ask them, “Are you okay?” Let
 While we are trying to proceed as noraml, there is nothing normal about a pandemic, and everyone is encouraged to follow state guidelines and to take necessary precautions. Please visit [the CDC's website regarding the Coronavirus disease (covid-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
 
+## University Resources
+
+[CANVAS and DIGITAL LEARNING HELP](https://www.seattleu.edu/cdlihelp/?redirect=true)
+
+[LIBRARY and LEARNING COMMONS](https://www.seattleu.edu//learningcommons/)
+
+[WRITING CENTER](https://www.seattleu.edu/writingcenter/)
+
+[LEARNING ASSISTANCE PROGRAMS](https://www.seattleu.edu/learning-assistance/)
+
+[ACADEMIC INTEGRITY TUTORIAL](https://www.seattleu.edu/academic-integrity/?redirect=true)
+
+The following policies govern this course and comply with Seattle University policies.
+
+## Support for Students With Disabilities
+
+If you have, or think you may have, a disability (including an “invisible disability” such as a learning disability, a chronic health problem, or a mental health condition) that interferes with your performance as a student in this class, you are encouraged to arrange support services and/or accommodations through Disabilities Services staff located in Loyola 100, (206) 296- 5740. Disability-based adjustments to course expectations can be arranged only through this process. 
+
+[DISABILITY SERVICES](https://www.seattleu.edu/disability-services/)
+
+## Academic Policies from the SU Registrar
+
+Be sure that you understand the appropriate university academic policies, posted on the Registrar’s website:
+
+   [SU's Academic Policies](https://www.seattleu.edu/redhawk-service-center/academic-policies/)
+    
+### Incomplete Grades
+
+If you are unable to complete course requirements because of extenuating circumstances, please notify the instructor on or before the date the assignment is due and provide relevant supporting documentation (e.g. doctor’s note, note from counselor).
+
+An agreement to receive an Incomplete (I) grade may be negotiated if your circumstances do not allow you to finish the course on time. The Incomplete Removal Policy of the university is available on the Office of the [Registrar web site](https://www.seattleu.edu/registrar/Policies.aspx). 
+
+## Course Policies
+
+### Assignment Deadlines and Extensions
+
+Assignments should be submitted at the designated due date/time. If a student requies an extension, they should request one from the instructor 24 hours in advance. 
+
+#### Extended Extensions
+
+All assignments from the first four weeks of the quarter will be due no later than the start of week 5. This hard deadline will be automated. Exceptions will require additional permission.  
+
+All assignments from teh second four weeks of the quarter will be due no later than the start of week 9. This hard deadline will be automated. Exceptions will require additional permission.
+
 ## Assignments and Grading 
 
 This course follows a three-module sequence, with each module represented a distinct period in the history of text technologies (ancient, modern, digital). The infographic below outlines this trajectory, starting with an introductory module that asks what we mean by a history of text technologies, followed by a module on ancient reading and writing technologies, succeeded by a section on modern text technologies (from the printing press to the type writer), and concluding with a module on digital text technologies and a final reflection. Details regarding the kinds of individual assignments are below. 
@@ -217,49 +261,7 @@ Following major assignment sequences 2 and 3, students will submit reflective es
 
 
 
-## University Resources
 
-[CANVAS and DIGITAL LEARNING HELP](https://www.seattleu.edu/cdlihelp/?redirect=true)
-
-[LIBRARY and LEARNING COMMONS](https://www.seattleu.edu//learningcommons/)
-
-[WRITING CENTER](https://www.seattleu.edu/writingcenter/)
-
-[LEARNING ASSISTANCE PROGRAMS](https://www.seattleu.edu/learning-assistance/)
-
-[ACADEMIC INTEGRITY TUTORIAL](https://www.seattleu.edu/academic-integrity/?redirect=true)
-
-The following policies govern this course and comply with Seattle University policies.
-
-## Support for Students With Disabilities
-
-If you have, or think you may have, a disability (including an “invisible disability” such as a learning disability, a chronic health problem, or a mental health condition) that interferes with your performance as a student in this class, you are encouraged to arrange support services and/or accommodations through Disabilities Services staff located in Loyola 100, (206) 296- 5740. Disability-based adjustments to course expectations can be arranged only through this process. 
-
-[DISABILITY SERVICES](https://www.seattleu.edu/disability-services/)
-
-## Academic Policies from the SU Registrar
-
-Be sure that you understand the appropriate university academic policies, posted on the Registrar’s website:
-
-   [SU's Academic Policies](https://www.seattleu.edu/redhawk-service-center/academic-policies/)
-    
-### Incomplete Grades
-
-If you are unable to complete course requirements because of extenuating circumstances, please notify the instructor on or before the date the assignment is due and provide relevant supporting documentation (e.g. doctor’s note, note from counselor).
-
-An agreement to receive an Incomplete (I) grade may be negotiated if your circumstances do not allow you to finish the course on time. The Incomplete Removal Policy of the university is available on the Office of the [Registrar web site](https://www.seattleu.edu/registrar/Policies.aspx). 
-
-## Course Policies
-
-### Assignment Deadlines and Extensions
-
-Assignments should be submitted at the designated due date/time. If a student requies an extension, they should request one from the instructor 24 hours in advance. 
-
-#### Extended Extensions
-
-All assignments from the first four weeks of the quarter will be due no later than the start of week 5. This hard deadline will be automated. Exceptions will require additional permission.  
-
-All assignments from teh second four weeks of the quarter will be due no later than the start of week 9. This hard deadline will be automated. Exceptions will require additional permission.
 
 
 
