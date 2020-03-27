@@ -136,7 +136,7 @@ If you need to get up, sit down, go to the bathroom, and so forth, please do so.
 
 2. Stay home if you need to: 
 
-A litle less applicable in an online class, it's still  important to let the instructor know if you cannot attend an online meeting. You are encouraged to email the instructor ahead of time, but you do not have to reveal why. Simply stating that you are not well is enough. But if you feel like you need to explain, you are also invited to do so.      
+A little less applicable in an online class, it's still  important to let the instructor know if you cannot attend an online meeting. You are encouraged to email the instructor ahead of time, but you do not have to reveal why. Simply stating that you are not well is enough. But if you feel like you need to explain, you are also invited to do so.      
 
 3. Eat/drink if you need to: 
 
