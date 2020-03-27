@@ -76,6 +76,73 @@ At various touchstones throughout the term will be punctuated by reflective writ
 
 - Be willing to forgive
 
+
+## Communication 
+
+### Face-to-Face
+
+I am available to meet between Monday and Friday during my office hours or by appointment. I am happy to meet in the office or at a cafe on or near campus. 
+
+I can also meet "face-to-face" online via Zoom meetings. We will have face-to-face conferences twice during the term, once early on and once towards the end. These meetings will be conducted via Zoom (unless you elect to meet on Campus). 
+
+ 
+### Email
+
+Please email me any questions you have at any time. I recommend using the Canvas email tool ("Inbox" located on the far left navigation bar). But you are welcome to email me directly through the seattleu email system (Outlook). 
+
+While you may email me at any hour, I am more likely to respond to student emails from 9am-6pm, Monday through Friday. I will check email less frequently after 6pm. On the weekends, I will do my best to check and respond to email but that is also time for me to get away from the office and unplug. So beware: if you want to make sure your questions are answered, get them in by the end of the workday on Friday. 
+
+Please allow 24 hours for responses. 
+
+ 
+### Slack
+
+This class will not use a private Slack channel, but the instructor does post announcements on the #General Slack channel for the whole department. Also Slack is great for sharing news, commenting on the work of your peers, answering questions, and just staying in touch. 
+
+ 
+### Twitter
+
+I love Twitter (@AaronOttinger). I often post things that I think will be interesting for students using the hashtag #DICE3020. Nothing I post here is required and I will likely crosspost on Slack. The great thing about Twitter is that we can connect with other working professionals that might be able to help us in our discussions. Feel free to engage with me on this platform as well.
+
+## Required Tools and Software
+
+## Diversity, Growth, and Future Application
+
+I recognize and respect the diversity of races, genders, sexual identities, classes, ages, and abilities. Differences provide us with opportunities to learn new things, compare experiences, understand ourselves better, and find common ground. Differences also sometimes engender conflict. In the midst of that conflict, I ask everyone to maintain a language and an attitude of respect. 
+
+Bear in mind that some opinions and materials in this class might challenge our personal views and beliefs. But if the goal in this class is to grow cognitively and emotionally, students and the instructor are expected to question the limitations of our personal histories to make room for the personal views and experiences of others. 
+
+Last, consider that the path to emotional and intellectual growth may not be won by challenging one’s own personal beliefs and values only. To embrace new ideas, skills, and values for future use in different contexts, we must also conduct personal investigations that ask why our views are being challenged in the first place. Accordingly, it is always worth asking “Why do I feel x?”, “Why do I believe x?”, and “Why do I value x?” Ultimately, this course is not solely intended to increase our knowledge about a list of terms; more importantly, the task is to alter the fundamental ways in which we understand ourselves and our relationship to ourselves and others within a digital culture.
+
+## Self Care and Caring for Others
+
+This classroom is a place where everyone is welcome and should feel like they matter. Everyone is encouraged to advocate for themselves. Here are some items to consider:      
+
+1. Move if you need to: You know your body best. 
+
+If you need to get up, sit down, go to the bathroom, and so forth, please do so. You do not need permission.      
+
+2. Stay home if you need to: 
+
+A litle less applicable in an online class, it's still  important to let the instructor know if you cannot attend an online meeting. You are encouraged to email the instructor ahead of time, but you do not have to reveal why. Simply stating that you are not well is enough. But if you feel like you need to explain, you are also invited to do so.      
+
+3. Eat/drink if you need to: 
+
+If you need to eat or drink in class, please do so. But please try to avoid foods that are going to disrupt your neighbor’s learning. Really pungent or noisy foods might best be saved for the cafeteria. Also, be mindful of spaces (like computer labs) where food is not allowed. Feel free to take a break from these spaces if you need food or drink.       
+
+4. Speak up, slow down, repeat, stop: 
+
+During lectures and discussions, we may need things said again or slowed down. You are encouraged to ask.      
+
+5. Be aware of your classmates’ feelings: 
+
+If someone looks like they are not doing well, ask them, “Are you okay?” Let’s not ignore one another. Let’s not let anyone go unnoticed—unless, of course, someone expresses that they would like to be left alone. Then leave them alone.
+
+6. In light of the coronavirus: Stay home, wash your hands frequently, and don't touch your face: 
+
+While we are trying to proceed as noraml, there is nothing normal about a pandemic, and everyone is encouraged to follow state guidelines and to take necessary precautions. Please visit [the CDC's website regarding the Coronavirus disease (covid-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
+
+
 ## Assignments and Grading 
 
 This course follows a three-module sequence, with each module represented a distinct period in the history of text technologies (ancient, modern, digital). The infographic below outlines this trajectory, starting with an introductory module that asks what we mean by a history of text technologies, followed by a module on ancient reading and writing technologies, succeeded by a section on modern text technologies (from the printing press to the type writer), and concluding with a module on digital text technologies and a final reflection. Details regarding the kinds of individual assignments are below. 
@@ -132,70 +199,6 @@ Following major assignment sequences 2 and 3, students will submit reflective es
 | 58-59 | 0.1-0.7 | D- | 
 | 0-57 | 0.0 | F | 
 
-## Communication 
-
-### Face-to-Face
-
-I am available to meet between Monday and Friday during my office hours or by appointment. I am happy to meet in the office or at a cafe on or near campus. 
-
-I can also meet "face-to-face" online via Zoom meetings. We will have face-to-face conferences twice during the term, once early on and once towards the end. These meetings will be conducted via Zoom (unless you elect to meet on Campus). 
-
- 
-### Email
-
-Please email me any questions you have at any time. I recommend using the Canvas email tool ("Inbox" located on the far left navigation bar). But you are welcome to email me directly through the seattleu email system (Outlook). 
-
-While you may email me at any hour, I am more likely to respond to student emails from 9am-6pm, Monday through Friday. I will check email less frequently after 6pm. On the weekends, I will do my best to check and respond to email but that is also time for me to get away from the office and unplug. So beware: if you want to make sure your questions are answered, get them in by the end of the workday on Friday. 
-
-Please allow for at least 24 hours for responses. 
-
- 
-### Slack
-
-This class will not use a private Slack channel, but the instructor does post announcements on the #General Slack channel for the whole department. Also Slack is great for sharing news, commenting on the work of your peers, answering questions, and just staying in touch. 
-
- 
-### Twitter
-
-I love Twitter (@AaronOttinger). I often post things that I think will be interesting for students using the hashtag #DICE3020. Nothing I post here is required and I will likely crosspost on Slack. The great thing about Twitter is that we can connect with other working professionals that might be able to help us in our discussions. Feel free to engage with me on this platform as well.
-
-## Required Tools and Software
-
-## Diversity, Growth, and Future Application
-
-I recognize and respect the diversity of races, genders, sexual identities, classes, ages, and abilities. Differences provide us with opportunities to learn new things, compare experiences, understand ourselves better, and find common ground. Differences also sometimes engender conflict. In the midst of that conflict, I ask everyone to maintain a language and an attitude of respect. 
-
-Bear in mind that some opinions and materials in this class might challenge our personal views and beliefs. But if the goal in this class is to grow cognitively and emotionally, students and the instructor are expected to question the limitations of our personal histories to make room for the personal views and experiences of others. 
-
-Last, consider that the path to emotional and intellectual growth may not be won by challenging one’s own personal beliefs and values only. To embrace new ideas, skills, and values for future use in different contexts, we must also conduct personal investigations that ask why our views are being challenged in the first place. Accordingly, it is always worth asking “Why do I feel x?”, “Why do I believe x?”, and “Why do I value x?” Ultimately, this course is not solely intended to increase our knowledge about a list of terms; more importantly, the task is to alter the fundamental ways in which we understand ourselves and our relationship to ourselves and others within a digital culture.
-
-## Self Care and Caring for Others
-
-This classroom is a place where everyone is welcome and should feel like they matter. Everyone is encouraged to advocate for themselves. Here are some items to consider:      
-
-1. Move if you need to: You know your body best. 
-
-If you need to get up, sit down, go to the bathroom, and so forth, please do so. You do not need permission.      
-
-2. Stay home if you need to: 
-
-A litle less applicable in an online class, it's still  important to let the instructor know if you cannot attend an online meeting. You are encouraged to email the instructor ahead of time, but you do not have to reveal why. Simply stating that you are not well is enough. But if you feel like you need to explain, you are also invited to do so.      
-
-3. Eat/drink if you need to: 
-
-If you need to eat or drink in class, please do so. But please try to avoid foods that are going to disrupt your neighbor’s learning. Really pungent or noisy foods might best be saved for the cafeteria. Also, be mindful of spaces (like computer labs) where food is not allowed. Feel free to take a break from these spaces if you need food or drink.       
-
-4. Speak up, slow down, repeat, stop: 
-
-During lectures and discussions, we may need things said again or slowed down. You are encouraged to ask.      
-
-5. Be aware of your classmates’ feelings: 
-
-If someone looks like they are not doing well, ask them, “Are you okay?” Let’s not ignore one another. Let’s not let anyone go unnoticed—unless, of course, someone expresses that they would like to be left alone. Then leave them alone.
-
-6. In light of the coronavirus: Stay home, wash your hands frequently, and don't touch your face: 
-
-While we are trying to proceed as noraml, there is nothing normal about a pandemic, and everyone is encouraged to follow state guidelines and to take necessary precautions. Please visit [the CDC's website regarding the Coronavirus disease (covid-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
 
 ## University Resources
