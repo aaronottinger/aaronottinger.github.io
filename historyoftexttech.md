@@ -57,9 +57,7 @@ At various touchstones throughout the term will be punctuated by reflective writ
 
 ### Face-to-Face
 
-I am available to meet between Monday and Friday during my office hours or by appointment. I am happy to meet in the office or at a cafe on or near campus. 
-
-I can also meet "face-to-face" online via Zoom meetings. We will have face-to-face conferences twice during the term, once early on and once towards the end. These meetings will be conducted via Zoom (unless you elect to meet on Campus). 
+I am available meet "face-to-face" online via Zoom meetings. We will have face-to-face conferences twice during the term, once early on and once towards the end. These meetings will be conducted via Zoom. 
 
  
 ### Email
@@ -79,6 +77,7 @@ This class will not use a private Slack channel, but the instructor does post an
 ### Twitter
 
 I love Twitter (@AaronOttinger). I often post things that I think will be interesting for students using the hashtag #DICE3020. Nothing I post here is required and I will likely crosspost on Slack. The great thing about Twitter is that we can connect with other working professionals that might be able to help us in our discussions. Feel free to engage with me on this platform as well.
+
 
 ## Required Tools and Software
 
