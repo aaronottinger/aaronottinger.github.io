@@ -106,6 +106,16 @@ I love Twitter (@AaronOttinger). I often post things that I think will be intere
 
 ## Required Tools and Software
 
+It is recommended that you start by watching the CDLI's [Student Orientation to Distance Learning](https://www.seattleu.edu/cdli/instructional-continuity/student-orientation/).
+
+This course will be fully online, therefore you will need access to an up-to-date device that is capable of playing videos, recording videos and using a camera. If your computer is capable of playing multimedia but doesn't have a webcam, you may be able to use your mobile device to record and upload videos. 
+
+It is essential that you have a reliable broadband network connection available during the course. We recommend cable broadband, DSL, or for mobile devices, availability of LTE. Use of satellite broadband services or WIMAX services such as Clear may not have sufficient bandwidth to allow successful participation in this course. If you can watch Netflix or YouTube videos on high definition without lags, it is likely your broadband connection is sufficient. You should also be aware that some countries block content, such as YouTube videos. If you will be traveling to a country that may block content, please talk to me right away.
+
+Software: Most of this course will take place within the learning management system Canvas. For their final project, students will also have the opportunity to work with the R programming environment. We will download R in the early weeks of the course to address any issues before the software is required for the course. 
+
+
+
 ## Diversity, Growth, and Future Application
 
 I recognize and respect the diversity of races, genders, sexual identities, classes, ages, and abilities. Differences provide us with opportunities to learn new things, compare experiences, understand ourselves better, and find common ground. Differences also sometimes engender conflict. In the midst of that conflict, I ask everyone to maintain a language and an attitude of respect. 
