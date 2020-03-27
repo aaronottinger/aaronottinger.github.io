@@ -82,7 +82,7 @@ This course follows a three-module sequence, with each module represented a dist
 
 ![an image of the course modules with short descriptions](coursemapHOTT2.png)
 
-##### DISUCSSION (10 points ea. / 10% total)
+##### DISCUSSION (10 points ea. / 10% total)
 
 ##### TIMELINE (5 points ea. / 5% total) 
 
