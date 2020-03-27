@@ -27,7 +27,7 @@ This course is an asynchronous online class (i.e. there are regularly scheduled 
 
 ## Course Outcomes 
 
-The Learning Outcomes for this class are the same as the course outcomes for the department. However, to make sense of these outcomes in the context of a History of Text Technologies, each outcomes will require a little qualification. Briefly, each outcome is qualified on this page. In addition, every assignment in this course corresponds with one or more Learning Outcome. In each module/assignment, the corresponding Learning Outcomes will be qualified further to fit the task at hand.
+The Course Outcomes for this class are the same as the Learning Outcomes for the department. However, to make sense of these outcomes in the context of a History of Text Technologies, each outcome will require a little qualification. In addition, every assignment in this course corresponds with one or more Learning Outcome. In each assignment, the corresponding Learning Outcomes will be qualified further to illustrate how it fits the task at hand.
 
 ### 1. EXPLAIN KEY CONCEPTS IN COMPUTING: This outcome focuses your ability to explain key concepts in computing, media production, and internet-enabled communication.
 
@@ -82,16 +82,19 @@ This course follows a three-module sequence, with each module represented a dist
 
 ![an image of the course modules with short descriptions](coursemapHOTT2.png)
 
-##### DISCUSSION (10 points ea. / 10% total)
+#### DISCUSSION (10 points ea. / 10% total)
 
-##### TIMELINE (5 points ea. / 5% total) 
+Each week we will have 1-2 discussion board assignments. Typically, these discussion board assignments give students a chance to entertain, challenge, and demonstrate their understanding of course materials. Plus, discussion boards tie into short assignments, which in turn prepare students for major assignments. 
 
+#### TIMELINE (5 points ea. / 5% total) 
+
+Often, history books include a chronology or a timeline, which make for excellent resources. But a timeline can be deceptive. They often reinforce the idea of a linear history towards an ideal good we call "progress." They also tend to exclude much more than they include. In this class, we wil collaborate on creating our own timeline and we will reflect on their epistemological ends. 
 
 #### SHORT ASSIGNMENTS (10 points ea. / 35% total)
 
 Short Assignments are designed to help students get a jumpstart on Major Assignments. They are smaller in scope and lower in stakes. They also allow students to receive feedback before reaching a more critical or decisive point within their research and work. 
 
-#### MAJOR ASSIGNMENTS (100 points / 45% total
+#### MAJOR ASSIGNMENTS (100 points / 45% total)
 
 Major assignments wrap up each module. They synthesize what has been read and discussed for each module, and so they tend to cover 2-3 weeks worth of materials. 
 
