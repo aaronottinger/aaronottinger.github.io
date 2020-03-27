@@ -53,30 +53,6 @@ Students will write traditional, college-level research papers, but they will al
 
 At various touchstones throughout the term will be punctuated by reflective writing. Rather than ask students to wait until the end of the course to share their personal thoughts and feelings, reflections will be incorporated into each module.
 
-
-## Community Agreements
-
-### Think before acting
-
-- Employ anti-violent, inclusive communication (think about connotations of language, e.g. "lame" is often used as a pejorative adjective. Who would likely find this usage hurtful?) 
-
-- Avoid speaking over one another
-
-### Empower one another
-
-- Be okay with being questioned, but challenge and question with respect (avoid personal attacks)Offer solutions
-
-- Ask questions, encourage, and challenge one another. 
-
-### Be accountable
-
-- Be Punctual 
-
-- Be willing to apologize
-
-- Be willing to forgive
-
-
 ## Communication 
 
 ### Face-to-Face
@@ -115,6 +91,29 @@ It is essential that you have a reliable broadband network connection available 
 ### Software
 
 Most of this course will take place within the learning management system Canvas. For their final project, students will also have the opportunity to work with the R programming environment. We will download R in the early weeks of the course to address any issues before the software is required for the course. 
+
+
+## Community Agreements
+
+### Think before acting
+
+- Employ anti-violent, inclusive communication (think about connotations of language, e.g. "lame" is often used as a pejorative adjective. Who would likely find this usage hurtful?) 
+
+- Avoid speaking over one another
+
+### Empower one another
+
+- Be okay with being questioned, but challenge and question with respect (avoid personal attacks)Offer solutions
+
+- Ask questions, encourage, and challenge one another. 
+
+### Be accountable
+
+- Be Punctual 
+
+- Be willing to apologize
+
+- Be willing to forgive
 
 
 
