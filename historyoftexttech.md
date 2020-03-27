@@ -104,15 +104,14 @@ Major assignment one is a traditional college-level essay. Following our first e
 
 - Major Assignment 2: The Inclusion and Exclusion of Modern Text Technologies
 
+
 - Major Assignment 3: Reading, Writing, Thinking, Feeling: Text Technologies in an Algorithmic Culture
 
 
 
-##### Reflections (10 points ea. / 5% total)
+#### Reflections (10 points ea. / 5% total)
 
 Following major assignment sequences 2 and 3, students will submit reflective essays. These reflective essays are intended to be meditations on your writing and grading process and decisions. They demonstrate an understanding of the outcomes fulfilled. Additionally, students will reflect on how the skills acquired in class will apply outside of class.
-
-### Grade Breakdown
 
 
 
