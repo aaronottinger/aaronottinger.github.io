@@ -149,6 +149,10 @@ This course follows a three-module sequence, with each module represented a dist
 
 ![an image of the course modules with short descriptions](coursemapHOTT2.png)
 
+#### CONFERENCES (2.5 points ea. / 5% total)
+
+Each student will meet with the instructor twice for online, one-on-one conferences. These conferences will take place between weeks 2 & 3 and weeks 7 & 8 (given the nine week term). 
+
 #### DISCUSSION (10 points ea. / 10% total)
 
 Each week we will have 1-2 discussion board assignments. Typically, these discussion board assignments give students a chance to entertain, challenge, and demonstrate their understanding of course materials. Plus, discussion boards tie into short assignments, which in turn prepare students for major assignments. 
@@ -157,7 +161,7 @@ Each week we will have 1-2 discussion board assignments. Typically, these discus
 
 Often, history books include a chronology or a timeline, which make for excellent resources. But a timeline can be deceptive. They often reinforce the idea of a linear history towards an ideal good we call "progress." They also tend to exclude much more than they include. In this class, we wil collaborate on creating our own timeline and we will reflect on their epistemological ends. 
 
-#### SHORT ASSIGNMENTS (10 points ea. / 35% total)
+#### SHORT ASSIGNMENTS (20 points ea. / 30% total)
 
 Short Assignments are designed to help students get a jumpstart on Major Assignments. They are smaller in scope and lower in stakes. They also allow students to receive feedback before reaching a more critical or decisive point within their research and work. 
 
