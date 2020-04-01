@@ -225,19 +225,20 @@ Major assignments wrap up each module. They synthesize what has been read and di
 
 - Major Assignment 1: The Psychodynamics of Early Writing Technology
 
-Major assignment one is a traditional college-level essay. Following our first example of Rousseau's Discourse on Inequality, students select a form of early lexigraphic writing from one of the five times/regions examined and meditates on how this particular form of writing might have determined the epistemic state of a particular community in history. As a somewhat speculative endeavor, students are encouraged to use their imagination, while at the same time grounding their claims in the practical and theoretical research discussed in class. 
+Major assignment 1 is a traditional college-level essay. Following our first example of Rousseau's Discourse on Inequality, students select a form of early lexigraphic writing from one of the five times/regions examined and meditates on how this particular form of writing might have determined the epistemic state of a particular community in history. As a somewhat speculative endeavor, students are encouraged to use their imagination, while at the same time grounding their claims in the practical and theoretical research discussed in class.
 
 - Major Assignment 2: The Inclusion and Exclusion of Modern Text Technologies
 
+Major assignment 2 is a multimodal project, part video and part historical analysis/reflection. For this module, students will select a text technology of their choosing, from the early modern period through the nineteenth and early twentieth centuries. They will investigate how this object differs from its present-day iteration, if applicable, with particular focus on the way the object included and/or excluded particular audiences. Students will reflect on how, ultimately, this text technology, by virtue of who it included or excluded, shaped values, beliefs, and or world views.
 
 - Major Assignment 3: Reading, Writing, Thinking, Feeling: Text Technologies in an Algorithmic Culture
 
+In the third module, students explore how text technologies start to reflect traits often associated with cognition and feeling, such as machine-to-machine communication, as well as certain affects, like surprise. A major component of the rise of cognizant texts is their ability to "read" and "write." Students will have the option to write an essay about "distant reading" or "algorithmic poetry."
 
 
 #### Reflections (10 points ea. / 5% total)
 
-Following major assignment sequences 2 and 3, students will submit reflective essays. These reflective essays are intended to be meditations on your writing and grading process and decisions. They demonstrate an understanding of the outcomes fulfilled. Additionally, students will reflect on how the skills acquired in class will apply outside of class.
-
+Following major assignment sequences 2 and 3, students will submit reflective essays. These reflective essays demonstrate an understanding of the outcomes fulfilled. Additionally, students will reflect on how the skills acquired in class will apply outside of class. Last, students can use these reflections to discuss how they feel about their research, their findings, and how it all relates to their world and the world at large.
 
 
 ### Grade Scale 
