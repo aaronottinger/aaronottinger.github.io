@@ -233,8 +233,7 @@ Major assignment 2 is a multimodal project, part video and part historical analy
 
 - Major Assignment 3: Reading, Writing, Thinking, Feeling: Text Technologies in an Algorithmic Culture
 
-In the third module, students explore how text technologies start to reflect traits often associated with cognition and feeling, such as machine-to-machine communication, as well as certain affects, like surprise. A major component of the rise of cognizant texts is their ability to "read" and "write." Students will have the option to write an essay about "distant reading" or "algorithmic poetry."
-
+In the third module, students explore how text technologies start to reflect traits often associated with cognition and feeling, such as machine-to-machine communication, as well as certain affects, like surprise. A major component of the rise of cognizant texts is their ability to "read." After an introductory set of readings about early AI and cybernetics, to help us appreciate the way machines read students will conduct a series of experiments in text mining and analysis using R. Students will have the opportunity to analyze a text of their choice, accompanied by an essay on the significance of "distant reading," natural language processing, and the rise of cognizant texts. 
 
 #### REFLECTIONS (10 points ea. / 5% total)
 
