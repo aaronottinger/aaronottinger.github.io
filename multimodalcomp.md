@@ -14,13 +14,15 @@ A multimodal composition uses a combination of text, images, video, audio, graph
 
 ## Course Outcomes 
 
-Program Outcomes for DICE
+Program Outcomes for DICE (from the program outcomes)
     
-1. Evaluate the relative strengths and weaknesses of research sources, digital tools, technologies, interfaces, and artifacts
+II.  EVALUATE RESEARCH SOURCES & DIGITAL TOOLS: This outcome focuses on your ability to evaluate the relative strengths and weaknesses of research sources, digital tools, interfaces, and technologies. 
+
+III.  ANALYZE TECHNOLOGY USING INTERDISCIPLINARY THEORIES & METHODS: This outcome focuses on your ability to analyze new and emerging media using interdisciplinary theories and methods. 
     
-2. Analyze media, technology, and digital artifacts using interdisciplinary theories and methods
-    
-3. Design multimodal projects that demonstrate an engagement with and advocacy for social justice issues and are informed by digital rhetoric and an understanding of audience
+V.  DESIGN MULTIMODAL PROJECTS: This outcome focuses on your ability to design socially responsible multimodal projects using digital rhetoric and audience engagement strategies. 
+
+VI.  REFLECTION: This outcome focuses on your ability to reflect upon your own work, roles, values, and identities related to digital culture and engagement with social justice issues.
 
 
 ## Communication 
