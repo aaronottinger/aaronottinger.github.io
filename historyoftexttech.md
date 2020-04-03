@@ -128,27 +128,27 @@ Last, consider that the path to emotional and intellectual growth may not be won
 
 This classroom is a place where everyone is welcome and should feel like they matter. Everyone is encouraged to advocate for themselves. Here are some items to consider:      
 
-1. Move if you need to: You know your body best. 
+**1. Move if you need to: You know your body best.** 
 
 If you need to get up, sit down, go to the bathroom, and so forth, please do so. You do not need permission.      
 
-2. Stay home if you need to: 
+**2. Stay home if you need to:** 
 
 A little less applicable in an online class, it's still  important to let the instructor know if you cannot attend an online meeting. You are encouraged to email the instructor ahead of time, but you do not have to reveal why. Simply stating that you are not well is enough. But if you feel like you need to explain, you are also invited to do so.      
 
-3. Eat/drink if you need to: 
+**3. Eat/drink if you need to:** 
 
 If you need to eat or drink in class, please do so. But please try to avoid foods that are going to disrupt your neighbor’s learning. Really pungent or noisy foods might best be saved for the cafeteria. Also, be mindful of spaces (like computer labs) where food is not allowed. Feel free to take a break from these spaces if you need food or drink.       
 
-4. Speak up, slow down, repeat, stop: 
+**4. Speak up, slow down, repeat, stop:**
 
 During lectures and discussions, we may need things said again or slowed down. You are encouraged to ask.      
 
-5. Be aware of your classmates’ feelings: 
+**5. Be aware of your classmates’ feelings:** 
 
 If someone looks like they are not doing well, ask them, “Are you okay?” Let’s not ignore one another. Let’s not let anyone go unnoticed—unless, of course, someone expresses that they would like to be left alone. Then leave them alone.
 
-6. In light of the coronavirus: Stay home, wash your hands frequently, and don't touch your face: 
+**6. In light of the coronavirus: Stay home, wash your hands frequently, and don't touch your face:** 
 
 While we are trying to proceed as noraml, there is nothing normal about a pandemic, and everyone is encouraged to follow state guidelines and to take necessary precautions. Please visit [the CDC's website regarding the Coronavirus disease (covid-19)](https://www.cdc.gov/coronavirus/2019-ncov/index.html).
 
