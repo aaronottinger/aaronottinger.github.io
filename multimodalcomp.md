@@ -10,7 +10,20 @@
 
 ## Course Overview 
 
+A multimodal composition uses a combination of text, images, video, audio, graphics and interactivity in a format that allows each medium to contribute without redundancy. In this course you will explore multimodal compositions in a variety of formats, and learn to create both linear and non-linear story “packages.” The course is project-based, and each week you’ll work on one step in the development of a final project. You’ll also learn to analyze multimodal composition carefully and gain awareness of the expressive and informational strengths of each medium.
+
 ## Course Outcomes 
+
+Program Outcomes for DICE
+
+1. Become familiar with primary technological modes of production and practice using digital tools and languages
+    
+2. Evaluate the relative strengths and weaknesses of research sources, digital tools, technologies, interfaces, and artifacts
+    
+3. Analyze media, technology, and digital artifacts using interdisciplinary theories and methods
+    
+4. Design multimodal projects that demonstrate an engagement with and advocacy for social justice issues and are informed by digital rhetoric and an understanding of audience
+
 
 ## Communication 
 
