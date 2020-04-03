@@ -153,18 +153,18 @@ All assignments from the second four weeks of the quarter will be due no later t
 
 | Grade Percentage | GPA | Letter Grade |
 | ----------- | ----------- | ----------- |
-| 93-100 | 3.8-4.0 | A | 
-| 89-92 | 3.4-3.7 | A- | 
-| 86-88 | 3.1-3.3 | B+ | 
-| 83-85 | 2.8-3.0 | B | 
-| 79-82 | 2.4-2.7 | B- | 
-| 76-78 | 2.1-2.3 | C+ | 
-| 70-73 | 1.8-2.0 | C | 
-| 65-68 | 1.4-1.7 | C- | 
-| 62-64 | 1.1-1.3 | D+ | 
-| 60-61 | 0.8-1.0 | D | 
-| 58-59 | 0.1-0.7 | D- | 
-| 0-57 | 0.0 | F | 
+| 93 to 100 | 3.8 to 4.0 | A | 
+| 89 to 92 | 3.4 to 3.7 | A minus | 
+| 86 to 88 | 3.1 to 3.3 | B plus | 
+| 83 to 85 | 2.8 to 3.0 | B | 
+| 79 to 82 | 2.4 to 2.7 | B minus | 
+| 76 to 78 | 2.1 to 2.3 | C plus | 
+| 70 to 73 | 1.8 to 2.0 | C | 
+| 65 to 68 | 1.4 to 1.7 | C minus | 
+| 62 to 64 | 1.1 to 1.3 | D plus | 
+| 60 to 61 | 0.8 to 1.0 | D | 
+| 58 to 59 | 0.1 to 0.7 | D minus | 
+| 0 to 57 | 0.0 | F | 
 
 
 # Calendar
