@@ -145,6 +145,10 @@ All assignments from the first four weeks of the quarter will be due no later th
 
 All assignments from the second four weeks of the quarter will be due no later than the start of week 9. This hard deadline is automatic. Exceptions will require additional permission.
 
+### Attendance 
+
+Given that we only have five required meetings, these classes will be graded. Students who cannot attend a class must schedule a one-on-one appointment **the same week (i.e. before the next Monday)** to receive full credit for the class.
+
 ## Assignments and Grading 
 
 
