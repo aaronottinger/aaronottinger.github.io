@@ -6,5 +6,5 @@
 
 ## Are These Digital Tools Accessible? 
 
-[Accessibility and Padlet (https://padlet.com/about/accessibility)]
+![Accessibility and Padlet (https://padlet.com/about/accessibility)]
 
