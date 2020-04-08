@@ -201,7 +201,7 @@ All assignments from the second four weeks of the quarter will be due no later t
 
 This course follows a three-module sequence, with each module represented a distinct period in the history of text technologies (ancient, modern, digital). The infographic below outlines this trajectory, starting with an introductory module that asks what we mean by a history of text technologies, followed by a module on ancient reading and writing technologies, succeeded by a section on modern text technologies (from the printing press to the type writer), and concluding with a module on digital text technologies and a final reflection. Details regarding the kinds of individual assignments are below. 
 
-![an image of the course modules with short descriptions](coursemapHOTT2.png)
+![an image of the course modules with short descriptions](HOTT_coursemap3.png)
 
 #### CONFERENCES (2.5 points ea. / 5% total)
 
