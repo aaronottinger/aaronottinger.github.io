@@ -8,3 +8,4 @@
 
 [Accessibility and Padlet](https://padlet.com/about/accessibility)
 
+[Why We're Exhausted by Zoom](https://www.insidehighered.com/advice/2020/04/22/professor-explores-why-zoom-classes-deplete-her-energy-opinion)
