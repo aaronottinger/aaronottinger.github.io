@@ -275,7 +275,7 @@ Following major assignment sequences 1, 2 and 3, students will submit reflective
 | Week 2: Early Lexigraphic Writing Around the Globe | TEXT: "The Flood Tablet" or the "Epic of Gilgamesh" CONTEXT: Barry Powell, "Writing : Theory and History of the Technology of Civilization" (Chapters 3, 4, 6, 15, and 16) THEORY: Walter Ong, "Some Psychodynamics of Orality," Orality and Literacy  | 2 Discussion Board Assignments, 1 Timeline contribution, Short Assignment 1 |
 | Week 3: The Alphabet: From Egypt to Greece | TEXT: The Rosetta Stone CONTEXT: Barry Powell, "Writing : Theory and History of the Technology of Civilization" (Chapters 7, 9, 10, 17) THEORY: Walter Ong, "Writing Restructures Consciousness," Orality and Literacy | 2 Discussion Board Assignments, 1 Timeline contribution, Major Assignment 1 |
 | **Module 2** | **The Gutenburg Galaxy** |  |
-| Week 4: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
+| Week 4: The Print Revolution,  the Impressionable Mind, and the Heterogeneity of Books | TEXT: Video of the Gutenberg Press; Rene Descartes, Meditations 1 & 2; William Shakespeare, Taming of the Shrew (an excerpt) CONTEXT: Margreta De Grazia, "Imprints: Shakespeare, Gutenberg, Descartes THEORY: Walter Ong, "Print, Space, and Closure," Orality and Literacy  | 2 Discussion Board Assignments, 1 Timeline contribution|
 | Week 5: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
 | Week 6: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
 | **Module 3** | **Text Technologies in the Digital Age** |  |
