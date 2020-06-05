@@ -262,7 +262,6 @@ Following major assignment sequences 1, 2 and 3, students will submit reflective
 
 
 
-![an image of ancient Greek texts on stone](ancient-greek-panel-text-691245.jpg)
 
 
 # Calendar
