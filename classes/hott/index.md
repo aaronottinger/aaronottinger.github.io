@@ -278,7 +278,7 @@ Following major assignment sequences 1, 2 and 3, students will submit reflective
 | Week 5: The Marketplace, the Homogenization of Books, and Becoming Bibliographic Subjects, circa 1800 | TEXT: Jane Austen, Persuasion (excerpt) CONTEXT: Andrew Piper, "Introduction" and "Chapter 2: Copying," Dreaming in Books THEORY: Walter Benjamin, "The Work of Art in the Age of Mechanical Reproduction" CONTEXT: Michelle Levy, "Do Women Have a Book History?" | 2 Discussion Board Assignmnets, 1 Timeline contribution, SHORT ASSIGNMENT 2 |
 | Week 6: Writing Machines: Women and the Typewriter in Europe and China | TEXT: Victor Saville, Susie Sunshine (film excerpt) CONTEXT: Angelika Führich, "Woman and Typewriter: Gender, Technology, and Work in Late Weimar Film" THEORY: Geoffrey Winthrop-Young, "Media Theory," Kittler and the Media (66-73) CONTEXT: Thomas S. Mullaney, The Chinese Typewriter : A History (Introduction and Chapter 3: Radical Machines)  | 2 Discussion Board Assignments |
 | **Module 3** | **Text Technologies in the Digital Age** |  |
-| Week 7: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
+| Week 7: Inclusion and Exclusion in the Rise of Cognizant Texts: Alan Turing | TEXT: Alan Turing, "Computing Machinery and Intelligence" CONTEXT: THEORY: | 2 Discussion Board Assignments |
 | Week 8: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
 | Week 9: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
 | FINALS WEEK | No new texts | Major Assignment 3  |
