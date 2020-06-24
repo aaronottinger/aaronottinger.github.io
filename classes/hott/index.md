@@ -240,7 +240,7 @@ In the third module, students explore how text technologies start to reflect tra
 Following major assignment sequences 1, 2 and 3, students will submit reflective essays. These reflective essays demonstrate an understanding of the outcomes fulfilled. Additionally, students will reflect on how the skills acquired in class will apply outside of class. Last, students can use these reflections to discuss how they feel about their research, their findings, and how it all relates to their world and the world at large.
 
 
-### Grade Scale 
+### Grade Scale (screen reader friendly)
 
 | Grade Percentage | GPA | Letter Grade |
 | ----------- | ----------- | ----------- |
