@@ -279,8 +279,8 @@ Following major assignment sequences 1, 2 and 3, students will submit reflective
 | Week 6: Writing Machines: Women and the Typewriter in Europe and China | TEXT: Victor Saville, Susie Sunshine (film excerpt) CONTEXT: Angelika Führich, "Woman and Typewriter: Gender, Technology, and Work in Late Weimar Film" THEORY: Geoffrey Winthrop-Young, "Media Theory," Kittler and the Media (66-73) CONTEXT: Thomas S. Mullaney, The Chinese Typewriter : A History (Introduction and Chapter 3: Radical Machines)  | 2 Discussion Board Assignments, 1 Timeline Contribution, MAJOR ASSIGNMENT 2, Reflection: Module 2 |
 | **Module 3** | **Text Technologies in the Digital Age** |  |
 | Week 7: Inclusion and Exclusion in the Rise of Cognizant Texts: Alan Turing | TEXT: Alan Turing, "Computing Machinery and Intelligence" THEORY: Elizabeth Wilson, "The Positive Affects of Alan Turing," Affect and Artificial Intelligence CONTEXT: Arvid Nelson, "Race and Computing: The Problem of Sources, the Potential of Prosopography, and the Lesson of Ebony Magazine"  | 2 Discussion Board Assignments, 1 Timeline contribution |
-| Week 8: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
-| Week 9: Early Writing and Books Around the Globe | 1. Text | 2 Discussion Board Assignments |
-| FINALS WEEK | No new texts | Major Assignment 3  |
+| Week 8: I Sing the Body Electric: Digital Texts, Bodies, and Reading | Text: Shelley Jackson, "Patchwork Girl" CONTEXT: Belinda Barnet and Darren Tofts, "Too Dimensional: Literary and Technical Images of Potentiality in the History of Hypertext," Companion to Digital Literary Studies CONTEXT: Diane Greco, "Hypertext with Consequences: Recovering a Politics of Hypertext" THEORY: Katherine Hayles, "How We Read: Close, Hyper, Machine," How We Think  | 1 Discussion Board Assignment, 1 Timeline contribution, SHORT ASSIGNMENT 3 |
+| Week 9: Reading and Writing Machines: OCR and NLP | Text: Dan Rockmore. "What Happens When Machines Learn to Write Poetry?" The New Yorker, 7 Jan. 2020. CONTEXT: Natalie Berkman. "Digital Oulipo: Programming Potential Literature" CONTEXT: Hannah Alpert-Abrams, "Machine Reading the Primeros Libros" | 1 Discussion Board Assignment, 1 Timeline contribution, MAJOR ASSIGNMENT 3, Reflection: Module 3 |
+| FINALS WEEK | No new texts | Complete MAJOR ASSIGNMENT 3 and Reflection: Module 3 |
 
 
