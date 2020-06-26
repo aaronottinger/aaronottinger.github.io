@@ -196,4 +196,6 @@ Given that we only have five required meetings, these classes will be graded. St
 
 | Module / Week | What to Read | What to Complete |
 | ----------- | ----------- | ----------- |
-| Week 1: What is Multimodal Composition? | Texts: Shipka, Jody. Toward a Composition Made Whole. Pittsburgh: University of Pittsburgh Press, 2011. Read pages 1-13; Charles Bazerman, "Speech Acts, Genres and Activity Systems: How texts organize activity and people." Read pages, 312-28  | 1 Discussion Board, EXERCISE 1.1: What is a Multimodal Composition? What is a speech act? |
+| Week 1: What is Multimodal Composition? | Shipka, Jody. Toward a Composition Made Whole. Pittsburgh: University of Pittsburgh Press, 2011. Read pages 1-13; Charles Bazerman, "Speech Acts, Genres and Activity Systems: How texts organize activity and people." Read pages, 312-28  | 1 Discussion Board, EXERCISE 1.1: What is a Multimodal Composition? What is a speech act? |
+| Week 1: What is Multimodal Composition? | Shipka, Jody. Toward a Composition Made Whole. Pittsburgh: University of Pittsburgh Press, 2011. Read pages 1-13; Charles Bazerman, "Speech Acts, Genres and Activity Systems: How texts organize activity and people." Read pages, 312-28  | 1 Discussion Board, EXERCISE 1.1: What is a Multimodal Composition? What is a speech act? |
+
