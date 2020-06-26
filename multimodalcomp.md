@@ -18,30 +18,30 @@ Program Outcomes for DICE (from the program outcomes)
     
 I. EXPLAIN KEY CONCEPTS IN COMPUTING: This outcome focuses your ability to explain key concepts in computing, media production, and internet-enabled communication.
 
-    Throughout the course we will encounter familiar and new terms with respect to digital culture and multimodal composition. Part of succeeding in a professional domain is knowing the vocabulary and how to employ it, so it is essential that students learn terms and rehearse their usage. 
+Throughout the course we will encounter familiar and new terms with respect to digital culture and multimodal composition. Part of succeeding in a professional domain is knowing the vocabulary and how to employ it, so it is essential that students learn terms and rehearse their usage. 
 
 II. EVALUATE RESEARCH SOURCES & DIGITAL TOOLS: This outcome focuses on your ability to evaluate the relative strengths and weaknesses of research sources, digital tools, interfaces, and technologies.
 
-    Evaluate different theories of mutlimodal composition
-    Evaluate a variety of tools for multimodal composition
+Evaluate different theories of mutlimodal composition
+Evaluate a variety of tools for multimodal composition
 
 III. ANALYZE TECHNOLOGY USING INTERDISCIPLINARY THEORIES & METHODS: This outcome focuses on your ability to analyze new and emerging media using interdisciplinary theories and methods.
 
-    Use rhetorical analysis to assess how multimodal compositions exclude specific audiences and help to create new publics
+Use rhetorical analysis to assess how multimodal compositions exclude specific audiences and help to create new publics
 
 V. DESIGN MULTIMODAL PROJECTS: This outcome focuses on your ability to design socially responsible multimodal projects using digital rhetoric and audience engagement strategies.
 
-    Research and plan multimodal compositions using Cornell notes, sticky note summaries, image sketches, storyboarding, and other organizational strategies
-    Craft effective "narratives" using rhetorical strategies and appropriate mixes of media
-    Produce photographs with an awareness of composition and design conventions
-    Create a well-crafted 5-shot video sequence with live or added audio
-    Demonstrate proficiency with user-centered design principles through both flow charts of user interaction and navigation and in the final product
-    Demonstrate familiarity with site prototyping and social media planning
+Research and plan multimodal compositions using Cornell notes, sticky note summaries, image sketches, storyboarding, and other organizational strategies
+Craft effective "narratives" using rhetorical strategies and appropriate mixes of media
+Produce photographs with an awareness of composition and design conventions
+Create a well-crafted 5-shot video sequence with live or added audio
+Demonstrate proficiency with user-centered design principles through both flow charts of user interaction and navigation and in the final product
+Demonstrate familiarity with site prototyping and social media planning
 
 VI. REFLECTION: This outcome focuses on your ability to reflect upon your own work, roles, values, and identities related to digital culture and engagement with social justice issues.
 
-    Reflect on how multimodal compositions function rhetorically and how they determine publics.
-    Reflect on how multimodal composition will be applicable and effective in personal and professional settings outside the classroom.
+Reflect on how multimodal compositions function rhetorically and how they determine publics.
+Reflect on how multimodal composition will be applicable and effective in personal and professional settings outside the classroom.
 
  
 
@@ -196,4 +196,4 @@ Given that we only have five required meetings, these classes will be graded. St
 
 | Module / Week | What to Read | What to Complete |
 | ----------- | ----------- | ----------- |
-| Week 1: What is Multimodal Composition? | Texts | Assignment  |
+| Week 1: What is Multimodal Composition? | Texts: Shipka, Jody. Toward a Composition Made Whole. Pittsburgh: University of Pittsburgh Press, 2011. Read pages 1-13; Charles Bazerman, "Speech Acts, Genres and Activity Systems: How texts organize activity and people." Read pages, 312-28  | 1 Discussion Board, EXERCISE 1.1: What is a Multimodal Composition? What is a speech act? |
