@@ -89,7 +89,9 @@ Most of this course will take place within the learning management system Canvas
 
 Be present
 
-Be accountableReach out when you need help
+Be accountable
+
+Reach out when you need help
 
 Have open, honest discussions
 
