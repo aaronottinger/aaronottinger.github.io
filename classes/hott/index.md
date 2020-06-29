@@ -10,13 +10,13 @@
 
 ## Course Overview 
 
-How does a history of text technologies intertwine with the history of human consciousness? While this question might come as a surprise to some, consider that memory, a pillar of human consciousness, must change dramatically with the invention of reading and writing materials, such as the book. With the rise of books, knowledge can be passed from one generation to the next, knowledge that can be studied and re-read, activities far more difficult to achieve in a strictly oral culture. Accordingly, this class focuses on the history of reading and writing technologies, but stakes of this history are grounded in the evolution of human cognitive processes (i.e. memory, attention, decision making, creativity, and more). 
+How does a history of text technologies intertwine with the history of human consciousness? While this question might come as a surprise to some, consider that memory, a pillar of human consciousness, must change dramatically with the invention of reading and writing materials, such as the book. With the rise of books, knowledge can be passed from one generation to the next, knowledge that can be studied and re-read, activities far more difficult to achieve in a strictly oral culture. Accordingly, this class focuses on the history of reading and writing technologies, but the stakes of this history are grounded in the evolution of human cognitive processes (i.e. memory, attention, decision making, creativity, and more). 
 
-Already a complicated history, this class aims to braoden its scope by taking a global approach and evaluating who is often included in narratives of text technologies and who is often excluded. Furthermore, we will consider how we measure time in a history of text technologies: Is it linear? Cylcical? Recurssive? Is it shallow? Deep? or Really deep?? 
+Already a complicated history, this class aims to broaden its scope by taking a global approach and evaluating who is included in narratives of text technologies and who is often excluded. Furthermore, we will consider how we measure time in a history of text technologies: Is it linear? Cylcical? Recurssive? Is it shallow? Deep? or Really deep?? 
 
 To assist us in all of the aforementioned questions, this class combines historical readings of text technologies, theoretical texts, and methods in distant reading, namely, text mining and visualization. 
 
-This course is an asynchronous online class (i.e. there are regularly scheduled class meetings). Students should expect to spend roughly 10-12 hours per week reading and preparing homework assignments. The course is organized into three modules, each consisting of readings (Text, Context, and Theory), discussion boards, an ongoing collaborative timeline assignment, plus a short assignment that develops into a major assignment. Major assignments will incorporate an array of modes and genres, including a research paper, a video presentation, and a multimodal research paper on the present state of digital reading tools. At least twice throughout the term, students will meet individually with the instructor via an online conferencing platform (Zoom). The final major assignment and final reflection will be due during finals week, but there will be no final exam. 
+This course is an asynchronous online class (i.e. there are no regularly scheduled class meetings). Students should expect to spend roughly 10-12 hours per week reading and preparing homework assignments. The course is organized into three modules, each consisting of readings (Text, Context, and Theory), discussion boards, an ongoing collaborative timeline assignment, plus a short assignment that develops into a major assignment. Major assignments will incorporate an array of modes and genres, including a research paper, a video presentation, and a multimodal research paper on the present state of digital reading technology. At least twice throughout the term, students will meet individually with the instructor via an online conferencing platform (Zoom). The final major assignment and final reflection will be due during finals week. There is no final test or exam. 
 
 ## Aknowledgements 
 
@@ -41,7 +41,7 @@ Students will analyze ancient, modern, and digital technologies using frameworks
 
 ### 4. EXAMINE TECHNOLOGICALLY MEDIATED IDENTITIES: This outcome focuses on your ability to examine how technology changes sense of self and transforms ideologies of gender, nationality, ethnicity, sexuality, and social class. 
 
-One of the fundamental questions of this class is: Who is included and excluded from the history of text technologies? While we will sometimes think of the technological mediation of humans, more generally, we will also consider the differences between technological innovation around the globe and its positive and negative consequences for women, people of color, and disabled communities.
+One of the fundamental questions of this class is: Who is included and excluded from the history of text technologies? While we will sometimes think of the technological mediation of humans, more generally, we will also consider the differences between technological innovation around the globe and its positive and negative consequences for women, BIPOC, and disabled communities.
 
 ### 5. DESIGN MULTIMODAL PROJECTS: This outcome focuses on your ability to design socially responsible multimodal projects using digital rhetoric and audience engagement strategies. 
 
@@ -49,13 +49,13 @@ Students will write traditional, college-level research papers, but they will al
 
 ### 6. REFLECTION: This outcome focuses on your ability to reflect upon your own work, roles, values, and identities related to digital culture and engagement with social justice issues.
 
-At various touchstones throughout the term will be punctuated by reflective writing. Rather than ask students to wait until the end of the course to share their personal thoughts and feelings, reflections will be incorporated into each module.
+Rather than ask students to wait until the end of the course to share their personal thoughts and feelings with respect to course materials, each module will end with a reflection. Students will complete three major reflections overall. 
 
 ## Communication 
 
 ### Face-to-Face
 
-I am available meet "face-to-face" online via Zoom meetings. We will have face-to-face conferences twice during the term, once early on and once towards the end. These meetings will be conducted via Zoom. 
+I am available meet to "face-to-face" online via Zoom meetings. We will have face-to-face conferences twice during the term, once early on and once towards the end. These meetings will be conducted via Zoom. 
 
  
 ### Email
@@ -100,7 +100,9 @@ Most of this course will take place within the learning management system Canvas
 
 ### Empower one another
 
-- Be okay with being questioned, but challenge and question with respect (avoid personal attacks)Offer solutions
+- Be okay with being questioned, but challenge and question with respect (avoid personal attacks)
+
+- Offer solutions
 
 - Ask questions, encourage, and challenge one another. 
 
@@ -128,7 +130,7 @@ This classroom is a place where everyone is welcome and should feel like they ma
 
 **1. Move if you need to: You know your body best.** 
 
-If you need to get up, sit down, go to the bathroom, and so forth, please do so. You do not need permission.      
+If you need to get up, sit down, go to the bathroom, and so forth, please do so. You do not need permission. This one may be less applicable online, but it does apply to online, one-on-one conferences.
 
 **2. Stay home if you need to:** 
 
@@ -212,7 +214,7 @@ Each week we will have 1-2 discussion board assignments. Typically, these discus
 
 #### TIMELINES (5 points ea. / 5% total) 
 
-Often, history books include a chronology or a timeline, which make for excellent resources. But a timeline can be deceptive. They often reinforce the idea of a linear history towards an ideal good we call "progress." They also tend to exclude much more than they include. In this class, we wil collaborate on creating our own timeline and we will reflect on their epistemological ends. 
+Often, history books include a chronology or a timeline, which make for excellent resources. But a timeline can be deceptive. They often reinforce the idea of a linear history towards an ideal good we call "progress." They also tend to exclude much more than they include. In this class, we will collaborate on creating our own timeline and we will reflect on its epistemological end. 
 
 #### SHORT ASSIGNMENTS (20 points ea. / 30% total)
 
@@ -224,15 +226,15 @@ Major assignments wrap up each module. They synthesize what has been read and di
 
 - Major Assignment 1: The Psychodynamics of Early Writing Technology
 
-Major assignment 1 is a traditional college-level essay. Following our first example of Rousseau's Discourse on Inequality, students select a form of early lexigraphic writing from one of the five times/regions examined and meditates on how this particular form of writing might have determined the epistemic state of a particular community in history. As a somewhat speculative endeavor, students are encouraged to use their imagination, while at the same time grounding their claims in the practical and theoretical research discussed in class.
+Major assignment 1 is a traditional college-level essay. Following our first example of Rousseau's Discourse on Inequality, students select a form of early lexigraphic writing from one of the five times/regions examined and meditate on how this particular form of writing might have determined (in part) the epistemic state of a particular community in history. As a somewhat speculative endeavor, students are encouraged to use their imagination, while at the same time grounding their claims in the historical and theoretical research discussed in class.
 
-- Major Assignment 2: The Inclusion and Exclusion of Modern Text Technologies
+- Major Assignment 2: The Shock of the Old
 
-Major assignment 2 is a multimodal project, part video and part historical analysis/reflection. For this module, students will select a text technology of their choosing, from the early modern period through the nineteenth and early twentieth centuries. They will investigate how this object differs from its present-day iteration, if applicable, with particular focus on the way the object included and/or excluded particular audiences. Students will reflect on how, ultimately, this text technology, by virtue of who it included or excluded, shaped values, beliefs, and or world views.
+Major assignment 2 is a multimodal project, part video and part historical analysis/reflection. For this module, students will select a text technology of their choosing, from the early modern period through the nineteenth and early twentieth centuries. They will investigate how this object differs from its present-day iteration, if applicable, with particular focus on the way the object included and/or excluded particular audiences. Students will reflect on how this text technology, by virtue of who it included or excluded, shaped values, beliefs, and or world views.
 
-- Major Assignment 3: Reading, Writing, Thinking, Feeling: Text Technologies in an Algorithmic Culture
+- Major Assignment 3: Hyper Reading in Context
 
-In the third module, students explore how text technologies start to reflect traits often associated with cognition and feeling, such as machine-to-machine communication, as well as certain affects, like surprise. A major component of the rise of cognizant texts is their ability to "read." After an introductory set of readings about early AI and cybernetics, to help us appreciate the way machines read students will conduct a series of experiments in text mining and analysis using R. Students will have the opportunity to analyze a text of their choice, accompanied by an essay on the significance of "distant reading," natural language processing, and the rise of cognizant texts. 
+In the third module, students will conclude by asking: How does hyper, distant, or machine-assisted reading compare to the print technologies of the past. How does it affect how we read and thus how we think? Last, we want to know if this kind of reading is more inclusive or if it merely introduces an old form of exclusion dressed in digital clothes.
 
 #### REFLECTIONS (10 points ea. / 5% total)
 
@@ -255,12 +257,6 @@ Following major assignment sequences 1, 2 and 3, students will submit reflective
 | between 60 and 61 | between 0.8 and 1.0 | D | 
 | between 58 and 59 | between 0.1 and 0.7 | D minus | 
 | between 0 and 57 | 0.0 | F | 
-
-
-
-
-
-
 
 
 # Calendar
