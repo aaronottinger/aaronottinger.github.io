@@ -12,7 +12,7 @@
 
 How does a history of text technologies intertwine with the history of human consciousness? While this question might come as a surprise to some, consider that memory, a pillar of human consciousness, must change dramatically with the invention of reading and writing materials, such as the book. With the rise of books, knowledge can be passed from one generation to the next, knowledge that can be studied and re-read, activities far more difficult to achieve in a strictly oral culture. Accordingly, this class focuses on the history of reading and writing technologies, but the stakes of this history are grounded in the evolution of human cognitive processes (i.e. memory, attention, decision making, creativity, and more). 
 
-Already a complicated history, this class aims to broaden its scope by taking a global approach and evaluating who is included in narratives of text technologies and who is often excluded. Furthermore, we will consider how we measure time in a history of text technologies: Is it linear? Cylcical? Recurssive? Is it shallow? Deep? or Really deep?? 
+Already a complicated history, this class aims to broaden its scope by taking a global approach and evaluating who is included in narratives of text technologies and who is often excluded. Furthermore, we will consider how we measure time in a history of text technologies: Is it linear? Cylcical? Is it shallow? Deep? or really deep??? 
 
 To assist us in all of the aforementioned questions, this class combines historical readings of text technologies, theoretical texts, and methods in distant reading, namely, text mining and visualization. 
 
