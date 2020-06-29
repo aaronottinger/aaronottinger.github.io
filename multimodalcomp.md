@@ -83,7 +83,29 @@ It is essential that you have a reliable broadband network connection available 
 
 Most of this course will take place within the learning management system Canvas.
 
-## Community Agreements
+## Community Agreements (student generated)
+
+### Communication
+
+Be present
+
+Be accountableReach out when you need help
+
+Have open, honest discussions
+
+When speaking, be mindful of others (Try: Not raising your hand until others do; don’t raise your hand/speak every time; limit your comments to 1 minute, 2 minutes at most; give credit to others--by name--when you use their ideas; invite others to share, especially those who rarely speak)
+
+If you can’t respond to an email fully, just respond enough
+
+Avoid passive aggressive responses, address individuals directly *when* an issue arises
+
+### Support 
+
+We all belong here regardless of where we come from
+
+Encourage one another (for fresh, new ideas)
+
+Be empathetic (two way sympathy)
 
 ## Diversity, Growth, and Future Application
 
