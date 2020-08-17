@@ -1,14 +1,14 @@
 # DICE 4020: Global Digital Cultures
 
-**Autumn 2020
+**Autumn 2020**
 
-**Online: Asynchronous
+**Online:** Asynchronous
 
-**Instructor: Dr. Aaron Ottinger
+**Instructor:** Dr. Aaron Ottinger
 
-**Email: aottinger@seattleu.edu
+**Email:** aottinger@seattleu.edu
 
-**Office: By Appointment
+**Office:** By Appointment
 
 ## Course Overview
 
