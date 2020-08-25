@@ -10,9 +10,13 @@
 
 ## Course Overview 
 
-There is a wonderful Buggs Bunny cartoon where he is being chased by Elmer Fudd, as is typical, but there are hats that have spilled out of a truck and keep falling from the sky, landing on the heads of Buggs and Elmer Fudd, and with each new hat, they assume a new personality. 
+In "Bugs' Bonnets" (1956), Elmer Fudd is chasing Bugs Bunny, as is typical, but there are hats that have spilled out of a truck and keep falling from the sky, landing on the heads of Buggs and Elmer Fudd, and with each new hat, they assume a new personality. The epison opens a little psychological lesson about the effect that clothes have on one's identity: "It is a well-known psychological fact that peoples' behavior is strongly affected by the way they dress."
 
 ![an image of a man whose clothes are being changed](mildmanneredman.png)
+
+As the cartoon unfolds, it becomes clear that power dynamics can also change as one's identity is transformed. 
+
+![an image of a man whose clothes are being changed](bugs_as_judge.png)
 
 
 ## Aknowledgements 
