@@ -12,11 +12,17 @@
 
 In "Bugs' Bonnets" (1956), Elmer Fudd is chasing Bugs Bunny, as is typical, but there are hats that have spilled out of a truck and keep falling from the sky, landing on the heads of Buggs and Elmer Fudd, and with each new hat, they assume a new personality. The epison opens a little psychological lesson about the effect that clothes have on one's identity: "It is a well-known psychological fact that peoples' behavior is strongly affected by the way they dress."
 
-![an image of a man whose clothes are being changed](mildmanneredman.png)
+![a man whose clothes are in the process of being changed](mildmanneredman.png)
 
 As the cartoon unfolds, it becomes clear that power dynamics can also change as one's identity is transformed. 
 
-![an image of a man whose clothes are being changed](bugs_as_judge.png)
+![Bugs Bunny wearing a judge's wig and Elmer Fudd wearing a police officer's hat](bugs_as_judge.png)
+
+If we were to pursue this analysis, we might explore the ways that these costumes draw on stereotypes for their power (as when Bugs wears the hair and feathers intended to represent a Native American) and thereby uphold systems of oppression based on racist system. 
+
+While it might seem that with the digital age we are past all of the above, as it turns out, rather than dismantling the above scenarios, the internet has to a large extent merely recoded them. Indeed, people from marginalized groups might be able to upset present-day power dynamics in carnivaliesque acts of masquerade online. But more often than not, the internet, including social media, search engines, video games, and data bases are often used to reinforce white supremacy and systemic racisim. In part, this class explores how the supposed liberation that digital technology was supposed to bring about merely transformed forms of oppression inherited from the age before, in what Ruha Benjamin calls "the New Jim Code."
+
+
 
 
 ## Aknowledgements 
