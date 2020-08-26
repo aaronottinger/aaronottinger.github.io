@@ -31,7 +31,7 @@ Last, students will investigate digital identities in terms of the digital citiz
 
 ## Aknowledgements 
 
->I would like to thank Elena Chernock for our endless conversations about identity, race, and politics, online and offline. 
+>I would like to thank Paul Barrett for recommending "I May Destroy You" and Elena Chernock for our endless conversations about identity, race, and politics, online and offline. 
 
 
 ## Course Outcomes 
