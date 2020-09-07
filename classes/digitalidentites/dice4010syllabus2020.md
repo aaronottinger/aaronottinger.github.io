@@ -275,7 +275,7 @@ Following major assignment sequences 1, 2 and 3, students will submit reflective
 | ----------- | ----------- | ----------- |
 | **Module 0.5** | **What Do We Mean by Digital Identities?** |  |
 | Week 1: What Do We Mean by Digital Identities? | TEXT: Rettberg, "Written, Visual, and Quantitative Self-Representations" TEXT: Benjamin, "Introduction," from Race After Technology THEORY: Althusser, "Ideology and Ideological State Apparatuses (Notes towards an Investigation)" | DISCUSSION: How Do We Represent Ourselves Online? DISCUSSION: What Does It Mean to be a Subject? Who Gets to be a Subject? SHORT ASSIGNMENT: Interpellated Digitally  |
-| **Module 1** | **Ancient Reading and Writing Technologies** |  |
+| **Module 1** | **SOCIAL DIGITAL IDENTITIES: Cybertypes, Seach Engines, and Social Media** |  |
 | Week 2: Early Lexigraphic Writing Around the Globe | TEXT: "The Flood Tablet" or the "Epic of Gilgamesh" CONTEXT: Barry Powell, "Writing : Theory and History of the Technology of Civilization" (Chapters 3, 4, 6, 15, and 16) THEORY: Walter Ong, "Some Psychodynamics of Orality," Orality and Literacy  | 2 Discussion Board Assignments, 1 Timeline contribution, Short Assignment 1 |
 | Week 3: The Alphabet: From Egypt to Greece | TEXT: The Rosetta Stone CONTEXT: Barry Powell, "Writing : Theory and History of the Technology of Civilization" (Chapters 7, 9, 10, 17) THEORY: Walter Ong, "Writing Restructures Consciousness," Orality and Literacy | 2 Discussion Board Assignments, 1 Timeline contribution, Major Assignment 1 |
 | **Module 2** | **The Gutenburg Galaxy** |  |
