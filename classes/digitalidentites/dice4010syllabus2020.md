@@ -31,7 +31,7 @@ Last, students will investigate digital identities in terms of the digital citiz
 
 ## Aknowledgements 
 
->I would like to thank Paul Barrett for recommending "I May Destroy You" and Elena Chernock for our endless conversations about identity, race, and politics, online and offline. 
+>First and foremost, I would like to thank our library liaison, Reilly Curran, for her hard work, time, and assistance in procuring many of the resources for this class. I would like to thank Paul Barrett for recommending "I May Destroy You." Last, I thank Elena Chernock for our endless conversations about identity, race, and politics, online and offline. 
 
 
 ## Course Outcomes 
@@ -275,7 +275,7 @@ Following major assignment sequences 1, 2 and 3, students will submit reflective
 | ----------- | ----------- | ----------- |
 | **Module 0.5** | **What Do We Mean by Digital Identities?** |  |
 | Week 1: What Do We Mean by Digital Identities? | TEXT: Rettberg, "Written, Visual, and Quantitative Self-Representations" TEXT: Benjamin, "Introduction," from Race After Technology THEORY: Althusser, "Ideology and Ideological State Apparatuses (Notes towards an Investigation)" | DISCUSSION: How Do We Represent Ourselves Online? DISCUSSION: What Does It Mean to be a Subject? Who Gets to be a Subject? SHORT ASSIGNMENT: Interpellated Digitally  |
-| **Module 1** | **The Subject Constructed: Selfies, Social Media, and Search Engines** |  |
+| **Module 1** | **The Subject Constructed: Search Engines, Selfies, and Social Media** |  |
 | Week 2: Search Engines and Subjects | THEORY: Judith Butler. “Critically Queer.” GLQ 1, no. 1(1993): 17–32. CONTEXT: Safiya Umoja Noble, TBD | DISCUSSION: What Does it Mean to be a Subject? SHORT ASSIGNMENT: A Search Engine Cannot Tell You Who You Are  FINAL PROJECT: Preliminary Research: A Scholarly or News Article  |
 | Week 3: Selfies, Social Media, and Beyond the Subject | TEXT: “Social Media Is a Great Way to Connect,” I May Destroy You CCONTEXT: Jill Walker Rettberg, “Filtered Reality,” in Seeing Ourselves Through Technology: How We Use Selfies, Blogs and Wearable Devices to See and Shape Ourselves, Springer, 2014. Read pages 20-32. CONTEXT: Jill Walker Rettberg, “Serial Selfies,” in Seeing Ourselves Through Technology: How We Use Selfies, Blogs and Wearable Devices to See and Shape Ourselves, Springer, 2014. Read pages 33-44. THEORY: Nelson, Lise. "Bodies (and Spaces) Do Matter: The Limits of Performativity." Gender, Place & Culture 6, no. 4 (1999): 331-53. | DISCUSSION: Critical Selfies. MAJOR ASSIGNMENT: Constructed Subjects Online: An Analysis. REFLECTION: Module 1. |
 | **Module 2** | **The Posthuman Self: Avatars, Embodiment, Representations, and Communities in Video Games** |  |
