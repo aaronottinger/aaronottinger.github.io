@@ -1,4 +1,4 @@
-# DDICE4010: Digital Identities, Fall 2020
+# DICE4010: Digital Identities, Fall 2020
 
 **Instructor:** Dr. Aaron Ottinger
 
