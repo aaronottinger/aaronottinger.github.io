@@ -216,37 +216,22 @@ This course follows a three-module sequence, with each module representing a dis
 
 #### CONFERENCES (2.5 points ea. / 5% total)
 
-Each student will meet with the instructor twice for online, one-on-one conferences. These conferences will take place between weeks 2 & 3 and weeks 7 & 8 (given the nine week term). 
+Each student will meet with the instructor twice for online, one-on-one conferences. These conferences will take place between weeks 2 & 3 and weeks 7 & 8.
 
-#### DISCUSSIONS (10 points ea. / 10% total)
+#### DISCUSSIONS (10 points ea. / 20% total)
 
-Each week we will have 1-2 discussion board assignments. Typically, these discussion board assignments give students a chance to entertain, challenge, and demonstrate their understanding of course materials. Plus, discussion boards tie into short assignments, which in turn prepare students for major assignments. 
+Each week will be a discussion question for you to explore. These should be 150+ words and will be due by midnight Saturday of each week. I would like you to then comment on two of your peer’s postings by midnight on Sunday. We will discuss these in class during the next in class meeting.
 
-#### TIMELINES (5 points ea. / 5% total) 
+#### SHORT ASSIGNMENTS (20 points ea. / 25% total)
 
-Often, history books include a chronology or a timeline, which make for excellent resources. But a timeline can be deceptive. They often reinforce the idea of a linear history towards an ideal good we call "progress." They also tend to exclude much more than they include. In this class, we will collaborate on creating our own timeline and we will reflect on its epistemological end. 
+These smaller assignments will help you scaffold the kind of information and research you will need for MAJOR ASSIGNMENTS (below). Typically, we will share these assignments through a discussion board, but they are different from “DISCUSSION BOARD” assignments. The purpose of sharing them through discussion boards is simply to showcase your work and to get some feedback. These assignments will also ask you to go above and beyond understanding and/or responding to the assigned essays for that week. Short assignments might include an experiment, a creative project, or possibly a draft of a larger research paper. 
 
-#### SHORT ASSIGNMENTS (20 points ea. / 30% total)
+#### MAJOR ASSIGNMENTS (100 points ea. / 40% total)
 
-Short Assignments are designed to help students get a jumpstart on Major Assignments. They are smaller in scope and lower in stakes. They also allow students to receive feedback before reaching a more critical or decisive point within their research and work. 
+We will have three MAJOR ASSIGNMENTS this term. The first is an analysis of search engines and/or social media how they determine personal identities. Our second major assignment includes creating a character for a video game of your own design and a rhetorical analysis of this character and their world. The final analysis will be a traditional research paper or a combination of a multimodal project with research components regarding one of the final course topics, including digital identities and the digital divide, DNA and information, digital surveillance and policing, and digital mortality. Students who wish to pursue a different topic will be encouraged to connect their preferred line of inquiry with one of the above.  
 
-#### MAJOR ASSIGNMENTS (100 points / 45% total)
 
-Major assignments wrap up each module. They synthesize what has been read and discussed for each module, and so they tend to cover 2-3 weeks worth of materials. 
-
-- Major Assignment 1: The Psychodynamics of Early Writing Technology
-
-Major assignment 1 is a traditional college-level essay. Following our first example of Rousseau's Discourse on Inequality, students select a form of early lexigraphic writing from one of the five times/regions examined and meditate on how this particular form of writing might have determined (in part) the epistemic state of a particular community in history. As a somewhat speculative endeavor, students are encouraged to use their imagination, while at the same time grounding their claims in the historical and theoretical research discussed in class.
-
-- Major Assignment 2: The Shock of the Old
-
-Major assignment 2 is a multimodal project, part video and part historical analysis/reflection. For this module, students will select a text technology of their choosing, from the early modern period through the nineteenth and early twentieth centuries. They will investigate how this object differs from its present-day iteration, if applicable, with particular focus on the way the object included and/or excluded particular audiences. Students will reflect on how this text technology, by virtue of who it included or excluded, shaped values, beliefs, and or world views.
-
-- Major Assignment 3: Hyper Reading in Context
-
-In the third module, students will conclude by asking: How does hyper, distant, or machine-assisted reading compare to the print technologies of the past. How does it affect how we read and thus how we think? Last, we want to know if this kind of reading is more inclusive or if it merely introduces an old form of exclusion dressed in digital clothes.
-
-#### REFLECTIONS (10 points ea. / 5% total)
+#### REFLECTIONS (10 points ea. / 10% total)
 
 Following major assignment sequences 1, 2 and 3, students will submit reflective essays. These reflective essays demonstrate an understanding of the outcomes fulfilled. Additionally, students will reflect on how the skills acquired in class will apply outside of class. Last, students can use these reflections to discuss how they feel about their research, their findings, and how it all relates to their world and the world at large.
 
