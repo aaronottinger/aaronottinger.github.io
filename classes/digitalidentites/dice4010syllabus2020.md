@@ -29,7 +29,7 @@ Last, students will investigate digital identities in terms of the digital citiz
 
 
 
-## Aknowledgements 
+## Aknowledgments 
 
 >First and foremost, I would like to thank our library liaison, Reilly Curran, for her hard work, time, and assistance in procuring many of the resources for this class. I would like to thank Paul Barrett for recommending "I May Destroy You." Last, I thank Elena Chernock for our endless conversations about identity, race, and politics, online and offline. 
 
