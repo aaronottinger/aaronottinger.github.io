@@ -11,5 +11,5 @@ Either a successful installation of NLTK will follow, or you may find that it ha
 `import nltk`
 
 
-`nltk download()`
+`nltk.download()`
 
