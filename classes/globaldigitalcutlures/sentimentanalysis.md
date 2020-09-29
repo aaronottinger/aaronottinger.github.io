@@ -4,7 +4,9 @@
 
 `pip install nltk`
 
-Either a successful installation of NLTK will follow, or you may find that it has already been installed. In either case, now open up Python (if the natural language toolkit was already installed, make sure that you're using the corresponding version of Python), and "import" the Natural Language Toolkit. 
+Either a successful installation of NLTK will follow, or you may find that it has already been installed. 
+
+3. Now open up Python (if the natural language toolkit was already installed, make sure that you're using the corresponding version of Python), and "import" the Natural Language Toolkit. 
 
 `import nltk`
 
