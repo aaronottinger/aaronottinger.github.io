@@ -2,6 +2,6 @@
 
 2.	Install natural language processing toolkit: 
 
-'pip install nltk'
+`pip install nltk`
 
 
