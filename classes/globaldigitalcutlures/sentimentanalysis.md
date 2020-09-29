@@ -15,5 +15,5 @@ Either a successful installation of NLTK will follow, or you may find that it ha
 
 At this point, a pop-up window should appear which lists all the corpora, models, and packages that you can download. Under "Collections," select "Everything Used in the NLTK Book." 
 
-![an image of the NLTK downloader and its contents](NLTK_downloader.png)
+![an image of the NLTK downloader and its contents](nltk_downloader.png)
 
