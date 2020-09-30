@@ -30,7 +30,7 @@ At this point, a pop-up window should appear which lists all the corpora, models
 
 Yay, movie reivews! But wait, don't get too excited. We're not actually **reading** the moview reviews, as you might read them in *The New Yorker*, or a similar periodical. Our movie reviews have already been compiled into a corpus. Instead, we're going to **classify** each document, otherwise referred to as **document classification**. And we're going to classify each movie review, or each document, as either positive (for a good review) or negative (for a bad review).
 
-> **Pause for Reflection:** What's one problem that you see with classifying documents (movie reviews, in this case) as either postive or negative? Think about the way you feel some recent films you've watched. Would you be able to classify them as strictly positive or negative? 
+> **Pause for Reflection:** What's one problem that you see with classifying documents (movie reviews, in this case) as either postive or negative? Think about the way you feel about some recent films you've watched. Would you be able to classify them as strictly positive or negative? 
 
 5. Now we must load and prepare our dataset by importing the Natural Language Tookit, followed by the Movie Review Corpus, and then we'll organize this corpus at random (**Note:** If you get lost at any point or you if lost your progress, feel free to re-activate your virtual environment and fire up Python). 
 
