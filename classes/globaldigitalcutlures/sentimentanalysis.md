@@ -2,11 +2,13 @@
 
 Introductory remarks
 
+> Sources: [The NLTK Book](http://www.nltk.org/book/ch06.html) and Syak Paul's article for Data Camp, ["Simplifying Sentiment Analysis in Python"](https://www.datacamp.com/community/tutorials/simplifying-sentiment-analysis-python).
+
 # Directions 	
 
 1. Create a virtual environment in Python (see Dylan Medina’s tutorial [here](https://youtu.be/_fCazmtnUzY)). 
 
-2.	Install natural language processing toolkit: 
+2.	Install natural language processing toolkit (either type in the code below or copy and paste it): 
 
 `pip install nltk`
 
