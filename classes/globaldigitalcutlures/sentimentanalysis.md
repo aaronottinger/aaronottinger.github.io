@@ -28,11 +28,13 @@ At this point, a pop-up window should appear which lists all the corpora, models
 
 4. Once you have downloaded "All packages," breath! You've now made it past a major hurdle. Because you have downloaded all of the packages you now have access to a wide variety of datasets, including the Moview Reviews Corpus we're going to use today. If you need to, this really is a good time to walk away and take a breath. 
 
-Yay, movie reivews! But wait, don't get too excited. We're not actually **reading** the moview reviews as one might read them in *The New Yorker*, or a similar periodical. Our movie reviews have already been compiled into a corpus. Instead, we're going to **classify** each document, otherwise referred to as **document classification**. And we're going to classify each movie review, or each document, as either positive (for a good review) or negative (for a bad review).
+Yay, movie reivews! But wait, don't get too excited. We're not actually **reading** the moview reviews as one might read them in *The New Yorker*, or a similar periodical. Our movie reviews have already been compiled into a corpus. Instead, we're going to classify each review or document (i.e. **document classification**) as either positive (for a good review) or negative (for a bad review).
 
 > **Pause for Reflection:** What's one problem that you see with classifying documents (movie reviews, in this case) as either postive or negative? Think about the way you feel about some recent films you've watched. Would you be able to classify them as strictly positive or negative? Now, think about how you actually communicate your feelings about a film to different audiences--will all of those audiences register and understand your feedback in the same way? 
 
-5. Now we must load and prepare our dataset by importing the Natural Language Tookit, followed by the Movie Review Corpus, and then we'll organize this corpus at random (**Note:** If you get lost at any point or you if lost your progress, feel free to re-activate your virtual environment and fire up Python). 
+5. Now we must load and prepare our dataset by importing the Natural Language Tookit, followed by the Movie Review Corpus. In this same step, we will organize the corpus into individual words as categories, and then shuffle those categories at random. In the next step, we will label those categories as either positive or negative. 
+
+**Note:** If you get lost at any point or you if lost your progress, just re-activate your virtual environment and fire up Python and jump in, starting here:
 
        import nltk
 
@@ -48,6 +50,7 @@ Yay, movie reivews! But wait, don't get too excited. We're not actually **readin
                    for fileid in movie_reviews.fileids(category)]
 
        random.shuffle(documents)
+       
        
  
 
