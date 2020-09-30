@@ -19,7 +19,7 @@ Either a successful installation of NLTK will follow, or you may find that it ha
 
 `nltk.download()`
 
-At this point, a pop-up window should appear which lists all the corpora, models, and packages that you can download. Under "Collections," select "
+At this point, a pop-up window should appear which lists all the corpora, models, and packages that you can download. Under "Collections," select "all the packages."
 
 ![an image of the NLTK downloader and its contents](nltk_downloader.png)
 
