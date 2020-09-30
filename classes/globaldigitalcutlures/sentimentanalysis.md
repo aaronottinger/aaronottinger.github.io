@@ -33,10 +33,15 @@ Yay, movie reivews! But wait, don't get too excited. We're not actually **readin
 5. Now we must load and prepare our dataset by importing the Natural Language Tookit, followed by the Movie Review Corpus, and then we'll organize this corpus at random (**Note:** If you get lost at any point or you if lost your progress, feel free to re-activate your virtual environment and fire up Python). 
 
 `>>> from nltk.corpus import movie_reviews`
+
 `>>> documents = [(list(movie_reviews.words(fileid)), category)`
+
 `...              for category in movie_reviews.categories()`
+
 `...              for fileid in movie_reviews.fileids(category)]`
+
 `>>> random.shuffle(documents)`
+
 
 
 
