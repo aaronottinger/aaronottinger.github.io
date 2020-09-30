@@ -1,4 +1,4 @@
-# Getting Started with Sentiment Analysis in Python
+# Getting Started with Sentiment Analysis in Python: Positive and Negative Movie Reviews
 
 Introductory remarks
 
