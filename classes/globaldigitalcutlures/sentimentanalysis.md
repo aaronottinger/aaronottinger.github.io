@@ -57,9 +57,9 @@ What's a feature extractor? A feature extractor function constructs a dictionary
 
 So how does our feature extractor know which words to look for? For classifying documents, like we're doing, our features can be a set of words (our "dictionary"), and then our algorithm will look for words in the reviews that match this set. But instead of just thinking of a bunch of words ourselves, we can use the corpus in front of us to tell us which words are the most freuntly occurring words. We'll select the top 2,000 words in this exercise. Then we will use these words to train our algorithm to predict the sentiment of new movie reviews, not already included in the corpus. In other words, at this stage, we're just training our algorithm. 
 
-       all_words = nltk.FreqDist(w.lower() for w in movie_reviews.words())
+    all_words = nltk.FreqDist(w.lower() for w in movie_reviews.words())
        
-       word_features = list(all_words)[:2000]
+    word_features = list(all_words)[:2000]
 
        
        def document_features(document):
