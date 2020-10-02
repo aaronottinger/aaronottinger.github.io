@@ -21,7 +21,7 @@ Either a successful installation of NLTK will follow, or you may find that it ha
 
 `nltk.download()`
 
-At this point, a pop-up window should appear which lists all the corpora, models, and packages that you can download. Under "Collections," select "All packages."
+At this point, a pop-up window should appear which lists all the corpora, models, and packages that you can download. Under "Collections," select "All packages." It should look like this: 
 
 ![an image of the NLTK downloader and its contents](nltk_downloader.png)
 
@@ -55,7 +55,7 @@ Yay, movie reivews! But wait, don't get too excited. We're not actually **readin
 
 What's a feature extractor? A feature extractor function constructs a dictionary of sorts. We need this collection of words so that our classifier/algorithm knows what to look for in the movie reviews. We don't want too many features because then our learning algorithm will be too idiosyncratic, focusing on too many details, which will make it harder to generalize our search as we add more data. That's what is referred to as ["overfitting"](https://elitedatascience.com/overfitting-in-machine-learning). 
 
-So how does our feature extractor know which words to look for? For classifying documents, like we're doing, our features can be a set of words (our "dictionary"), and then our algorithm will look for words in the reviews that match this set. But instead of just thinking of a bunch of words ourselves, we can use the corpus in front of us to tell us which words are the most freuntly occurring words. We'll select the top 2,000 words in this exercise. Then we will use these words to train our algorithm to predict the sentiment of new movie reviews, not already included in the corpus. In other words, at this stage, we're just training our algorithm. 
+So how does our feature extractor know which words to look for? For classifying documents, like we're doing, our features can be a set of words (our "dictionary"), and then our algorithm will look for words in the reviews that match this set. But instead of just thinking of a bunch of words ourselves, we are using this corpus of movie reviews to tell us which words are the most freuntly occurring words. We'll select the top 2,000 words in this exercise. Then we will use these words to train our algorithm to predict the sentiment of new movie reviews not already included in the corpus. 
 
     all_words = nltk.FreqDist(w.lower() for w in movie_reviews.words())
        
@@ -74,11 +74,31 @@ So how does our feature extractor know which words to look for? For classifying 
               
        return features
 
+7. Time to train our classifier and test this algorithm's accuracy! 
 
- 
+It's only after training the classifier, using our 2,000 words, that it will be able to predict a sentiment for new and unfamiliar movie reviews. In this same step, we can test the classifier and see how accurate it's predictions will be. 
 
+    #Here we're training the classifier
+    
+    featuresets = [(document_features(d), c) for (d,c) in documents]
+    train_set, test_set = featuresets[100:], featuresets[:100]
+    classifier = nltk.NaiveBayesClassifier.train(train_set)
+    
+    #Now we're testing the algorithm for accuracy
+    
+    print(nltk.classify.accuracy(classifier, test_set))
+    
+8. Let's take one more step to learn more about our classifier and how it will predict the sentiment of new movie reviews. Let's ask the algorithm which features or which words it interpreted as being the most informative or important. 
 
+By altering the number in parentheses at the end, you can increase or decrease the number of important words: 
 
+`classifier.show_most_informative_features(5)`
+
+When you're finished, you should end up with something that looks like this (the level of accuracy is circled):
 
 ![an image of the NLTK downloader and its contents](most_important_features.png)
+
+# Reflection Questions
+
+1. 
 
