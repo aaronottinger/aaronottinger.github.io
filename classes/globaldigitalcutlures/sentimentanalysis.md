@@ -62,17 +62,17 @@ So how does our feature extractor know which words to look for? For classifying 
     word_features = list(all_words)[:2000]
 
        
-       def document_features(document):
+    def document_features(document):
               
-              document_words = set(document)
+       document_words = set(document)
               
-              features = {}
+       features = {}
               
-              for word in word_features:
+       for word in word_features:
               
-                     features['contains({})'.format(word)] = (word in document_words)
+              features['contains({})'.format(word)] = (word in document_words)
               
-              return features
+       return features
 
 
  
