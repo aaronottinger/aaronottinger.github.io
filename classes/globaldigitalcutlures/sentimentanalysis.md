@@ -78,13 +78,13 @@ So how does our feature extractor know which words to look for? For classifying 
 
 It's only after training the classifier, using our 2,000 words, that it will be able to predict a sentiment for new and unfamiliar movie reviews. In this same step, we can test the classifier and see how accurate it's predictions will be. 
 
-    #Here we're training the classifier
+    # Here we're training the classifier
     
     featuresets = [(document_features(d), c) for (d,c) in documents]
     train_set, test_set = featuresets[100:], featuresets[:100]
     classifier = nltk.NaiveBayesClassifier.train(train_set)
     
-    #Now we're testing the algorithm for accuracy
+    # Now we're testing the algorithm for accuracy
     
     print(nltk.classify.accuracy(classifier, test_set))
     
