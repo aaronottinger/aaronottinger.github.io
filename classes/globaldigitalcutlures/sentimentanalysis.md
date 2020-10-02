@@ -36,20 +36,20 @@ Yay, movie reivews! But wait, don't get too excited. We're not actually **readin
 
 **Note:** If you get lost at any point or you if lost your progress, just re-activate your virtual environment and fire up Python and jump in, starting here:
 
-       import nltk
+    import nltk
 
-       from nltk.corpus import movie_reviews
+    from nltk.corpus import movie_reviews
 
-       import random
+    import random
 
 
-       documents = [(list(movie_reviews.words(fileid)), category)
+    documents = [(list(movie_reviews.words(fileid)), category)
 
-                   for category in movie_reviews.categories()
+       for category in movie_reviews.categories()
               
-                   for fileid in movie_reviews.fileids(category)]
+       for fileid in movie_reviews.fileids(category)]
 
-       random.shuffle(documents)
+    random.shuffle(documents)
        
 6. Next up: Let's define a feature extractor. 
 
