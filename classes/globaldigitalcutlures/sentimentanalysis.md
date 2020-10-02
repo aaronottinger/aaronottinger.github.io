@@ -53,9 +53,9 @@ Yay, movie reivews! But wait, don't get too excited. We're not actually **readin
        
 6. Next up: Let's define a feature extractor. 
 
-What's a feature extractor? A feature extractor function constructs a dictionary of sorts. We need this collection of words so that our classifier knows what to look for. We don't want too many features because then our learning algorithm will be too idiosyncratic, focusing on too many details, which will make it harder to generalize our search as we add more data. That's what we call ["overfitting"](https://elitedatascience.com/overfitting-in-machine-learning). 
+What's a feature extractor? A feature extractor function constructs a dictionary of sorts. We need this collection of words so that our classifier knows what to look for. We don't want too many features because then our learning algorithm will be too idiosyncratic, focusing on too many details, which will make it harder to generalize our search as we add more data. That's what is referred to as ["overfitting"](https://elitedatascience.com/overfitting-in-machine-learning). 
 
-So how does our feature extractor know which words to look for? For classifying documents, like we're doing, our features can basically be a set of words, and then our algorithm will look for words in the reviews that match this set. But instead of just thinking of a bunch of words ourselves, we can use the corpus in front of us to tell us which words are the most freuntly occurring words. We'll select the top 2,000 words in this exercise. Then we can will define the feature extractor so that it just checks to see if each word appears in each document or movie review. 
+So how does our feature extractor know which words to look for? For classifying documents, like we're doing, our features can be a set of words (our "dictionary"), and then our algorithm will look for words in the reviews that match this set. But instead of just thinking of a bunch of words ourselves, we can use the corpus in front of us to tell us which words are the most freuntly occurring words. We'll select the top 2,000 words in this exercise. Then we can will define the feature extractor so that it just checks to see which word appears in which document or movie review, typifying it as either positive or negative.
  
 
 
