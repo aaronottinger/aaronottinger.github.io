@@ -19,7 +19,7 @@ Nevertheless, we can get a sense of how this process starts to take shape, by fi
 To get started, just follow the steps below. 
 
 
-> Sources: [The NLTK Book](http://www.nltk.org/book/ch06.html) and Syak Paul's article for Data Camp, ["Simplifying Sentiment Analysis in Python"](https://www.datacamp.com/community/tutorials/simplifying-sentiment-analysis-python).
+> Sources: [The NLTK Book](http://www.nltk.org/book/ch06.html).
 
 # Directions 	
 
