@@ -119,5 +119,5 @@ When you're finished, you should end up with something that looks like this (the
 
 # Reflection Questions
 
-1. 
+1. What is in your dataset? Where did these movie reviews come from? Does the data included as part of your training data matter? Using this data, is it possible to bias your algorithm? 
 
