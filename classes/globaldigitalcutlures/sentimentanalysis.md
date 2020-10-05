@@ -6,7 +6,7 @@ Whoa, slow down! I'm already lost!
 
 Okay, let's back up. Imagine your email. How does your email know which messages to send to the spam box? It uses an algorithm, which is just a set of steps or instructions that repeat. In the case of your email service, it likely uses a Multinomial Naive Bayes Classifier. "Multinomial" as in "many names." "Naive" as in unknowing, idealized, or remote. "Bayes" as in Thomas Bayes, the eighteenth-century mathematician and pioneer of probability theory. And "classifier" as it prescribing a class, or we could say judgment, on the "many words" being examined. Put it altogether and you get an alogorithm that reads your email and judges each word using probability to determine if the email as a whole should be classified as either a "normal" email or as "spam." 
 
-For a short video on this process, and a slighly closer look at the math behind Bayes' Theorem, click on [this link here](https://youtu.be/O2L2Uv9pdDA). 
+(**For a short video on this process, and a slighly closer look at the math behind Bayes' Theorem, click on [this link here](https://youtu.be/O2L2Uv9pdDA).**)
 
 But the same process can also be used to judge if something is positive or negative, as in "This movie is awesome" vs. "This movie stinks!" In this case, our document classifier would be conducting what is commonly referred to as "sentiment analysis." 
 
