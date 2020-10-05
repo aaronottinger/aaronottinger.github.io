@@ -122,5 +122,5 @@ When you're finished, you should end up with something that looks like this (the
 1. What is in your dataset? Where did these movie reviews come from? Does the data included as part of your training data matter? Using this data, is it possible to bias your algorithm? 
 2. After watching the video on "Niave Bayes, Clearly Explained!" (above), do you see any limitations with this algorithm? Do you foresee any problems in your own sentiment analysis? 
 3. Look at your most informative features. Are any of them a little inexplicable (e.g. "turkey"!)? Is this an error or are these words indicative of something else? 
-4. Do you think this tools is useful and for what? Try to imagine some other contexts in which you might want to use this tool. Do you think the results you might get would be reliable enough to base your research on, if you were conducting an important study (for school, for work, for the government, or some other institution)? Why or why not? 
+4. Do you think this tool is useful and for what? Try to imagine some other contexts in which you might want to use this tool. Do you think the results would be reliable enough to base your research on, if you were conducting an important study (for school, work, the government, or some other institution)? Why or why not? 
 
