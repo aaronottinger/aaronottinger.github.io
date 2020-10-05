@@ -16,9 +16,9 @@ Eventually, you could use a document classifier to "scrape" tweets on Twitter, f
 
 While you are encouraged to explore how to scrape tweets and conduct larger sentiment analyses on your own, this assignment just shows us how to get started by training our algorithm. We will be using the Natural Language Toolkit and the Natural Language Toolkit Book for our data. If you wanted to conduct these experiments on your own, you would have to create your own dataset, which will require a little extra programming that we don't have time for here. 
 
-Nevertheless, we can get a sense of how this process starts to take shape, by figuring out which words are most likely to be included in a positive or negative message. In this case, we'll be examining movie reviews. 
+Nevertheless, we can get a sense of how this process starts to take shape by figuring out which words are most likely to be included in a positive or negative message. In this case, we'll be examining movie reviews. 
 
-To get started, just follow the steps below. 
+Follow the steps below to get started. 
 
 
 > Sources: [The NLTK Book](http://www.nltk.org/book/ch06.html).
