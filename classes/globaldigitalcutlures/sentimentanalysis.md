@@ -1,6 +1,23 @@
 # Getting Started with Sentiment Analysis in Python: Positive and Negative Movie Reviews
 
-Introductory remarks
+In this exercise, we're going to train an algorithm for document classification. Whoa, slow down! I'm already lost! 
+
+Let's start with your email. How does your email know which messages to send to the spam box? It uses an algorithm, which is just a set of steps or instructions that repeat. In the case of your email service, it likely uses a Multinomial Naive Bayes Classifier. "Multinomial" as in "many names." "Naive" as in unknowing, idealized, or remote. "Bayes" as in Thomas Bayes, the eighteenth-century mathematician and pioneer of probability theory. And "classifier" as it prescribing a class or we could say judgment on the "many words" being examined. Put it altogether and you get an alogorithm that reads your email, and judges each word, using probability, to determine if the email as a whole should be classified as either a "normal" email or as "spam." 
+
+For a short video on this process, and a slighly closer look at the math behind Bayes' Theorem, check out [this video here](https://youtu.be/O2L2Uv9pdDA). 
+
+But the same process can also be used to judge if something is positive or negative, as in "This movie is awesome" vs. "This movie stinks!" In this case, our document classifier would be conducting what is commonly referred to as "sentiment analysis." 
+
+Sentiment analysis uses an algorithm to determine how people feel about an object based on the linguistic information they provide, usually in an online context (although, you could certainly transcribe non-digital texts into a digital database). Sentiment analysis is used to see if people like a company's products, to see how folks feel about a political candidate, or how people respond to just about anything, but on an emotional (rather than logical) level. 
+
+Eventually, you could use a document classifier to "scrape" tweets on Twitter, for instance, and gather the opinions of thousands or even millions of users on a particular topic. That is an extremely powerful tool. 
+
+While you are encouraged to explore how to scrape tweets and conduct larger sentiment analyses on your own, this assignment just shows us how to get started by training our algorithm. We will be using the Natural Language Toolkit and the Natural Language Toolkit Book for our data. If you wanted to conduct these experiments on your own, you would have to create your own dataset, which will require a little extra programming that we don't have time for here. 
+
+Nevertheless, we can get a sense of how this process starts to take shape, by figuring out which words are most likely to be included in a positive or negative message. In this case, we'll be examining movie reviews. 
+
+To get started, just follow the steps below. 
+
 
 > Sources: [The NLTK Book](http://www.nltk.org/book/ch06.html) and Syak Paul's article for Data Camp, ["Simplifying Sentiment Analysis in Python"](https://www.datacamp.com/community/tutorials/simplifying-sentiment-analysis-python).
 
