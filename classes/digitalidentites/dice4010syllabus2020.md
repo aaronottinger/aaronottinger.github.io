@@ -36,7 +36,7 @@ Last, students will investigate digital identities in terms of the digital citiz
 
 ## Course Outcomes 
 
-The Course Outcomes for this class are the same as the Learning Outcomes for the department. However, to make sense of these outcomes in the context of a History of Text Technologies, each outcome will require a little qualification. In addition, every assignment in this course corresponds with one or more Learning Outcome. In each assignment, the corresponding Learning Outcomes will be qualified further to illustrate how it fits the task at hand.
+The Course Outcomes for this class are the same as the Learning Outcomes for the department. However, to make sense of these outcomes in the context of a History of Text Technologies, each outcome will require a little qualification. In addition, every assignment in this course corresponds with one or more Learning Outcome(s). In each assignment, the corresponding Learning Outcomes will be qualified further to illustrate how it fits the task at hand.
 
 ### 1. EXPLAIN KEY CONCEPTS IN COMPUTING: This outcome focuses your ability to explain key concepts in computing, media production, and internet-enabled communication.
 
@@ -200,7 +200,7 @@ An agreement to receive an Incomplete (I) grade may be negotiated if your circum
 
 ### Assignment Deadlines and Extensions
 
-Assignments should be submitted at the designated due date/time. If a student requies an extension, they should request one from the instructor 24 hours in advance. 
+Assignments should be submitted at the designated due date/time. Students who requie an extension should request one from the instructor 24 hours in advance. 
 
 #### Extended Extensions
 
