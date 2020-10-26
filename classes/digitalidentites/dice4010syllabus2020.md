@@ -10,7 +10,7 @@
 
 ## Course Overview 
 
-In "Bugs' Bonnets" (1956), Elmer Fudd is chasing Bugs Bunny, as is typical, but there are hats that have spilled out of a truck and keep falling from the sky, landing on the heads of Buggs and Elmer Fudd. With each new hat, they assume a new personality. The episode opens with a little lesson about the effect that clothes have on one's identity: "It is a well-known psychological fact that peoples' behavior is strongly affected by the way they dress."
+In "Bugs' Bonnets" (1956), Elmer Fudd is chasing Bugs Bunny, as is typical, but there are hats that have spilled out of a truck and keep falling from the sky, landing on the heads of Bugs and Elmer Fudd. With each new hat, they assume a new personality. The episode opens with a little lesson about the effect that clothes have on one's identity: "It is a well-known psychological fact that peoples' behavior is strongly affected by the way they dress."
 
 ![a man whose clothes are in the process of being changed](mildmanneredman.png)
 
