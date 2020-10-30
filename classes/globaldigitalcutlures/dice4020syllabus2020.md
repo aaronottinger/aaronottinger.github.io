@@ -12,6 +12,12 @@
 
 ## Course Overview 
 
+We live in an increasingly connected world. At times, it also feels like we’re living in an increasingly divided world. The 45th president of the United States has often mythologized this division by calling out “globalists.” Of course, this is a strange pejorative name to sling at others for someone who licenses his name to multinational corporations and owns hotels, golf courses, and more around the globe, from Turkey to Scotland and beyond. So what does this president really mean when he calls out “globalists”? Is not everyone a globalist in an age of globalization? Maybe. But what about, for instance, a migrant from Central America, without an office or highspeed internet connection? It may surprise some students to see how even precarious laborers are also deeply embedded in a digitally connected, globalized planet. 
+
+So perhaps we need a better understanding of globalization. And because we are the department of digital technology and cultures, it makes good sense to explore this and related concepts through a digital technology framework. After all, it is difficult to imagine such a connected planet without social networking, digital financial markets, as well as digital policing and surveillance. 
+
+In our class we are going to focus on the intersection of digital technology and globalization. First, we must define globalization and develop some vocabulary for talking about it. Once we've defined our terms, we will outline the larger theoretical conversation surrounding globalization, including its critics. Third, does globalization cancel out the local? Put another way, how does our city of Seattle fit into the story of globalization? Once we've addressed the local/global divide, we will turn our attention to the interconnected relationships between corporations, news media, and human emotions, including some first-hand work with and assessment of “sentiment analysis” using Python. Last, our investigation will turn to politics, labor, and social justice on a global scale and in digital domains. While it might seem like the environment or ecology is a missing link in this story, that gap will be filled in Spring 2021 with the class, Digital Culture and Ecology, for which the present course will be a useful precursor. 
+
 
 ## Aknowledgements 
 
