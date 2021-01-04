@@ -97,34 +97,18 @@ This class will use a private Slack channel (in addition to the department’s #
 I love Twitter (@AaronOttinger). I often post things that I think will be interesting for students using the hashtag #DICE4040. Nothing I post here is required and I will likely cross-post on Slack. The great thing about Twitter is that we can connect with other working professionals that might be able to help us in our discussions. Feel free to engage with me on this platform as well.
 
 
+
 ## Required Tools and Software
 
-### Recommended Equipment
+It is recommended that you start by watching the CDLI's [Student Orientation to Distance Learning](https://www.seattleu.edu/cdli/instructional-continuity/student-orientation/).
 
-This course will use multimedia therefore you will need access to an up-to-date laptop or mobile device that is capable of playing videos, recording videos and using a camera. If your computer is capable of playing multimedia but doesn't have a webcam, you may be able to use your mobile device to record and upload videos. 
+This course will be fully online, therefore you will need access to an up-to-date device that is capable of playing videos, recording videos and using a camera. If your computer is capable of playing multimedia but doesn't have a webcam, you may be able to use your mobile device to record and upload videos. 
+
 It is essential that you have a reliable broadband network connection available during the course. We recommend cable broadband, DSL, or for mobile devices, availability of LTE. Use of satellite broadband services or WIMAX services such as Clear may not have sufficient bandwidth to allow successful participation in this course. If you can watch Netflix or YouTube videos on high definition without lags, it is likely your broadband connection is sufficient. You should also be aware that some countries block content, such as YouTube videos. If you will be traveling to a country that may block content, please talk to me right away.
 
-### Browsers & Plugins
+### Software
 
-Is your browser up-to-date?   Make sure that you have an up-do-date browser on all of the devices you plan to use for class. Canvas works with all modern, well known browsers including Chrome, Firefox, Safari and Internet Explorer.
-You can use this Canvas help guide (Links to an external site.) to update your internet browser, or install a new one.
-•	Using a mobile device? Canvas is also available as a mobile app for Android and iOS. Many tasks in Canvas can be done via the mobile app.
-•	Do you have Flash? Make sure that your browser has flash installed. If you are unsure, check it here. Canvas and several of its integrated tools use flash. Note: if you are using the mobile app, some Canvas features may not be available; ensure that you have a computer workstation or laptop available if needed.
-•	Got Java? Ensure that you have an up-to-date version of Java installed. 
-•	Disable pop-up blockers. Make sure that your browser does not block pop-ups or have extensions and toolbars that prevent multimedia content from working. 
-Other Software
-For their final project, students will also have the opportunity to work with the R programming environment. We will download R in the early weeks of the course to address any issues before the software is required for the course.
-When submitting documents, I ask that you use Microsoft Word format. If you don't have a copy of Microsoft Office, the Office of Information Technology provides students free access to Office 365.
-Troubleshooting
-There are a couple things you can do that will solve many problems you run into:
-•	Update your browser, or try a different internet browser - you can use this Canvas help guide (Links to an external site.) to update your internet browser, or install a new one.
-•	Clear your cache and restart your internet browser
-o	How do I clear my browser cache on a Mac?
-o	How do I clear my browser cache on a PC?
-•	If all else fails, restart your computer.
-Still Need Help?
-Click the Help link in the lower left corner of Canvas to find out how to contact the Seattle University Help Desk. 
-Thanks for investing the time to ensure your technology is up and running smoothly.
+Most of this course will take place within the learning management system Canvas. For their final project, students will also have the opportunity to work with the R programming environment. We will download R in the early weeks of the course to address any issues before the software is required for the course. 
 
 ## Community Agreements
 
