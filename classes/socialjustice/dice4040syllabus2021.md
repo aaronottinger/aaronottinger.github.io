@@ -226,6 +226,23 @@ The Final Project will be a collaborative effort. It will include a proposal (fi
 
 Following different weeks and sections, we will submit reflective essays. At 15% of your grade, these reflections are very important. They should demonstrate an understanding of the outcomes fulfilled. Additionally, students will reflect on how the skills acquired in class will apply outside of class. Last, and most important, students can use these reflections to discuss how they feel about their research, their findings, and how it all relates to their world and the world at large. Students are encouraged here to make connections, to course materials, to previous or simultaneous classes, as well as current events. 
 
+### Grade Scale (screen reader friendly)
+
+| Grade Percentage | GPA | Letter Grade |
+| ----------- | ----------- | ----------- |
+| between 93 and 100 |between 3.8 and 4.0 | A | 
+| between 89 and 92 | between 3.4 and 3.7 | A minus | 
+| between 86 and 88 | between 3.1 and 3.3 | B plus | 
+| between 83 and 85 | between 2.8 and 3.0 | B | 
+| between 79 and 82 | between 2.4 and 2.7 | B minus | 
+| between 76 and 78 | between 2.1 and 2.3 | C plus | 
+| between 70 and 73 | between 1.8 and 2.0 | C | 
+| between 65 and 68 | between 1.4 and 1.7 | C minus | 
+| between 62 and 64 | between 1.1 and 1.3 | D plus | 
+| between 60 and 61 | between 0.8 and 1.0 | D | 
+| between 58 and 59 | between 0.1 and 0.7 | D minus | 
+| between 0 and 57 | 0.0 | F | 
+
 # Course Schedule
 
 Please note that the following is a ‘working schedule.’ Class materials are subject to change based on the interests, understanding, and general pace of the class.  Changes and announcements will be made in class and through email and Announcements (on Canvas).
@@ -261,62 +278,61 @@ Martine Haas and Mark Mortensen, “The Secrets of Great Teamwork,” The Harvar
 ### FINAL PROJECT: Explore Our Community Partner’s Site
 
 
-MODULE 1: Social Justice as a Framework for Research and Design
+# MODULE 1: Social Justice as a Framework for Research and Design
 
-WEEK 2: Problems and Purposes (Class, Jan 14)
+## WEEK 2: Problems and Purposes (Class, Jan 14)
 
 You wouldn’t want a doctor to start operating on you before diagnosing the problem. Same in the world of digital culture. But like a doctor, once we identify a problem and start addressing it (our purpose), we may find additional problems that we did not anticipate. That’s fine. It’s still preferable to have a problem in mind while also maintaining an openness to the possibility of other, unforeseen problems as well. 
 
 Last week we looked at our community partner’s website. Now let’s compare it to other sites that have a similar problem and purpose. What do we like more about these sites? What issues do we find that we want to avoid? 
 
-CONTEXT: Social Justice in the History of Computing
+### CONTEXT: Social Justice in the History of Computing
 
 Tara McPherson, “Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation,” Debates in Digital Humanities, edited by Matthew Gold, Minnesota University Press, 2016. n.p.
 
-CONTEXT: What is Design Justice?
+### CONTEXT: What is Design Justice?
 
 Costanza-Chock, Sasha. “Introduction: #TravelingWhileTrans, Design Justice, and Escape from the Matrix of Domination.” Design Justice : Community-led Practices to Build the Worlds We Need. Cambridge, Massachusetts: MIT, 2020, 1-24. 
 
-DISCUSSION: What Kinds of Social Justice Problems Belong to the Digital Domain? What Should Be Our Purpose(s) as Social Justice Designers, Writers, and Researchers? 
+### DISCUSSION: What Kinds of Social Justice Problems Belong to the Digital Domain? What Should Be Our Purpose(s) as Social Justice Designers, Writers, and Researchers? 
 
-SKILLS ACQUISITION: Diagnosing Problems in UX
+### SKILLS ACQUISITION: Diagnosing Problems in UX
 
 Krug, Steve. “Chapter 1” Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability, Third Edition. New Riders, 2013.
 
 Unger, Russ, and Carolyn Chandler, “Business Requirements: Know the Problem Before You Create the Solution” A Project Guide to UX Design: For User Experience Designers in the Field or in the Making. 2nd ed. 2012. n.p.
 
-FINAL PROJECT: Exploring Directories: Templates and Examples 
+### FINAL PROJECT: Exploring Directories: Templates and Examples 
 
+### PROGRESS REPORT: Week 2
 
-PROGRESS REPORT: Week 2
-
-WEEK 3: Who We Are and Who Gets to Be: Authors/Activists/Designers (Lab, Jan 21)
+## WEEK 3: Who We Are and Who Gets to Be: Authors/Activists/Designers (Lab, Jan 21)
 
 In any rhetorical situation, we want to think about the author, the text, and the audience. Problems and purposes belong to the author (week 2). In addition, we also need to think about our identity as authors/designers. Consider that for thousands of years, organizations and entire states have oppressed women and excluded them from education. So, when a man steps in to “explain” something to a woman, there is a whole history of oppression compressed in that act, and thereby it is no surprise that the explanation is unwelcomed. Likewise, we need to ask ourselves, as college students (even nontraditional), what history and meaning might be associated with us in the eyes of our audiences? This week we will turn a critical eye on ourselves. 
 
 This week also need to draft a proposal regarding our project for our community partner. We will model our proposal on professional UX proposals.
 
-CONTEXT: Who Gets to Be in Computing, and Why? 
+### CONTEXT: Who Gets to Be in Computing, and Why? 
 
 Charlton D. McIlwain, Black Software: The Internet and Racial Justice, from the AfroNet to Black Lives Matter. Oxford, 2020, 3-8, 59-59-78, and 171-94.
 
-CONTEXT: How Do We Tell a Story about Who We Are? 
+### CONTEXT: How Do We Tell a Story about Who We Are? 
 
 Costanza-Chock, Sasha. “Design Practices: ‘Nothing About Us Without Us,’” Design Justice: Community-led Practices to Build the Worlds We Need. Cambridge, Massachusetts: MIT, 2020, 69-101. 
 
-DISCUSSION: Seeing Ourselves Through a Social Justice Lens
+### DISCUSSION: Seeing Ourselves Through a Social Justice Lens
 
-SKILLS ACQUISITION: How We Read the Web 
+### SKILLS ACQUISITION: How We Read the Web 
 
 Krug, Steve. “Chapters 2, 3, 4, 5.” Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability, Third Edition. New Riders, 2013.
 
-QUIZ: How We Read the Web
+### QUIZ: How We Read the Web
 
-SKILLS ACQUISITON: Drafting a Proposal
+### SKILLS ACQUISITON: Drafting a Proposal
 
 Unger, Russ, and Carolyn Chandler, “Proposals for Consultants and Freelancers” A Project Guide to UX Design: For User Experience Designers in the Field or in the Making. 2nd ed. 2012. n.p.
 
-FINAL PROJECT: Proposal 
+### FINAL PROJECT: Proposal 
 
 
 
