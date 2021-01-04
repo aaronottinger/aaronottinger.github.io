@@ -1,5 +1,5 @@
 
-DICE4040: Social Justice and Digital Media
+### DICE4040: Social Justice and Digital Media
  
 Online: Synchronous, meets Thursdays weeks 2, 4, 6, 8, and 10. Labs meet weeks 1, 3, 5, 7, and 9.
 Instructor: Dr. Aaron Ottinger
