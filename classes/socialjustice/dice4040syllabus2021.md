@@ -24,8 +24,11 @@ Working with the local organization EchoX.org, we will function much like a nonp
 ## Aims of the Course
 
 •	Apply critical and theoretical lenses to specific technologies, cultures, and historic moments.
+
 •	Articulate the possibilities and limits of emergent digital technologies and digitally mediated spaces to disrupt dominant, colonialist powers and to build more equitable spaces.
+
 •	Build and participate in an e-service learning project focused on social justice.
+
 •	Reflect upon one’s goals for enacting social justice and ethical action.
 
 ## Learning Outcomes 
