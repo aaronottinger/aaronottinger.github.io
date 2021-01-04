@@ -1,12 +1,18 @@
 
-### DICE4040: Social Justice and Digital Media
+# DICE4040: Social Justice and Digital Media
  
-Online: Synchronous, meets Thursdays weeks 2, 4, 6, 8, and 10. Labs meet weeks 1, 3, 5, 7, and 9.
-Instructor: Dr. Aaron Ottinger
-Email: aottinger@seattleu.edu
-Course website:
-Office: By Appointment
-Course Description
+**Winter 2021**
+
+**Online:** Synchronous, meets Thursdays weeks 2, 4, 6, 8, and 10. Labs meet weeks 1, 3, 5, 7, and 9.
+
+**Instructor:** Dr. Aaron Ottinger
+
+**Email:** aottinger@seattleu.edu
+
+**Office:** By Appointment
+
+## Course Description
+
 In “Social Justice and Digital Media” you will learn skills that will help you take theories of social justice in the digital realm and apply them outside the confines of the university. This course is a service-learning class, which means we will work in partnership with an outside mission-based organization and the work you do will directly impact the community in which you live. 
 
 Along this journey, we will be asking important questions about social justice work: Who gets to do it? How it is done? and Who benefits? It’s important that we take a critical approach because it is easy to do social justice work irresponsibly. For instance, if you encountered a community that lacked educational supplies, it might seem like a good idea to send them laptops and tablets. But if the internet infrastructure is weak, how effective are these new tools going to be? Part of our job in this class is to think about our own position within a social justice framework and to imagine community-led approaches. In part, that means asking communities what they want instead of telling them what they need. Instead of a top-down model, we are thinking through more dynamic approaches to social justice. 
@@ -14,38 +20,49 @@ Along this journey, we will be asking important questions about social justice w
 While we will consider the rhetorical and epistemological consequences of our approaches and products, we will tie rhetorical and epistemic questions (How are we persuaded of x? and How do we know x?) to issues of usability and accessibility. For instance, we might look at how a color combination covers up information on a website for colorblind users, and thus that information would essentially not exist for that particular audience. So, from an epistemic point of view, it is much more difficult to know something that you cannot physically access. To address these issues, the project in this class will focus especially on building user experience (UX) skills in design, writing, research, and testing. 
 
 Working with the local organization EchoX.org, we will function much like a nonprofit consulting company. Our mission is to aid this social justice-oriented organization by drafting a proposal, conducting UX research and testing for their website, interpreting analytics, constructing recommended changes (if any apply), and creating a presentation. Specifically, we have been tasked with assessing the usability of the site’s directory, which helps visitors find like-minded organizations that serve marginalized communities. Our findings, ultimately, will contribute to the board’s decision to allocate more funds to developing the directory, or saving that money for other priorities. Our work here will ultimately contribute to a larger whole, where more resources and information are available to those who are routinely underrepresented and underserved in and outside of the digital domain. 
-Aims of the Course
+
+## Aims of the Course
+
 •	Apply critical and theoretical lenses to specific technologies, cultures, and historic moments.
 •	Articulate the possibilities and limits of emergent digital technologies and digitally mediated spaces to disrupt dominant, colonialist powers and to build more equitable spaces.
 •	Build and participate in an e-service learning project focused on social justice.
 •	Reflect upon one’s goals for enacting social justice and ethical action.
-Learning Outcomes 
+
+## Learning Outcomes 
+
 The Learning Outcomes for this class are the same as the course outcomes for the department. However, to make sense of these outcomes in the context of a Digital Identities, each outcome will require a little qualification (below). In addition, every assignment in this course corresponds with one or more Learning Outcome. In each module/assignment, the corresponding Learning Outcomes will be qualified further to fit the task at hand.
 
 I	EXPLAIN KEY CONCEPTS IN COMPUTING: This outcome focuses your ability to explain key concepts in computing, media production, and internet-enabled communication.
+
 Throughout the term, there will be key concepts introduced, pertaining to social justice and digital media (e.g. “accessibility”). Students may be asked to define and engage with new concepts in quizzes and discussions. In addition, students will be expected negotiate the use of this vocabulary when interacting with audiences outside the classroom or with other professionals working outside of our selected skillset (i.e. user experience/usability).  
  
 II	EVALUATE RESEARCH SOURCES & DIGITAL TOOLS: This outcome focuses on your ability to evaluate the relative strengths and weaknesses of research sources, digital tools, interfaces, and technologies. 
+
 Students will encounter a number of critics and theorists throughout the term, and will have opportunities to compare, contrast, and synthesize these theories and outlooks. In addition, students will have the opportunity to evaluate technologies and their ability to enhance, amplify, filter, distort, include, exclude, and target human subjects and identities. 
  
 III	ANALYZE TECHNOLOGY USING INTERDISCIPLINARY THEORIES & METHODS: This outcome focuses on your ability to analyze new and emerging media using interdisciplinary theories and methods. 
+
 Students will analyze digital technologies using frameworks provided by a variety of theorists and critics. Students will also employ a variety of frameworks from critical race theory to science, technology, and society (STS) studies. 
  
 IV	EXAMINE TECHNOLOGICALLY MEDIATED IDENTITIES: This outcome focuses on your ability to examine how technology changes sense of self and transforms ideologies of gender, nationality, ethnicity, sexuality, and social class. 
+
 Much like Digital Identities (DICE4010), one of the fundamental questions of this class is: Who is included and excluded in the world of digital culture? But in this class, we will use digital technology to actually create a more inclusive digital culture. The question now is how will our efforts enhance, amplify, or alter the identities of our intended (and unintended) audiences? 
  
 V	DESIGN MULTIMODAL PROJECTS: This outcome focuses on your ability to design socially responsible multimodal projects using digital rhetoric and audience engagement strategies. 
+
 The Final Project for DICE4040 is a report and presentation for the community partner. This project will be a collaborative effort and the final result will involve a variety of modalities, media, genres that contribute to an overall narrative that is legible to a wider, non-academic audience. 
  
 VI	REFLECTION: This outcome focuses on your ability to reflect upon your own work, roles, values, and identities related to digital culture and engagement with social justice issues.
+
 The term will be punctuated by reflective writing. Rather than ask students to wait until the end of the course to share their personal thoughts and feelings, reflections will be incorporated into each module.
 
-Preparing for the ePortfolio & Capstone Course
+### Preparing for the ePortfolio & Capstone Course
+
 Students are encouraged to think about how various assignments fulfill the aforementioned Learning Outcomes.
 All assignments should be saved for the final portfolio.
 It is strongly recommended that students have more than one backup of every major assignment.
 
-Materials
+## Materials
 Students will read an array of source in this class but two books in particular will guide us: 
 
 Costanza-Chock, Sasha. Design Justice: Community-led Practices to Build the Worlds We Need. Cambridge, Massachusetts: MIT, 2020.
@@ -59,30 +76,36 @@ Krug’s book is a classic in usability studies and its many lessons remain true
 NB: For several of the texts in this class, students will need either Safari (preferred) or Google Chrome. Unfortunately, Krug’s book and others will not work on Firefox or other browsers. 
 
 
+## Communication
 
+### Face-to-Face
 
-Communication
-
-Face-to-Face
 I am available meet "face-to-face" online via Zoom meetings. We will have face-to-face classes every other week and individual (one-on-one) conferences twice during the term, once early on and once towards the end. These meetings will be conducted via Zoom.
-Email
+
+### Email
+
 Please email me any questions you have at any time. I recommend using the Canvas email tool ("Inbox" located on the far-left navigation bar). But you are welcome to email me directly through the seattleu email system (Outlook).
 While you may email me at any hour, I am more likely to respond to student emails from 9am-6pm, Monday through Friday. I will check email less frequently after 6pm. On the weekends, I will do my best to check and respond to email but that is also time for me to get away from the office and unplug. So beware: if you want to make sure your questions are answered, get them in before the end of the workday on Friday.
 Please allow 24 hours for responses.
-Slack
+
+### Slack
+
 This class will use a private Slack channel (in addition to the department’s #general channel). In keeping with industry standards, it’s important that we have a communication platform to foster a collaborative environment. #4040_20FQ will be available for students and the instructor. You will receive an invitation before the start of class, and students are encouraged to use this outlet. 
-Twitter
+
+### Twitter
+
 I love Twitter (@AaronOttinger). I often post things that I think will be interesting for students using the hashtag #DICE4040. Nothing I post here is required and I will likely cross-post on Slack. The great thing about Twitter is that we can connect with other working professionals that might be able to help us in our discussions. Feel free to engage with me on this platform as well.
 
 
+## Required Tools and Software
 
-Required Tools and Software
+### Recommended Equipment
 
-Recommended Equipment
 This course will use multimedia therefore you will need access to an up-to-date laptop or mobile device that is capable of playing videos, recording videos and using a camera. If your computer is capable of playing multimedia but doesn't have a webcam, you may be able to use your mobile device to record and upload videos. 
 It is essential that you have a reliable broadband network connection available during the course. We recommend cable broadband, DSL, or for mobile devices, availability of LTE. Use of satellite broadband services or WIMAX services such as Clear may not have sufficient bandwidth to allow successful participation in this course. If you can watch Netflix or YouTube videos on high definition without lags, it is likely your broadband connection is sufficient. You should also be aware that some countries block content, such as YouTube videos. If you will be traveling to a country that may block content, please talk to me right away.
 
-Browsers & Plugins
+### Browsers & Plugins
+
 Is your browser up-to-date?   Make sure that you have an up-do-date browser on all of the devices you plan to use for class. Canvas works with all modern, well known browsers including Chrome, Firefox, Safari and Internet Explorer.
 You can use this Canvas help guide (Links to an external site.) to update your internet browser, or install a new one.
 •	Using a mobile device? Canvas is also available as a mobile app for Android and iOS. Many tasks in Canvas can be done via the mobile app.
@@ -103,104 +126,155 @@ Still Need Help?
 Click the Help link in the lower left corner of Canvas to find out how to contact the Seattle University Help Desk. 
 Thanks for investing the time to ensure your technology is up and running smoothly.
 
-Community Agreements
+## Community Agreements
 
 To be created in the first week of class
 
-Diversity, Growth, and Future Application
+## Diversity, Growth, and Future Application
+
 I recognize and respect the diversity of races, genders, sexual identities, classes, ages, and abilities. Differences provide us with opportunities to learn new things, compare experiences, understand ourselves better, and find common ground. Differences also sometimes engender conflict. In the midst of that conflict, I ask everyone to maintain a language and an attitude of respect.
 Bear in mind that some opinions and materials in this class might challenge our personal views and beliefs. But if the goal in this class is to grow cognitively and emotionally, students and the instructor are expected to question the limitations of our personal histories to make room for the personal views and experiences of others.
+
 Last, consider that the path to emotional and intellectual growth may not be won by challenging one’s own personal beliefs and values only. To embrace new ideas, skills, and values for future use in different contexts, we must also conduct personal investigations that ask why our views are being challenged in the first place. Accordingly, it is always worth asking “Why do I feel x?”, “Why do I believe x?”, and “Why do I value x?” Ultimately, this course is not solely intended to increase our knowledge about a list of terms; more importantly, the task is to alter the fundamental ways in which we understand ourselves and our relationship to ourselves and others within a digital culture.
 
-Self-Care and Caring for One Another
+## Self-Care and Caring for One Another
+
 This classroom is a place where everyone is welcome and should feel like they matter. Everyone is encouraged to advocate for themselves. Here are some items to consider:     
+
 1.	Move if you need to: You know your body best.
+
 If you need to get up, sit down, go to the bathroom, and so forth, please do so. You do not need permission.     
+
 2.	Stay home if you need to:
+
 A little less applicable in an online class, it's still important to let the instructor know if you cannot attend an online meeting. You are encouraged to email the instructor ahead of time, but you do not have to reveal why. Simply stating that you are not well is enough. But if you feel like you need to explain, you are also invited to do so.     
+
 3.	Eat/drink if you need to:
+
 If you need to eat or drink in class, please do so. But please try to avoid foods that are going to disrupt your neighbor’s learning. Really pungent or noisy foods might best be saved for the cafeteria. Also, be mindful of spaces (like computer labs) where food is not allowed. Feel free to take a break from these spaces if you need food or drink.      
+
 4.	Speak up, slow down, repeat, stop:
+
 During lectures and discussions, we may need things said again or slowed down. You are encouraged to ask.     
 5.	Be aware of your classmates’ feelings:
 If someone looks like they are not doing well, ask them, “Are you okay?” Let’s not ignore one another. Let’s not let anyone go unnoticed—unless, of course, someone expresses that they would like to be left alone. Then leave them alone.
+
 6.	In light of the COVID-19: Stay home, wear a mask when you’re out, wash your hands frequently, and don't touch your face:
+
 While we are trying to proceed as noraml (haha), there is nothing normal about a pandemic, and everyone is encouraged to follow state guidelines and to take necessary precautions. If you become sick or a family member is sick, or you suffer from the death of a loved one, everyone is encouraged to share this information. Of course, we will respect your privacy. But the only way we will manage this pandemic is through mutual support. Please visit Seattle University’s COVID-19 Response page for more information. 
 
-University Resources and Policies
-University Resources
-CANVAS and DIGITAL LEARNING HELP (Links to an external site.)
-LIBRARY and LEARNING COMMONS (Links to an external site.)
-WRITING CENTER (Links to an external site.)
-LEARNING ASSISTANCE PROGRAMS (Links to an external site.)
-ACADEMIC INTEGRITY TUTORIAL (Links to an external site.)
+## University Resources
+
+[CANVAS and DIGITAL LEARNING HELP](https://www.seattleu.edu/cdlihelp/?redirect=true)
+
+[LIBRARY and LEARNING COMMONS](https://www.seattleu.edu//learningcommons/)
+
+[WRITING CENTER](https://www.seattleu.edu/writingcenter/)
+
+[LEARNING ASSISTANCE PROGRAMS](https://www.seattleu.edu/learning-assistance/)
+
+[ACADEMIC INTEGRITY TUTORIAL](https://www.seattleu.edu/academic-integrity/?redirect=true)
+
 The following policies govern this course and comply with Seattle University policies.
-Support for Students with Disabilities
-If you have, or think you may have, a disability (including an “invisible disability” such as a learning disability, a chronic health problem, or a mental health condition) that interferes with your performance as a student in this class, you are encouraged to arrange support services and/or accommodations through Disabilities Services staff located in Loyola 100, (206) 296- 5740. Disability-based adjustments to course expectations can be arranged only through this process.
-DISABILITY SERVICES (Links to an external site.)Academic Policies from the SU Registrar
+
+
+## Support for Students With Disabilities
+
+If you have, or think you may have, a disability (including an “invisible disability” such as a learning disability, a chronic health problem, or a mental health condition) that interferes with your performance as a student in this class, you are encouraged to arrange support services and/or accommodations through Disabilities Services staff located in Loyola 100, (206) 296- 5740. Disability-based adjustments to course expectations can be arranged only through this process. 
+
+[DISABILITY SERVICES](https://www.seattleu.edu/disability-services/)
+
+
+## Academic Policies from the SU Registrar
+
 Be sure that you understand the appropriate university academic policies, posted on the Registrar’s website:
-SU's Academic Policies (Links to an external site.)
-Incomplete Grades
+
+   [SU's Academic Policies](https://www.seattleu.edu/redhawk-service-center/academic-policies/)
+   
+    
+### Incomplete Grades
+
 If you are unable to complete course requirements because of extenuating circumstances, please notify the instructor on or before the date the assignment is due and provide relevant supporting documentation (e.g. doctor’s note, note from counselor).
-An agreement to receive an Incomplete (I) grade may be negotiated if your circumstances do not allow you to finish the course on time. The Incomplete Removal Policy of the university is available on the Office of the Registrar web site (Links to an external site.).
-Course Policies
-Assignment Deadlines and Extensions
-Assignments should be submitted at the designated due date/time. If a student requires an extension, they should request one from the instructor 24 hours in advance.
-Extended Extensions
+
+An agreement to receive an Incomplete (I) grade may be negotiated if your circumstances do not allow you to finish the course on time. The Incomplete Removal Policy of the university is available on the Office of the [Registrar web site](https://www.seattleu.edu/registrar/Policies.aspx). 
+
+
+## Course Policies
+
+
+### Assignment Deadlines and Extensions
+
+Assignments should be submitted at the designated due date/time. If a student requies an extension, they should request one from the instructor 24 hours in advance. 
+
+#### Extended Extensions
+
 All assignments from the first four weeks of the quarter will be due no later than the start of week 5. This hard deadline is automatic. Exceptions will require additional permission.
+
 All assignments from the second four weeks of the quarter will be due no later than the start of week 9. This hard deadline is automatic. Exceptions will require additional permission.
-Assignments and Grading
-CONFERENCES (2.5 points ea. / 5% total)
+
+
+## Assignments and Grading
+
+
+#### CONFERENCES (2.5 points ea. / 5% total)
+
 Each student will meet with the instructor twice for online, one-on-one conferences. These conferences will take place between weeks 2 & 3 and weeks 7 & 8.
-Discussion Boards (10 points each / 20%)
+
+#### DISCUSSIONS (10 points ea. / 20% total)
+
 Each week will be a discussion question for you to explore. These should be 150+ words and will be due by midnight Saturday of each week. I would like you to then comment on two of your peer’s postings by midnight on Sunday. We will discuss these in class during the next in class meeting.
-PROGRESS REPORTS (10 points each/ 10%)
+
+#### PROGRESS REPORTS (10 points each/ 10%)
 
 Students will be asked to submit a progress report every other week (4 total) with respect to their particular task(s) or job for the FINAL PROJECT. These can be short reports that simply detail what you have accomplished (or attempted to accomplish) in the last week or so. In each case, students will be asked to provide some kind of evidence for their progress. In many cases, this evidence can be a screenshot of something you’re doing on your computer (it must be legible). In addition, students will be asked to submit how many hours they have spent working on the project, so it is highly recommended that students maintain a log of their hours. 
 
 Progress reports are important because you will have to account for your contribution to the FINAL PROJECT at the end of the class. These reports will help you to make a case for your contribution. 
 
-Quizzes (5-20 points each / 10%)
+#### Quizzes (5-20 points each / 10%)
 
 Normally our classes avoid quizzes, but because DICE4040 includes many skills acquisition lessons, perhaps the most effective way to test these skills is through short quizzes. These are not meant to “stump” students. While there might be the occasional multiple-choice question, these quizzes are really intended to get students thinking with and applying the skills lessons, so you are more likely to be asked to sketch a design, outline a model, or create a chart. 
 
-FINAL PROJECT (up to 300 points / 40%)
+#### FINAL PROJECT (up to 300 points / 40%)
 
 The Final Project will be a collaborative effort. It will include a proposal (first draft and final draft), usability testing questions and revisions, testing, the interpretation of data, project recommendations, the final deliverable (i.e. a report, wireframes, prototypes, and so forth), the presentation to the community partner, and a final summary of your contribution, which will be similar to a typical progress report. Many of these assignments will be submitted on discussion boards, but they will be labeled as “FINAL PROJECT.” Students will all receive the same grade for the final deliverable and the group presentation; for everything else they will receive an individual score. The final project will conclude with an email to the community partner, which will thank them for the opportunity and provide access to deliverables (a link or compressed file). 
 
-REFLECTIONS (10 points each / 15% total)
+#### REFLECTIONS (10 points each / 15% total)
+
 Following different weeks and sections, we will submit reflective essays. At 15% of your grade, these reflections are very important. They should demonstrate an understanding of the outcomes fulfilled. Additionally, students will reflect on how the skills acquired in class will apply outside of class. Last, and most important, students can use these reflections to discuss how they feel about their research, their findings, and how it all relates to their world and the world at large. Students are encouraged here to make connections, to course materials, to previous or simultaneous classes, as well as current events. 
-Course Schedule
+
+# Course Schedule
+
 Please note that the following is a ‘working schedule.’ Class materials are subject to change based on the interests, understanding, and general pace of the class.  Changes and announcements will be made in class and through email and Announcements (on Canvas).
-Week 1: What is Social Justice and Digital Media All About? (Lab, Jan 7)
+
+## Week 1: What is Social Justice and Digital Media All About? (Lab, Jan 7)
 
 This week is dedicated to understanding the fundamental concepts on which this class is based. We will think about what it means to combine digital technology/media with social justice. Next, we will discuss what it means to do service learning in the classroom, or what it means to take the classroom beyond the university walls and into “real life.” But, with this traversing of borders in mind, we also have to recognize our privileged position within the university system, and so we will explore what it means to colonize others in ways that are consistent with imperialism, capitalism, and neoliberalism, and what it might mean to take a decolonizing approach instead. 
 
 For the final project, we will just explore the community partner’s site in depth, and familiarize ourselves with their problem, purpose, audience, medium, and genre. 
 
-CONTEXT: Digital Activism Beyond Clicking “Like”
+### CONTEXT: Digital Activism Beyond Clicking “Like”
 
 Trebor Scholz, “Where the Activism Is,” Digital Media and Democracy: Tactics in Hard Times, MIT, 2008, 355-66. 
 
-THEORY: Taking Education Outside the Classroom
+### THEORY: Taking Education Outside the Classroom
 
 bell hooks, “Democratic Education,” Teaching Community: A Pedagogy of Hope. Routledge, 2003, 41-49. 
 
-THEORY: Anti-Imperialist Methodologies
+### THEORY: Anti-Imperialist Methodologies
 
 Smith, Linda Tuhiwai. “Notes from Down Under,” Decolonizing Methodologies: Research and Indigenous Peoples. Zed, 2012. 98-110. 
 
-DISCUSSION: Why Are We Here? 
+### DISCUSSION: Why Are We Here? 
 
-SKILLS ACQUISITION: What is UX? 
+### SKILLS ACQUISITION: What is UX? 
 
 Krug, Steve. “Introduction: Read Me First,” Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability, Third Edition. New Riders, 2013.
 
-SKILLS ACQUISITION: Collaboration/Teamwork 
+### SKILLS ACQUISITION: Collaboration/Teamwork 
 
 Martine Haas and Mark Mortensen, “The Secrets of Great Teamwork,” The Harvard Business Review. June 2016.
 
-FINAL PROJECT: Explore Our Community Partner’s Site
+### FINAL PROJECT: Explore Our Community Partner’s Site
 
 
 MODULE 1: Social Justice as a Framework for Research and Design
