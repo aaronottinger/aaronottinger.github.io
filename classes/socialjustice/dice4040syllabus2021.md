@@ -148,7 +148,7 @@ If someone looks like they are not doing well, ask them, “Are you okay?” Let
 
 6.	In light of the COVID-19: Stay home, wear a mask when you’re out, wash your hands frequently, and don't touch your face:
 
-While we are trying to proceed as noraml (haha), there is nothing normal about a pandemic, and everyone is encouraged to follow state guidelines and to take necessary precautions. If you become sick or a family member is sick, or you suffer from the death of a loved one, everyone is encouraged to share this information. Of course, we will respect your privacy. But the only way we will manage this pandemic is through mutual support. Please visit Seattle University’s COVID-19 Response page for more information. 
+While we are trying to proceed as noraml (haha), there is nothing normal about a pandemic, and everyone is encouraged to follow state guidelines and to take necessary precautions. If you become sick or a family member is sick, or you suffer from the death of a loved one, everyone is encouraged to share this information. Of course, we will respect your privacy. But the only way we will manage this pandemic is through mutual support. [Please visit Seattle University’s COVID-19 Response page for more information](https://www.seattleu.edu/coronavirus/). 
 
 ## University Resources
 
