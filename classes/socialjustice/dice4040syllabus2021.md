@@ -13,7 +13,7 @@
 
 ## Course Description
 
-In “Social Justice and Digital Media” you will learn skills that will help you take theories of social justice in the digital realm and apply them outside the confines of the university. This course is a service-learning class, which means we will work in partnership with an outside mission-based organization and the work you do will directly impact the community in which you live. 
+In “Social Justice and Digital Media” you will learn skills that will help you take theories of social justice in the digital realm and apply them outside the confines of the university. This course is a service-learning class, which means we will work in partnership with an outside mission-based organization, and the work you do will directly impact the community in which you live. 
 
 Along this journey, we will be asking important questions about social justice work: Who gets to do it? How it is done? and Who benefits? It’s important that we take a critical approach because it is easy to do social justice work irresponsibly. For instance, if you encountered a community that lacked educational supplies, it might seem like a good idea to send them laptops and tablets. But if the internet infrastructure is weak, how effective are these new tools going to be? Part of our job in this class is to think about our own position within a social justice framework and to imagine community-led approaches. In part, that means asking communities what they want instead of telling them what they need. Instead of a top-down model, we are thinking through more dynamic approaches to social justice. 
 
