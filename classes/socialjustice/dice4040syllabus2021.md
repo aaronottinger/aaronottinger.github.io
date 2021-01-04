@@ -339,7 +339,7 @@ Unger, Russ, and Carolyn Chandler, “Proposals for Consultants and Freelancers�
 
 
 
-## WEEK 4: Audiences and Affordances (Jan 28)
+## WEEK 4: Audiences and Affordances (Class, Jan 28)
 
 We know from studying digital media and globalization (DICE4020) that many corporations swoop in after a natural or economic disaster and use a community’s vulnerability to their advantage, an important component of “the shock doctrine.” The question is: Where were these companies before the disaster? If you’re only there to help when someone is at “rock bottom,” are you really there to help, or are you preying on someone at their most vulnerable moment? These kinds of questions belong to rhetoric, and this week we will think rhetorically about the people we wish to serve, when is the right time to offer services (and for how long), how should we serve (what media should we use, what are appropriate genres, what are the most useful and socially responsible tools or software), what are we convincing others (and ourselves) of, and ultimately, why are we doing it? 
 
@@ -366,7 +366,7 @@ Fabricio Teixeria, “Asking the Right Questions During User Research, Interview
 
 
 
-## WEEK 5: Tools, Sites, Media, and Modalities (Feb 4)
+## WEEK 5: Tools, Sites, Media, and Modalities (Lab, Feb 4)
 
 If you wanted to present information to a group of elementary school students, you might be less successfully if you show up with a bunch of graphs, charts, and statistical figures to back up your claims (instead, consider puppets!). This is an issue of audience and knowing which modalities, generic conventions, and media will be received best by them. This week we consider the rhetoric and the epistemological significance of the tools, sites, media, and modalities (visual, spatial, linguistic, oral, and so forth) we use in social justice work in a digital domain. 
 
@@ -400,7 +400,7 @@ Jessica Ivins, “Why My Students Learn to Recruit User Research Participants,�
 
 # Module 2: Disability Justice: Accessibility 
 
-## WEEK 6: Accessibility, part I: Definition, History, and Legality (Feb 11)
+## WEEK 6: Accessibility, part I: Definition, History, and Legality (Class, Feb 11)
 
 One of the most important lessons from Eve Kosofsky Sedgwick, Judith Butler, and their ilk is this: No body is the same. Usually when we make something, we make it according to our own body. So if I make a table, I make it according to my height. But not everyone is the same height as me. Is it possible to make other tables? Is it possible to make an adjustable table? Similar situations can be found online. This week, we think about what accessibility means, how we have arrived at our current levels of accessibility, and the legal concerns tied to accessibility. 
 
@@ -423,7 +423,7 @@ Gilbert, Regine. “Chapters 1, 2, 3, 4, and 5.” Inclusive Design for a Digita
 #### PROGRESS REPORT: Week 6
 
 
-## WEEK 7: Accessibility, part II: Research, Testing, Design (Feb 18)
+## WEEK 7: Accessibility, part II: Research, Testing, Design (Lab, Feb 18)
 
 Now that we have situated accessibility within a larger history, now we need to think about how we can incorporate it into our designs. For instance, the syllabus you are currently reading has been organized using headings (h1, h2, h3, h4). These headings make it easier to navigate for someone using a screen reader. While this simple fix will not eliminate all accessibility issues, we must strive to constantly improve our online documents, tools, and sites so that they can accommodate as many folks as possible. 
 
@@ -445,7 +445,7 @@ Hamraie, Aimi. “Mapping Access: Digital Humanities, Disability Justice, and So
 
 # Module 3: Deliverables, Presentations, and Reflections
 
-## WEEK 8: Deliverables and Proposal Revisions (Feb 25)
+## WEEK 8: Deliverables and Proposal Revisions (Class, Feb 25)
 
 By now we should have all of our data and we should no longer be running usability tests. Based on the data we have at this point, what changes, if any, do we think our client should make to their site? Can we design something that helps them imagine what an alternative might look like? Last, do we need to make any revisions to our proposal? Did we run tests that we did not originally recommend? Are we fulfilling our goals/outcomes? Let’s adjust the proposal so that it reflects what we are actually doing and what we’re actually going to accomplish. 
 
@@ -458,7 +458,7 @@ Shane Ketterman, “Form and Function—a Guide to the Top Wireframe Tools,” U
 #### PROGRESS REPORT: Week 8
 
 
-## WEEK 9: Social Justice as a Framework for Presenting (Mar 4)
+## WEEK 9: Social Justice as a Framework for Presenting (Lab, Mar 4)
 
 Isn’t a presentation just a presentation? Your presentation can’t be informed by social justice, can it? It can! This week, will read a number of shorter pieces from academics working on racial justice and disability justice, and think about how we can apply their principles and recommendations into our own presentation for our community partner. 
 
@@ -476,7 +476,7 @@ Wes Holing, “10 Tips for Great Nonprofit PowerPoint Presentations.” TechSoup
 FINAL PROJECT: Final Project Presentation 
 
 
-## WEEK 10: Reflections (Mar 11)
+## WEEK 10: Reflections (Class, Mar 11)
 
 This week we present our findings to our community partner. Hooray! You’ve made it. But we also want to think about the future of social justice and digital media, and what role they might play in our own lives following the conclusion of our class. 
 
