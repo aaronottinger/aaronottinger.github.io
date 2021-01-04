@@ -32,27 +32,27 @@ Working with the local organization EchoX.org, we will function much like a nonp
 
 The Learning Outcomes for this class are the same as the course outcomes for the department. However, to make sense of these outcomes in the context of a Digital Identities, each outcome will require a little qualification (below). In addition, every assignment in this course corresponds with one or more Learning Outcome. In each module/assignment, the corresponding Learning Outcomes will be qualified further to fit the task at hand.
 
-I	EXPLAIN KEY CONCEPTS IN COMPUTING: This outcome focuses your ability to explain key concepts in computing, media production, and internet-enabled communication.
+### I	EXPLAIN KEY CONCEPTS IN COMPUTING: This outcome focuses your ability to explain key concepts in computing, media production, and internet-enabled communication.
 
 Throughout the term, there will be key concepts introduced, pertaining to social justice and digital media (e.g. “accessibility”). Students may be asked to define and engage with new concepts in quizzes and discussions. In addition, students will be expected negotiate the use of this vocabulary when interacting with audiences outside the classroom or with other professionals working outside of our selected skillset (i.e. user experience/usability).  
  
-II	EVALUATE RESEARCH SOURCES & DIGITAL TOOLS: This outcome focuses on your ability to evaluate the relative strengths and weaknesses of research sources, digital tools, interfaces, and technologies. 
+### II	EVALUATE RESEARCH SOURCES & DIGITAL TOOLS: This outcome focuses on your ability to evaluate the relative strengths and weaknesses of research sources, digital tools, interfaces, and technologies. 
 
 Students will encounter a number of critics and theorists throughout the term, and will have opportunities to compare, contrast, and synthesize these theories and outlooks. In addition, students will have the opportunity to evaluate technologies and their ability to enhance, amplify, filter, distort, include, exclude, and target human subjects and identities. 
  
-III	ANALYZE TECHNOLOGY USING INTERDISCIPLINARY THEORIES & METHODS: This outcome focuses on your ability to analyze new and emerging media using interdisciplinary theories and methods. 
+### III	ANALYZE TECHNOLOGY USING INTERDISCIPLINARY THEORIES & METHODS: This outcome focuses on your ability to analyze new and emerging media using interdisciplinary theories and methods. 
 
 Students will analyze digital technologies using frameworks provided by a variety of theorists and critics. Students will also employ a variety of frameworks from critical race theory to science, technology, and society (STS) studies. 
  
-IV	EXAMINE TECHNOLOGICALLY MEDIATED IDENTITIES: This outcome focuses on your ability to examine how technology changes sense of self and transforms ideologies of gender, nationality, ethnicity, sexuality, and social class. 
+### IV	EXAMINE TECHNOLOGICALLY MEDIATED IDENTITIES: This outcome focuses on your ability to examine how technology changes sense of self and transforms ideologies of gender, nationality, ethnicity, sexuality, and social class. 
 
 Much like Digital Identities (DICE4010), one of the fundamental questions of this class is: Who is included and excluded in the world of digital culture? But in this class, we will use digital technology to actually create a more inclusive digital culture. The question now is how will our efforts enhance, amplify, or alter the identities of our intended (and unintended) audiences? 
  
-V	DESIGN MULTIMODAL PROJECTS: This outcome focuses on your ability to design socially responsible multimodal projects using digital rhetoric and audience engagement strategies. 
+### V	DESIGN MULTIMODAL PROJECTS: This outcome focuses on your ability to design socially responsible multimodal projects using digital rhetoric and audience engagement strategies. 
 
 The Final Project for DICE4040 is a report and presentation for the community partner. This project will be a collaborative effort and the final result will involve a variety of modalities, media, genres that contribute to an overall narrative that is legible to a wider, non-academic audience. 
  
-VI	REFLECTION: This outcome focuses on your ability to reflect upon your own work, roles, values, and identities related to digital culture and engagement with social justice issues.
+### VI	REFLECTION: This outcome focuses on your ability to reflect upon your own work, roles, values, and identities related to digital culture and engagement with social justice issues.
 
 The term will be punctuated by reflective writing. Rather than ask students to wait until the end of the course to share their personal thoughts and feelings, reflections will be incorporated into each module.
 
