@@ -33,7 +33,7 @@ Working with the local organization EchoX.org, we will function much like a nonp
 
 ## Learning Outcomes 
 
-The Learning Outcomes for this class are the same as the course outcomes for the department. However, to make sense of these outcomes in the context of a Digital Identities, each outcome will require a little qualification (below). In addition, every assignment in this course corresponds with one or more Learning Outcome. In each module/assignment, the corresponding Learning Outcomes will be qualified further to fit the task at hand.
+The Learning Outcomes for this class are the same as the course outcomes for the department. However, to make sense of these outcomes in the context of a social justice and digital media, each outcome will require a little qualification (below). In addition, every assignment in this course corresponds with one or more Learning Outcome. In each module/assignment, the corresponding Learning Outcomes will be qualified further to fit the task at hand.
 
 ### I	EXPLAIN KEY CONCEPTS IN COMPUTING: This outcome focuses your ability to explain key concepts in computing, media production, and internet-enabled communication.
 
@@ -53,7 +53,7 @@ Much like Digital Identities (DICE4010), one of the fundamental questions of thi
  
 ### V	DESIGN MULTIMODAL PROJECTS: This outcome focuses on your ability to design socially responsible multimodal projects using digital rhetoric and audience engagement strategies. 
 
-The Final Project for DICE4040 is a report and presentation for the community partner. This project will be a collaborative effort and the final result will involve a variety of modalities, media, genres that contribute to an overall narrative that is legible to a wider, non-academic audience. 
+The Final Project for DICE4040 is a report and presentation for the community partner. This project will be a collaborative effort and the final result will involve a variety of modalities, media, and genres that contribute to an overall narrative, legible to a wider, non-academic audience. 
  
 ### VI	REFLECTION: This outcome focuses on your ability to reflect upon your own work, roles, values, and identities related to digital culture and engagement with social justice issues.
 
