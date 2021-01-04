@@ -265,7 +265,7 @@ bell hooks, “Democratic Education,” Teaching Community: A Pedagogy of Hope. 
 
 Smith, Linda Tuhiwai. “Notes from Down Under,” Decolonizing Methodologies: Research and Indigenous Peoples. Zed, 2012. 98-110. 
 
-### DISCUSSION: Why Are We Here? 
+#### DISCUSSION: Why Are We Here? 
 
 ### SKILLS ACQUISITION: What is UX? 
 
@@ -275,7 +275,7 @@ Krug, Steve. “Introduction: Read Me First,” Don't Make Me Think, Revisited: 
 
 Martine Haas and Mark Mortensen, “The Secrets of Great Teamwork,” The Harvard Business Review. June 2016.
 
-### FINAL PROJECT: Explore Our Community Partner’s Site
+#### FINAL PROJECT: Explore Our Community Partner’s Site
 
 
 # MODULE 1: Social Justice as a Framework for Research and Design
@@ -294,7 +294,7 @@ Tara McPherson, “Why Are the Digital Humanities So White? or Thinking the Hist
 
 Costanza-Chock, Sasha. “Introduction: #TravelingWhileTrans, Design Justice, and Escape from the Matrix of Domination.” Design Justice : Community-led Practices to Build the Worlds We Need. Cambridge, Massachusetts: MIT, 2020, 1-24. 
 
-### DISCUSSION: What Kinds of Social Justice Problems Belong to the Digital Domain? What Should Be Our Purpose(s) as Social Justice Designers, Writers, and Researchers? 
+#### DISCUSSION: What Kinds of Social Justice Problems Belong to the Digital Domain? What Should Be Our Purpose(s) as Social Justice Designers, Writers, and Researchers? 
 
 ### SKILLS ACQUISITION: Diagnosing Problems in UX
 
@@ -302,9 +302,9 @@ Krug, Steve. “Chapter 1” Don't Make Me Think, Revisited: A Common Sense Appr
 
 Unger, Russ, and Carolyn Chandler, “Business Requirements: Know the Problem Before You Create the Solution” A Project Guide to UX Design: For User Experience Designers in the Field or in the Making. 2nd ed. 2012. n.p.
 
-### FINAL PROJECT: Exploring Directories: Templates and Examples 
+#### FINAL PROJECT: Exploring Directories: Templates and Examples 
 
-### PROGRESS REPORT: Week 2
+#### PROGRESS REPORT: Week 2
 
 ## WEEK 3: Who We Are and Who Gets to Be: Authors/Activists/Designers (Lab, Jan 21)
 
@@ -320,168 +320,168 @@ Charlton D. McIlwain, Black Software: The Internet and Racial Justice, from the 
 
 Costanza-Chock, Sasha. “Design Practices: ‘Nothing About Us Without Us,’” Design Justice: Community-led Practices to Build the Worlds We Need. Cambridge, Massachusetts: MIT, 2020, 69-101. 
 
-### DISCUSSION: Seeing Ourselves Through a Social Justice Lens
+#### DISCUSSION: Seeing Ourselves Through a Social Justice Lens
 
 ### SKILLS ACQUISITION: How We Read the Web 
 
 Krug, Steve. “Chapters 2, 3, 4, 5.” Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability, Third Edition. New Riders, 2013.
 
-### QUIZ: How We Read the Web
+#### QUIZ: How We Read the Web
 
 ### SKILLS ACQUISITON: Drafting a Proposal
 
 Unger, Russ, and Carolyn Chandler, “Proposals for Consultants and Freelancers” A Project Guide to UX Design: For User Experience Designers in the Field or in the Making. 2nd ed. 2012. n.p.
 
-### FINAL PROJECT: Proposal 
+#### FINAL PROJECT: Proposal 
 
 
 
-WEEK 4: Audiences and Affordances (Jan 28)
+## WEEK 4: Audiences and Affordances (Jan 28)
 
 We know from studying digital media and globalization (DICE4020) that many corporations swoop in after a natural or economic disaster and use a community’s vulnerability to their advantage, an important component of “the shock doctrine.” The question is: Where were these companies before the disaster? If you’re only there to help when someone is at “rock bottom,” are you really there to help, or are you preying on someone at their most vulnerable moment? These kinds of questions belong to rhetoric, and this week we will think rhetorically about the people we wish to serve, when is the right time to offer services (and for how long), how should we serve (what media should we use, what are appropriate genres, what are the most useful and socially responsible tools or software), what are we convincing others (and ourselves) of, and ultimately, why are we doing it? 
 
 UX testing requires that we have test subjects, and those test subjects need direction. This direction comes in the form of a series of questions, which we will start to develop this week. 
 
 
-CONTEXT: For Whom Do We Design? 
+### CONTEXT: For Whom Do We Design? 
 
 Costanza-Chock, Sasha. “Design Values: Hard-Coding Liberation,” Design Justice: Community-led Practices to Build the Worlds We Need. Cambridge, Massachusetts: MIT, 2020, 31-68. 
 
-DISCUSSION: Seeing Audiences Through a Social Justice Lens
+#### DISCUSSION: Seeing Audiences Through a Social Justice Lens
 
-SKILLS ACQUISITION: Web Site Design 101
+### SKILLS ACQUISITION: Web Site Design 101
 
 Krug, Steve. “Chapters 6 and 7.” Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability, Third Edition. New Riders, 2013.
 
-SKILLS ACQUISITION: Asking the Right Usability Questions
+### SKILLS ACQUISITION: Asking the Right Usability Questions
 
 Fabricio Teixeria, “Asking the Right Questions During User Research, Interviews and Testing,” UX Collective. 20 Mar. 2017. 
 
-FINAL PROJECT: Developing Usability Questions
+#### FINAL PROJECT: Developing Usability Questions
 
-PROGRESS REPORT: Week 4
+#### PROGRESS REPORT: Week 4
 
 
 
-WEEK 5: Tools, Sites, Media, and Modalities (Feb 4)
+## WEEK 5: Tools, Sites, Media, and Modalities (Feb 4)
 
 If you wanted to present information to a group of elementary school students, you might be less successfully if you show up with a bunch of graphs, charts, and statistical figures to back up your claims (instead, consider puppets!). This is an issue of audience and knowing which modalities, generic conventions, and media will be received best by them. This week we consider the rhetoric and the epistemological significance of the tools, sites, media, and modalities (visual, spatial, linguistic, oral, and so forth) we use in social justice work in a digital domain. 
 
 We also need to decide what tools we want to use in our own UX project. We will survey the tools available to us, and think about the media and modalities we want to use to present our findings from these tools. 
 
-THEORY: Data Visualization and Epistemological Frameworks
+### THEORY: Data Visualization and Epistemological Frameworks
 
 Sarah Williams, “Data Visualizations Break Down Knowledge Barriers in Public Engagement,” Civic Media: Technology, Design, and Practice, edited by Eric Gordon, et. al. MIT, 2016, 169-91.
 
-CONTEXT: Where Design Happens (and who’s allowed in)
+### CONTEXT: Where Design Happens (and who’s allowed in)
 
 Costanza-Chock, Sasha. “Design Sites: Hackerspaces, Fablabs, Hackathons, and DiscoTechs,” Design Justice: Community-led Practices to Build the Worlds We Need. Cambridge, Massachusetts: MIT, 2020, 136-72. 
 
-DISCUSSION: Rhetoric and Epistemology of the Digital Social Justice Toolbox
+#### DISCUSSION: Rhetoric and Epistemology of the Digital Social Justice Toolbox
 
-SKILLS ACQUISITION: Tools, Tools, Tools! 
+### SKILLS ACQUISITION: Tools, Tools, Tools! 
 
 UX Collective Editor, “UX Tools for Every Step in Your Design Process,” UX Collective, 30 Apr. 2016. 
 
-SKILLS ACQUISITION: Usability and Usability Testing
+### SKILLS ACQUISITION: Usability and Usability Testing
 
 Krug, Steve. “Chapters 8, 9, and 10” Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability, Third Edition. New Riders, 2013.
 
 Jessica Ivins, “Why My Students Learn to Recruit User Research Participants,” Medium.com, 25 Feb. 2019. 
 
-QUIZ: Usability Testing
+#### QUIZ: Usability Testing
 
-FINAL PROJECT: Revising Usability Questions and Recruiting User Research Participants
+#### FINAL PROJECT: Revising Usability Questions and Recruiting User Research Participants
 
-REFLECTION: Module 1: Social Justice as a Framework for Research and Design 
+#### REFLECTION: Module 1: Social Justice as a Framework for Research and Design 
 
-Module 2: Disability Justice: Accessibility 
+# Module 2: Disability Justice: Accessibility 
 
-WEEK 6: Accessibility, part I: Definition, History, and Legality (Feb 11)
+## WEEK 6: Accessibility, part I: Definition, History, and Legality (Feb 11)
 
 One of the most important lessons from Eve Kosofsky Sedgwick, Judith Butler, and their ilk is this: No body is the same. Usually when we make something, we make it according to our own body. So if I make a table, I make it according to my height. But not everyone is the same height as me. Is it possible to make other tables? Is it possible to make an adjustable table? Similar situations can be found online. This week, we think about what accessibility means, how we have arrived at our current levels of accessibility, and the legal concerns tied to accessibility. 
 
 This week we begin our testing. First, we have to recruit some test subjects. We will also want to make sure that we are including accessibility issues within this testing, so we may have to go back and revise our usability questions before getting started. 
 
-CONTEXT: Introduction to Universal Design 
+### CONTEXT: Introduction to Universal Design 
 
 George Williams, “Disability, Universal Design, and the Digital Humanities,” Debates in Digital Humanities, edited by Matthew Gold, Minnesota University Press, 2016. n.p.
 
-DISCUSSION: Combatting “Screen Essentialism”
+#### DISCUSSION: Combatting “Screen Essentialism”
 
-SKILLS ACQUISITION: Introduction to Accessibility 
+### SKILLS ACQUISITION: Introduction to Accessibility 
 
 Gilbert, Regine. “Chapters 1, 2, 3, 4, and 5.” Inclusive Design for a Digital World: Designing with Accessibility in Mind. 1st ed. Apress, 2019.
 
-QUIZ: Accessibility 101
+#### QUIZ: Accessibility 101
 
-FINAL PROJECT: UX Testing and Research
+#### FINAL PROJECT: UX Testing and Research
 
-PROGRESS REPORT: Week 6
+#### PROGRESS REPORT: Week 6
 
 
-
-WEEK 7: Accessibility, part II: Research, Testing, Design (Feb 18)
+## WEEK 7: Accessibility, part II: Research, Testing, Design (Feb 18)
 
 Now that we have situated accessibility within a larger history, now we need to think about how we can incorporate it into our designs. For instance, the syllabus you are currently reading has been organized using headings (h1, h2, h3, h4). These headings make it easier to navigate for someone using a screen reader. While this simple fix will not eliminate all accessibility issues, we must strive to constantly improve our online documents, tools, and sites so that they can accommodate as many folks as possible. 
 
 This week, we may still be scheduling and running UX testing sessions. That’s fine. Hopefully, the data is starting to pour in and we can start thinking about how to organize this data, what it means, and how we want to re-present it to others. 
 
-SKILLS ACQUISITION: Researching, Designing, and Testing for Inclusive Design
+### SKILLS ACQUISITION: Researching, Designing, and Testing for Inclusive Design
 
 Gilbert, Regine. “Chapters 6, 7, 8, 9, and 10.” Inclusive Design for a Digital World: Designing with Accessibility in Mind. 1st ed. Apress, 2019.
 
-QUIZ: Researching, Designing, and Testing for Inclusive Design
+#### QUIZ: Researching, Designing, and Testing for Inclusive Design
 
-CONTEXT: Doubling Up: Making Accessibility the Object Itself
+### CONTEXT: Doubling Up: Making Accessibility the Object Itself
+
 Hamraie, Aimi. “Mapping Access: Digital Humanities, Disability Justice, and Sociospatial Practice.” American Quarterly, vol. 70 no. 3, 2018, p. 455-482. Project MUSE, doi:10.1353/aq.2018.0031.
-DISCUSSION: What Would You Research to Promote Disability Justice? 
 
-FINAL PROJECT: Analyzing Data and Interpreting the Results 
+#### DISCUSSION: What Would You Research to Promote Disability Justice? 
 
-Module 3: Deliverables, Presentations, and Reflections
+#### FINAL PROJECT: Analyzing Data and Interpreting the Results 
 
-WEEK 8: Deliverables and Proposal Revisions (Feb 25)
+# Module 3: Deliverables, Presentations, and Reflections
+
+## WEEK 8: Deliverables and Proposal Revisions (Feb 25)
 
 By now we should have all of our data and we should no longer be running usability tests. Based on the data we have at this point, what changes, if any, do we think our client should make to their site? Can we design something that helps them imagine what an alternative might look like? Last, do we need to make any revisions to our proposal? Did we run tests that we did not originally recommend? Are we fulfilling our goals/outcomes? Let’s adjust the proposal so that it reflects what we are actually doing and what we’re actually going to accomplish. 
 
-
-SKILLS ACQUISITION: Wireframing: What is It and How Does it Work? 
+### SKILLS ACQUISITION: Wireframing: What is It and How Does it Work? 
 
 Shane Ketterman, “Form and Function—a Guide to the Top Wireframe Tools,” UX Collective, 6 Sep. 2019.
 
-FINAL PROJECT: Revisions and Recommendations for the Future 
+#### FINAL PROJECT: Revisions and Recommendations for the Future 
 
-PROGRESS REPORT: Week 8
+#### PROGRESS REPORT: Week 8
 
 
- 
-WEEK 9: Social Justice as a Framework for Presenting (Mar 4)
+## WEEK 9: Social Justice as a Framework for Presenting (Mar 4)
 
 Isn’t a presentation just a presentation? Your presentation can’t be informed by social justice, can it? It can! This week, will read a number of shorter pieces from academics working on racial justice and disability justice, and think about how we can apply their principles and recommendations into our own presentation for our community partner. 
 
-THEORY: Who Are You and Where Are You When You Present? 
+### THEORY: Who Are You and Where Are You When You Present? 
 
 Eugenia Zuroski, “Academic Land Acknowledgment for Settler Scholars.” Graduate Student Caucus Blog: for Eighteenth-Century Studies. 25, Feb. 2020. 
 
-THEORY: Is Your Presentation for Everyone? 
+### THEORY: Is Your Presentation for Everyone? 
 
 Jason S. Farr and Travis Chi Wing Lau, "Toward a More Accessible Conference Presentation." MLA Profession, n.d.
 
-SKILLS ACQUISITION: PowerPoints
+### SKILLS ACQUISITION: PowerPoints
+
 Wes Holing, “10 Tips for Great Nonprofit PowerPoint Presentations.” TechSoup. 29 May. 2018.
 FINAL PROJECT: Final Project Presentation 
 
 
-WEEK 10: Reflections (Mar 11)
+## WEEK 10: Reflections (Mar 11)
 
 This week we present our findings to our community partner. Hooray! You’ve made it. But we also want to think about the future of social justice and digital media, and what role they might play in our own lives following the conclusion of our class. 
 
-CONTEXT: Where Do We Go from Here? 
+### CONTEXT: Where Do We Go from Here? 
 
 Costanza-Chock, Sasha. “Directions for Future Work: From #TechWontBuildIt to #DesignJustice,” Design Justice: Community-led Practices to Build the Worlds We Need. MIT, 2020. 211-36. 
 
-FINAL PROJECT: Presentation, Final Deliverable, and Reflection
+#### FINAL PROJECT: Presentation, Final Deliverable, and Reflection
 
 
  
