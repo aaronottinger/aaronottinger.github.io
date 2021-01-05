@@ -259,26 +259,106 @@ Following major assignment sequences 1, 2 and 3, students will submit reflective
 | between 0 and 57 | 0.0 | F | 
 
 
-# Calendar
+# COURSE SCHEDULE & TOPICS
+ 
+## MODULE 1: Definitions and Personal Connections to Digital Technology and Globalization
 
-| Module / Week | What to Read | What to Complete |
-| ----------- | ----------- | ----------- |
-| **Module 0.5** | **What is a History of Text Technologies** |  |
-| Week 1: What is a History of Text Technologies? | TEXT: Rousseau, Discourse on Inequality, Part I CONTEXT: Jerome McGann, "Why Textual Scholarship Matters?" Carolyn Marvin, "Introduction," When Old Technologies Were New. THEORY: Michael Haworth, "Bernard Stiegler on Transgenerational Memory and the Dual Origin of the Human" | 2 Discussion Board Assignments |
-| **Module 1** | **Ancient Reading and Writing Technologies** |  |
-| Week 2: Early Lexigraphic Writing Around the Globe | TEXT: "The Flood Tablet" or the "Epic of Gilgamesh" CONTEXT: Barry Powell, "Writing : Theory and History of the Technology of Civilization" (Chapters 3, 4, 6, 15, and 16) THEORY: Walter Ong, "Some Psychodynamics of Orality," Orality and Literacy  | 2 Discussion Board Assignments, 1 Timeline contribution, Short Assignment 1 |
-| Week 3: The Alphabet: From Egypt to Greece | TEXT: The Rosetta Stone CONTEXT: Barry Powell, "Writing : Theory and History of the Technology of Civilization" (Chapters 7, 9, 10, 17) THEORY: Walter Ong, "Writing Restructures Consciousness," Orality and Literacy | 2 Discussion Board Assignments, 1 Timeline contribution, Major Assignment 1 |
-| **Module 2** | **The Gutenburg Galaxy** |  |
-| Week 4: The Print Revolution,  the Impressionable Mind, and the Heterogeneity of Books | TEXT: Video of the Gutenberg Press; Rene Descartes, Meditations 1 & 2; William Shakespeare, Taming of the Shrew (an excerpt) CONTEXT: Margreta De Grazia, "Imprints: Shakespeare, Gutenberg, Descartes" THEORY: Walter Ong, "Print, Space, and Closure," Orality and Literacy  | 2 Discussion Board Assignments, 1 Timeline contribution|
-| Week 5: The Marketplace, the Homogenization of Books, and Becoming Bibliographic Subjects, circa 1800 | TEXT: Jane Austen, Persuasion (excerpt) CONTEXT: Andrew Piper, "Introduction" and "Chapter 2: Copying," Dreaming in Books THEORY: Walter Benjamin, "The Work of Art in the Age of Mechanical Reproduction" CONTEXT: Michelle Levy, "Do Women Have a Book History?" | 2 Discussion Board Assignmnets, 1 Timeline contribution, SHORT ASSIGNMENT 2 |
-| Week 6: Writing Machines: Women and the Typewriter in Europe and China | TEXT: Victor Saville, Susie Sunshine (film excerpt) CONTEXT: Angelika Führich, "Woman and Typewriter: Gender, Technology, and Work in Late Weimar Film" THEORY: Geoffrey Winthrop-Young, "Media Theory," Kittler and the Media (66-73) CONTEXT: Thomas S. Mullaney, The Chinese Typewriter : A History (Introduction and Chapter 3: Radical Machines)  | 2 Discussion Board Assignments, 1 Timeline Contribution, MAJOR ASSIGNMENT 2, Reflection: Module 2 |
-| **Module 3** | **Text Technologies in the Digital Age** |  |
-| Week 7: Inclusion and Exclusion in the Rise of Cognizant Texts: Alan Turing | TEXT: Alan Turing, "Computing Machinery and Intelligence" THEORY: Elizabeth Wilson, "The Positive Affects of Alan Turing," Affect and Artificial Intelligence CONTEXT: Arvid Nelson, "Race and Computing: The Problem of Sources, the Potential of Prosopography, and the Lesson of Ebony Magazine"  | 2 Discussion Board Assignments, 1 Timeline contribution |
-| Week 8: I Sing the Body Electric: Digital Texts, Bodies, and Reading | Text: Shelley Jackson, "Patchwork Girl" CONTEXT: Belinda Barnet and Darren Tofts, "Too Dimensional: Literary and Technical Images of Potentiality in the History of Hypertext," Companion to Digital Literary Studies CONTEXT: Diane Greco, "Hypertext with Consequences: Recovering a Politics of Hypertext" THEORY: Katherine Hayles, "How We Read: Close, Hyper, Machine," How We Think  | 1 Discussion Board Assignment, 1 Timeline contribution, SHORT ASSIGNMENT 3 |
-| Week 9: Reading and Writing Machines: OCR and NLP | TEXT: Dan Rockmore. "What Happens When Machines Learn to Write Poetry?" The New Yorker, 7 Jan. 2020. CONTEXT: Natalie Berkman. "Digital Oulipo: Programming Potential Literature" CONTEXT: Hannah Alpert-Abrams, "Machine Reading the Primeros Libros" | 1 Discussion Board Assignment, 1 Timeline contribution, MAJOR ASSIGNMENT 3, Reflection: Module 3 |
-| FINALS WEEK: Reflections on the History (and Futurity) of Text Technologies | TEXT: Hayles, N. Katherine. "Temporality and Cognitive Assemblages" Unthought: The Power of the Cognitive Nonconscious | Complete MAJOR ASSIGNMENT 3 and Reflection: Module 3 |
+### WEEK 1: COURSE OVERVIEW AND INTRODUCTION: Introduction to Globalization and Digital Technology 
+ 
+#### What to read/watch this week
+•	Roland Robertson and Kathleen White. "What is Globalization? (Links to an external site.)" The Blackwell Companion to Globalization. Malden, MA ; Oxford: Blackwell Pub., 2007. Read pages 54-65.
+•	George Ritzer, and Paul Dean. "Chapter 9: High Tech Global Flows and Structures: Technology, Mass Media and the Internet." Globalization: A Basic Text. 2nd ed. Chicester, 2015. Read pages: 237-62.
+
+#### What to complete:
+•	Read syllabus and post any questions to DISCUSSION: Introductions and Syllabus Questions
+•	DISCUSSION: How Would You Define Globalization? 
+•	SHORT ASSIGNMENT: How does digital technology play a determining role in globalization?
+•	FINAL PROJECT: Submit possible research topics.
+ 
+### WEEK 2: Globalization and Its Critics
+ 
+What to read/watch this week:
+•	George Ritzer, and Paul Dean. "Chapter 2: Globalization II: Some Basic Issues, Debates, and Controversies." Globalization: A Basic Text. 2nd ed. Chicester, 2015. Read pages: 27-54.
+•	George Ritzer, and Paul Dean. "Chapter 4: Neoliberalism: Roots, Principles, Criticisms, and Neo-Marxian Alternatives." Globalization: A Basic Text. 2nd ed. Chicester, 2015. Read pages: 83-110.
+ 
+What to complete:
+•	DISCUSSION: Globalization: The Larger Conversation
+•	SHORT ASSIGNMENT: Neoliberalism and Its Discontents
+ 
+WEEK 3:  GLOBAL SEATTLE 
+ 
+What to read/watch this week:
+•	Melissa L. Caldwell and Eriberto P. Lozada Jr. “The Fate of the Local,” in The Blackwell Companion to Globalization, Malden, MA ; Oxford: Blackwell Pub., 2007. Read pages 498-515. 
+•	Quinn Slobodian, “20 Years After Seattle, the Clash of Globalizations Rages On,” The Nation, 29 Nov. 2019. 
+What to complete:
+•	DISCUSSION: TBD
+•	MAJOR ASSIGNMENT: Seattle: Globalization Center or Bastion of Anti-neoliberal Alternatives (or both)?
+MODULE 2: Feeling for the Global: Economic Globalization, Communication Media, and Human Emotions
+
+Week 4: Global Flows of Emotion  
+What to read/watch this week
+•	Megan Boler and Elizabeth Davis, “Introduction: Propaganda by Other Means,” Affective Politics of Digital Media: Propaganda by Other Means, Routledge, 2021. 
+•	Döveling, Katrin, Anu A. Harju, and Denise Sommer. “From Mediatized Emotion to Digital Affect Cultures: New Technologies and Global Flows of Emotion.” Social Media + Society, (January 2018). https://doi.org/10.1177/2056305117743141. 
+•	
+What to complete:
+•	DISCUSSION: How Would You Outline Your Affect Culture? 
+•	SHORT ASSIGNMENT: TBD
+•	FINAL PROJECT: Preliminary Research: A Scholarly or News Article 
+
+ 
+WEEK 5: Corporate Economics and Algorithmic Moods 
+What to read/watch this week
+George Ritzer, and Paul Dean. "Chapter 7: Global Economic Flows.” Globalization: A Basic Text. 2nd ed. Chicester, 2015. Read pages: 174-202. 
+
+ 
+What to complete:
+•	DISCUSSION: How does digital technology mediate global economic flows? 
+•	MAJOR ASSIGNMENT: Evaluating a Sentiment Analysis of a Global Economic and/or Social Justice Topic 
+•	FINAL PROJECT: An Annotated Bibliography (5-8 sources)
+  
+MODULE 3: Labor, Politics, and Resistance  
+  
+WEEK 6: Global Flows and Labor, part I: Invisible Labor
+What to read/watch this week
+Roberts, Sarah T. Behind the Screen: Content Moderation in the Shadows of Social Media. New Haven: Yale University Press, 2019. Read pages: Chapter 2: 33-72 and Chapter 5: 171-200. 
+What to complete:
+•	DISCUSSION BOARD: Commercial Content Moderation: A New Global (Invisible) Work Force
+
+•	SHORT ASSIGNMENT: In Search of Invisible Labor
+ 
+WEEK 7: Global Flows and Labor, part II: Precarity, Migration, and Digital Technology 
+ 
+What to read/watch this week
+•	Last Train Home, dir. Lixin Fan (2009)
+•	Latonero, Mark, and Kift, Paula. "On Digital Passages and Borders: Refugees and the New Infrastructure for Movement and Control." Social Media Society 4.1 (2018): 205630511876443. Web.
+•	Standing, Guy. The Precariat: The New Dangerous Class. Bloomsbury Academic, 2011. Read pages: TBD.
+What to complete:
+•	DISCUSSION BOARD:
+•	RESPONSE PAPER 7:
+•	
 
 
 
-
+Week 8: (NECRO)POLITICS 
+ 
+What to read/watch this week
+Mbembe, Achille. “Necropolitics.” Necropolitics. Duke, 2019, pp. 66-92.
+What to complete:
+•	DISCUSSION BOARD: Politics in a Digital, Globalized World
+•	FINAL PROJECT: Introduction Draft and Peer Review (due 11/17)
+ 
+WEEK 9: Class Struggle and Digital Activism 
+ 
+What to read/watch this week
+•	Marx, Karl. “Chapter 1: Bourgeois and Proletarians,” The Communist Manifesto. 1848. 
+•	Wallerstein, Immanuel. “Class Conflict in the World-Economy,” Race, Nation, Class: Ambiguous Identities, Étienne Balibar and Immanuel Wallerstein. Verso, 1991. 
+•	Castells, Networks of Outrage and Hope, Ch 1.
+•	Bennett, L. and Segerburg, A. "The Logic of Connective Action: Digital Media and the Personalizatoin of Contentious Politics." Information, Communication & Society 15, 5: 737-768.
+What to complete:
+DISCUSSION: A Quote for the Future
+SHORT ASSIGNMENT: Class Struggle and Digital Activism in the Age of Globalization
+Week 10: Reflections on a Globalized World
+•	FINAL PROJECT: Submit final research paper (due 11/24 at 11:59pm)
+•	FINAL REFLECTION: Submit reflection (due 11/24 at 11:59pm)
+ 
 
