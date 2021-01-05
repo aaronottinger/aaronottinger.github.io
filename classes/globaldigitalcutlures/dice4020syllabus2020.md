@@ -204,39 +204,35 @@ All assignments from the first four weeks of the quarter will be due no later th
 
 All assignments from the second four weeks of the quarter will be due no later than the start of week 9. This hard deadline is automatic. Exceptions will require additional permission.
 
-## Assignments and Grading 
+## Assignments and Grading
 
-This course follows a three-module sequence, with each module representing a distinct period in the history of text technologies (ancient, modern, digital). The infographic below outlines this trajectory, starting with an introductory module that asks what we mean by a history of text technologies, followed by a module on ancient reading and writing technologies, succeeded by a section on modern text technologies (from the printing press to the typewriter), and concluding with a module on digital text technologies and a final reflection. Details regarding the kinds of individual assignments are below. 
-
-#### CONFERENCES (2.5 points ea. / 5% total)
+### CONFERENCES (2.5 points ea. / 5% total)
 
 Each student will meet with the instructor twice for online, one-on-one conferences. These conferences will take place between weeks 2 & 3 and weeks 7 & 8.
+Discussion Boards (10 points each / 20%)
+Each week will be a discussion question for you to explore. These should be 150+ words and will be due by midnight Friday of each week. You will then have 48 hours to comment on two of your peer’s postings. 
 
-#### DISCUSSIONS (10 points ea. / 10% total)
+### SHORT ASSIGNMENTS (20 points each / 25%)
 
-Each week we will have 1-2 discussion board assignments. Typically, these discussion board assignments give students a chance to entertain, challenge, and demonstrate their understanding of course materials. Plus, discussion boards tie into short assignments, which in turn prepare students for major assignments. 
+These smaller assignments will help you scaffold the kind of information and research you will need for MAJOR ASSIGNMENTS (below). Sometimes, we will share these assignments through a discussion board, but they are different from “DISCUSSION BOARD” assignments. The purpose of sharing them through discussion boards is simply to showcase your work and to get some feedback. These assignments will also ask you to go above and beyond understanding and/or responding to the assigned essays for that week. Short assignments might include an experiment, a creative project, or possibly a draft of a larger research paper.
 
-#### SHORT ASSIGNMENTS (20 points ea. / 30% total)
+### MAJOR ASSIGNMENTS (100 points each / 40%)
 
-Short Assignments are designed to help students get a jumpstart on Major Assignments. They are smaller in scope and lower in stakes. They also allow students to receive feedback before reaching a more critical or decisive point within their research and work. 
+We will have three MAJOR ASSIGNMENTS this term. 
 
-#### MAJOR ASSIGNMENTS (100 points / 45% total)
+#### Module 1: Global Seattle Video 
 
-Major assignments wrap up each module. They synthesize what has been read and discussed for each module, and so they tend to cover 2-3 weeks worth of materials. 
+For this assignment, you will create a multimodal project that connects Seattle and your research about the city to globalization. This project will incorporate multiple genres, potentially autobiography, history, political commentary, and/or social justice/activism.  
 
-- Major Assignment 1: Representing Ourselves in Video Games
+#### Module 2: Sentiment Analysis
 
-Major assignment 1 is a traditional college-level essay. Following our first example of Rousseau's Discourse on Inequality, students select a form of early lexigraphic writing from one of the five times/regions examined and meditate on how this particular form of writing might have determined (in part) the epistemic state of a particular community in history. As a somewhat speculative endeavor, students are encouraged to use their imagination, while at the same time grounding their claims in the historical and theoretical research discussed in class.
+In the second module, students will have the opportunity to see how natural language processing is being used to assess the feelings, emotions, or moods of people with respect to global issues, from preferred consumer goods to elected officials. Unlike many studies that use sentiment analysis, we will think critically about the source of the data and how it plays a role in determining these feelings, and ultimately, how the corporations that own these platforms play a determining if not dubious role. 
 
-- Major Assignment 2: The Shock of the Old
+#### Module 3: Research Paper
 
-Major assignment 2 is a multimodal project, part video and part historical analysis/reflection. For this module, students will select a text technology of their choosing, from the early modern period through the nineteenth and early twentieth centuries. They will investigate how this object differs from its present-day iteration, if applicable, with particular focus on the way the object included and/or excluded particular audiences. Students will reflect on how this text technology, by virtue of who it included or excluded, shaped values, beliefs, and or world views.
+In this 3,000-word research paper, you will examine some aspect of globalization related to one of the topics investigated in the final module. In the first week, students will be asked to think ahead and select a research paper topic from a given list. 
 
-- Major Assignment 3: Hyper Reading in Context
-
-In the third module, students will conclude by asking: How does hyper, distant, or machine-assisted reading compare to the print technologies of the past. How does it affect how we read and thus how we think? Last, we want to know if this kind of reading is more inclusive or if it merely introduces an old form of exclusion dressed in digital clothes.
-
-#### REFLECTIONS (10 points ea. / 10% total)
+### REFLECTIONS (10 points each / 10% total)
 
 Following major assignment sequences 1, 2 and 3, students will submit reflective essays. These reflective essays demonstrate an understanding of the outcomes fulfilled. Additionally, students will reflect on how the skills acquired in class will apply outside of class. Last, students can use these reflections to discuss how they feel about their research, their findings, and how it all relates to their world and the world at large.
 
