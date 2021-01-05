@@ -21,7 +21,7 @@ In our class we are going to focus on the intersection of digital technology and
 
 ## Aknowledgements 
 
->I would like to thank Eugenia Zuroski for recommending Necropolitics (to be fair, she just recommended it to everyone on Twitter!) and Jeff Janosik for making us dinner and talking to me about Marx in the age of globalization. 
+>I would like to thank Eugenia Zuroski for recommending Necropolitics (to be fair, she recommended it to everyone on Twitter, not just me!) and Jeff Janosik for making us dinner and talking to me about Marx in the age of globalization. 
 
 
 ## Course Outcomes 
