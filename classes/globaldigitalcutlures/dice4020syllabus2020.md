@@ -266,99 +266,151 @@ Following major assignment sequences 1, 2 and 3, students will submit reflective
 ### WEEK 1: COURSE OVERVIEW AND INTRODUCTION: Introduction to Globalization and Digital Technology 
  
 #### What to read/watch this week
-•	Roland Robertson and Kathleen White. "What is Globalization? (Links to an external site.)" The Blackwell Companion to Globalization. Malden, MA ; Oxford: Blackwell Pub., 2007. Read pages 54-65.
-•	George Ritzer, and Paul Dean. "Chapter 9: High Tech Global Flows and Structures: Technology, Mass Media and the Internet." Globalization: A Basic Text. 2nd ed. Chicester, 2015. Read pages: 237-62.
+
+Roland Robertson and Kathleen White. "What is Globalization? (Links to an external site.)" The Blackwell Companion to Globalization. Malden, MA ; Oxford: Blackwell Pub., 2007. Read pages 54-65.
+
+George Ritzer, and Paul Dean. "Chapter 9: High Tech Global Flows and Structures: Technology, Mass Media and the Internet." Globalization: A Basic Text. 2nd ed. Chicester, 2015. Read pages: 237-62.
 
 #### What to complete:
-•	Read syllabus and post any questions to DISCUSSION: Introductions and Syllabus Questions
-•	DISCUSSION: How Would You Define Globalization? 
-•	SHORT ASSIGNMENT: How does digital technology play a determining role in globalization?
-•	FINAL PROJECT: Submit possible research topics.
+
+Read syllabus and post any questions to DISCUSSION: Introductions and Syllabus Questions
+
+DISCUSSION: How Would You Define Globalization? 
+
+SHORT ASSIGNMENT: How does digital technology play a determining role in globalization?
+
+FINAL PROJECT: Submit possible research topics.
  
 ### WEEK 2: Globalization and Its Critics
  
 What to read/watch this week:
-•	George Ritzer, and Paul Dean. "Chapter 2: Globalization II: Some Basic Issues, Debates, and Controversies." Globalization: A Basic Text. 2nd ed. Chicester, 2015. Read pages: 27-54.
-•	George Ritzer, and Paul Dean. "Chapter 4: Neoliberalism: Roots, Principles, Criticisms, and Neo-Marxian Alternatives." Globalization: A Basic Text. 2nd ed. Chicester, 2015. Read pages: 83-110.
- 
-What to complete:
-•	DISCUSSION: Globalization: The Larger Conversation
-•	SHORT ASSIGNMENT: Neoliberalism and Its Discontents
- 
-WEEK 3:  GLOBAL SEATTLE 
- 
-What to read/watch this week:
-•	Melissa L. Caldwell and Eriberto P. Lozada Jr. “The Fate of the Local,” in The Blackwell Companion to Globalization, Malden, MA ; Oxford: Blackwell Pub., 2007. Read pages 498-515. 
-•	Quinn Slobodian, “20 Years After Seattle, the Clash of Globalizations Rages On,” The Nation, 29 Nov. 2019. 
-What to complete:
-•	DISCUSSION: TBD
-•	MAJOR ASSIGNMENT: Seattle: Globalization Center or Bastion of Anti-neoliberal Alternatives (or both)?
-MODULE 2: Feeling for the Global: Economic Globalization, Communication Media, and Human Emotions
 
-Week 4: Global Flows of Emotion  
-What to read/watch this week
-•	Megan Boler and Elizabeth Davis, “Introduction: Propaganda by Other Means,” Affective Politics of Digital Media: Propaganda by Other Means, Routledge, 2021. 
-•	Döveling, Katrin, Anu A. Harju, and Denise Sommer. “From Mediatized Emotion to Digital Affect Cultures: New Technologies and Global Flows of Emotion.” Social Media + Society, (January 2018). https://doi.org/10.1177/2056305117743141. 
-•	
+George Ritzer, and Paul Dean. "Chapter 2: Globalization II: Some Basic Issues, Debates, and Controversies." Globalization: A Basic Text. 2nd ed. Chicester, 2015. Read pages: 27-54.
+
+George Ritzer, and Paul Dean. "Chapter 4: Neoliberalism: Roots, Principles, Criticisms, and Neo-Marxian Alternatives." Globalization: A Basic Text. 2nd ed. Chicester, 2015. Read pages: 83-110.
+ 
 What to complete:
-•	DISCUSSION: How Would You Outline Your Affect Culture? 
-•	SHORT ASSIGNMENT: TBD
-•	FINAL PROJECT: Preliminary Research: A Scholarly or News Article 
+
+DISCUSSION: Globalization: The Larger Conversation
+
+SHORT ASSIGNMENT: Neoliberalism and Its Discontents
+ 
+### WEEK 3:  GLOBAL SEATTLE 
+ 
+#### What to read/watch this week:
+
+Melissa L. Caldwell and Eriberto P. Lozada Jr. “The Fate of the Local,” in The Blackwell Companion to Globalization, Malden, MA ; Oxford: Blackwell Pub., 2007. Read pages 498-515. 
+
+Quinn Slobodian, “20 Years After Seattle, the Clash of Globalizations Rages On,” The Nation, 29 Nov. 2019. 
+
+#### What to complete:
+
+DISCUSSION: Whose Local Is It, Anyway? 
+
+MAJOR ASSIGNMENT: Seattle: Globalization Center or Bastion of Anti-neoliberal Alternatives (or both)?
+
+REFLECTION: Module 1
+
+## MODULE 2: Feeling for the Global: Economic Globalization, Communication Media, and Human Emotions
+
+### Week 4: Global Flows of Emotion  
+
+#### What to read/watch this week
+
+Megan Boler and Elizabeth Davis, “Introduction: Propaganda by Other Means,” Affective Politics of Digital Media: Propaganda by Other Means, Routledge, 2021. 
+
+Döveling, Katrin, Anu A. Harju, and Denise Sommer. “From Mediatized Emotion to Digital Affect Cultures: New Technologies and Global Flows of Emotion.” Social Media + Society, (January 2018). https://doi.org/10.1177/2056305117743141. 
+	
+#### What to complete:
+
+DISCUSSION: How Does a Digital Affect Culture Work? 
+
+SHORT ASSIGNMENT: Mining Digital Feelings: A Sentiment Analysis Using Python
+
+FINAL PROJECT: Preliminary Research: A Scholarly or News Article 
 
  
-WEEK 5: Corporate Economics and Algorithmic Moods 
-What to read/watch this week
+### WEEK 5: Corporate Economics and Algorithmic Moods 
+
+#### What to read/watch this week
+
 George Ritzer, and Paul Dean. "Chapter 7: Global Economic Flows.” Globalization: A Basic Text. 2nd ed. Chicester, 2015. Read pages: 174-202. 
-
  
-What to complete:
-•	DISCUSSION: How does digital technology mediate global economic flows? 
-•	MAJOR ASSIGNMENT: Evaluating a Sentiment Analysis of a Global Economic and/or Social Justice Topic 
-•	FINAL PROJECT: An Annotated Bibliography (5-8 sources)
+#### What to complete:
+
+DISCUSSION: How does digital technology mediate global economic flows? 
+
+MAJOR ASSIGNMENT: Evaluating a Sentiment Analysis of a Global Economic and/or Social Justice Topic 
+
+FINAL PROJECT: An Annotated Bibliography (5-8 sources)
+
+REFLECTION: Module 2
   
-MODULE 3: Labor, Politics, and Resistance  
+## MODULE 3: Labor, Politics, and Resistance  
   
-WEEK 6: Global Flows and Labor, part I: Invisible Labor
-What to read/watch this week
+### WEEK 6: Global Flows and Labor, part I: Invisible Labor
+
+#### What to read/watch this week
+
 Roberts, Sarah T. Behind the Screen: Content Moderation in the Shadows of Social Media. New Haven: Yale University Press, 2019. Read pages: Chapter 2: 33-72 and Chapter 5: 171-200. 
-What to complete:
-•	DISCUSSION BOARD: Commercial Content Moderation: A New Global (Invisible) Work Force
 
-•	SHORT ASSIGNMENT: In Search of Invisible Labor
+#### What to complete:
+
+DISCUSSION: Commercial Content Moderation: A New Global (Invisible) Work Force
+
+SHORT ASSIGNMENT: In Search of Invisible Labor
  
-WEEK 7: Global Flows and Labor, part II: Precarity, Migration, and Digital Technology 
+### WEEK 7: Global Flows and Labor, part II: Precarity, Migration, and Digital Technology 
  
-What to read/watch this week
-•	Last Train Home, dir. Lixin Fan (2009)
-•	Latonero, Mark, and Kift, Paula. "On Digital Passages and Borders: Refugees and the New Infrastructure for Movement and Control." Social Media Society 4.1 (2018): 205630511876443. Web.
-•	Standing, Guy. The Precariat: The New Dangerous Class. Bloomsbury Academic, 2011. Read pages: TBD.
-What to complete:
-•	DISCUSSION BOARD:
-•	RESPONSE PAPER 7:
-•	
+#### What to read/watch this week
 
+Last Train Home, dir. Lixin Fan (2009)
 
+Latonero, Mark, and Kift, Paula. "On Digital Passages and Borders: Refugees and the New Infrastructure for Movement and Control." Social Media Society 4.1 (2018): 205630511876443. Web.
 
-Week 8: (NECRO)POLITICS 
+Standing, Guy. The Precariat: The New Dangerous Class. Bloomsbury Academic, 2011. Read pages: TBD.
+
+#### What to complete:
+
+DISCUSSION: Refugees, Migrants, and Immigrants in a Digital Age
+
+SHORT ASSIGNMENT: Precarity and Tech Work
+	
+FINAL PROJECT: Abstract and Outline/Storyboard
+
+### Week 8: (NECRO)POLITICS 
  
-What to read/watch this week
+#### What to read/watch this week
+
 Mbembe, Achille. “Necropolitics.” Necropolitics. Duke, 2019, pp. 66-92.
-What to complete:
-•	DISCUSSION BOARD: Politics in a Digital, Globalized World
-•	FINAL PROJECT: Introduction Draft and Peer Review (due 11/17)
+
+#### What to complete
+
+DISCUSSION: Politics in a Digital, Globalized World
+
+FINAL PROJECT: Introduction Draft and Peer Review (due 11/17)
  
-WEEK 9: Class Struggle and Digital Activism 
+### WEEK 9: Class Struggle and Digital Activism 
  
-What to read/watch this week
-•	Marx, Karl. “Chapter 1: Bourgeois and Proletarians,” The Communist Manifesto. 1848. 
-•	Wallerstein, Immanuel. “Class Conflict in the World-Economy,” Race, Nation, Class: Ambiguous Identities, Étienne Balibar and Immanuel Wallerstein. Verso, 1991. 
-•	Castells, Networks of Outrage and Hope, Ch 1.
-•	Bennett, L. and Segerburg, A. "The Logic of Connective Action: Digital Media and the Personalizatoin of Contentious Politics." Information, Communication & Society 15, 5: 737-768.
-What to complete:
+#### What to read/watch this week
+
+Marx, Karl. “Chapter 1: Bourgeois and Proletarians,” The Communist Manifesto. 1848. 
+
+Wallerstein, Immanuel. “Class Conflict in the World-Economy,” Race, Nation, Class: Ambiguous Identities, Étienne Balibar and Immanuel Wallerstein. Verso, 1991. 
+
+Bennett, L. and Segerberg, A. "The Logic of Connective Action: Digital Media and the Personalizatoin of Contentious Politics (Links to an external site.)." Information, Communication & Society 15, 5. 
+
+#### What to complete:
+
 DISCUSSION: A Quote for the Future
+
 SHORT ASSIGNMENT: Class Struggle and Digital Activism in the Age of Globalization
-Week 10: Reflections on a Globalized World
-•	FINAL PROJECT: Submit final research paper (due 11/24 at 11:59pm)
-•	FINAL REFLECTION: Submit reflection (due 11/24 at 11:59pm)
+
+
+### Week 10: Reflections on a Globalized World
+
+FINAL PROJECT: Submit final research paper (due 11/24 at 11:59pm)
+
+FINAL REFLECTION: Submit reflection (due 11/24 at 11:59pm)
  
 
