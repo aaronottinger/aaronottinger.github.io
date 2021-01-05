@@ -317,7 +317,7 @@ Unger, Russ, and Carolyn Chandler, “Business Requirements: Know the Problem Be
 
 In any rhetorical situation, we want to think about the author, the text, and the audience. Problems and purposes belong to the author (week 2). In addition, we also need to think about our identity as authors/designers. Consider that for thousands of years, organizations and entire states have oppressed women and excluded them from education. So, when a man steps in to “explain” something to a woman, there is a whole history of oppression compressed in that act, and thereby it is no surprise that the explanation is unwelcomed. Likewise, we need to ask ourselves, as college students (even nontraditional), what history and meaning might be associated with us in the eyes of our audiences? This week we will turn a critical eye on ourselves. 
 
-This week also need to draft a proposal regarding our project for our community partner. We will model our proposal on professional UX proposals.
+This week we also need to draft a proposal regarding our project for our community partner. We will model our proposal on professional UX proposals.
 
 ### CONTEXT: Who Gets to Be in Computing, and Why? 
 
@@ -372,7 +372,7 @@ Fabricio Teixeria, “Asking the Right Questions During User Research, Interview
 
 ## WEEK 5: Tools, Sites, Media, and Modalities (Lab, Feb 4)
 
-If you wanted to present information to a group of elementary school students, you might be less successfully if you show up with a bunch of graphs, charts, and statistical figures to back up your claims (instead, consider puppets!). This is an issue of audience and knowing which modalities, generic conventions, and media will be received best by them. This week we consider the rhetoric and the epistemological significance of the tools, sites, media, and modalities (visual, spatial, linguistic, oral, and so forth) we use in social justice work in a digital domain. 
+If you wanted to present information to a group of elementary school students, you might be less successful if you show up with a bunch of graphs, charts, and statistical figures to back up your claims (instead, consider puppets!). This is an issue of audience and knowing which modalities, generic conventions, and media will be received best by them. This week we consider the rhetoric and the epistemological significance of the tools, sites, media, and modalities (visual, spatial, linguistic, oral, and so forth) we use in social justice work in a digital domain. 
 
 We also need to decide what tools we want to use in our own UX project. We will survey the tools available to us, and think about the media and modalities we want to use to present our findings from these tools. 
 
@@ -406,9 +406,9 @@ Jessica Ivins, “Why My Students Learn to Recruit User Research Participants,�
 
 ## WEEK 6: Accessibility, part I: Definition, History, and Legality (Class, Feb 11)
 
-One of the most important lessons from Eve Kosofsky Sedgwick, Judith Butler, and their ilk is this: No body is the same. Usually when we make something, we make it according to our own body. So if I make a table, I make it according to my height. But not everyone is the same height as me. Is it possible to make other tables? Is it possible to make an adjustable table? Similar situations can be found online. This week, we think about what accessibility means, how we have arrived at our current levels of accessibility, and the legal concerns tied to accessibility. 
+One of the most important lessons from Judith Butler, Eve Kosofsky Sedgwick, and their ilk is this: No body is the same. Usually when we make something, we make it according to our own body. So if I make a table, I make it according to my height. But not everyone is the same height as me. Is it possible to make other tables? Is it possible to make adjustable tables? Similar situations can be found online. This week, we think about what accessibility means, how we have arrived at our current levels of accessibility, and the legal concerns tied to accessibility. 
 
-This week we begin our testing. First, we have to recruit some test subjects. We will also want to make sure that we are including accessibility issues within this testing, so we may have to go back and revise our usability questions before getting started. 
+This week we also begin our testing. First, we have to recruit some test subjects. We will also want to make sure that we are including accessibility issues within this testing, so we may have to go back and revise our usability questions before getting started. 
 
 ### CONTEXT: Introduction to Universal Design 
 
@@ -451,7 +451,7 @@ Hamraie, Aimi. “Mapping Access: Digital Humanities, Disability Justice, and So
 
 ## WEEK 8: Deliverables and Proposal Revisions (Class, Feb 25)
 
-By now we should have all of our data and we should no longer be running usability tests. Based on the data we have at this point, what changes, if any, do we think our client should make to their site? Can we design something that helps them imagine what an alternative might look like? Last, do we need to make any revisions to our proposal? Did we run tests that we did not originally recommend? Are we fulfilling our goals/outcomes? Let’s adjust the proposal so that it reflects what we are actually doing and what we’re actually going to accomplish. 
+By now we should have all of our data and we should no longer be running usability tests. Based on the data we have at this point, what changes, if any, do we think our client/partner should make to their site? Can we design something that helps them imagine what an alternative might look like? Last, do we need to make any revisions to our proposal? Did we run tests that we did not originally recommend? Are we fulfilling our goals/outcomes? Let’s adjust the proposal so that it reflects what we are actually doing and what we’re actually going to accomplish. 
 
 ### SKILLS ACQUISITION: Wireframing: What is It and How Does it Work? 
 
@@ -464,7 +464,7 @@ Shane Ketterman, “Form and Function—a Guide to the Top Wireframe Tools,” U
 
 ## WEEK 9: Social Justice as a Framework for Presenting (Lab, Mar 4)
 
-Isn’t a presentation just a presentation? Your presentation can’t be informed by social justice, can it? It can! This week, will read a number of shorter pieces from academics working on racial justice and disability justice, and think about how we can apply their principles and recommendations into our own presentation for our community partner. 
+Isn’t a presentation just a presentation? Your presentation can’t be informed by social justice, can it? It can! This week, we will read a number of shorter pieces from academics working on racial justice and disability justice, and think about how we can apply their principles and recommendations into our own presentation for our community partner. 
 
 ### THEORY: Who Are You and Where Are You When You Present? 
 
