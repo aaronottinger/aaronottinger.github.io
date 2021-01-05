@@ -226,7 +226,7 @@ For this assignment, you will create a multimodal project that connects Seattle 
 
 #### Module 2: Sentiment Analysis
 
-In the second module, students will have the opportunity to see how natural language processing is being used to assess the feelings, emotions, or moods of people with respect to global issues, from preferred consumer goods to elected officials. Unlike many studies that use sentiment analysis, we will think critically about the source of the data and how it plays a role in determining these feelings, and ultimately, how the corporations that own these platforms play a determining if not dubious role. 
+In the second module, students will have the opportunity to see how natural language processing is being used to assess the feelings, emotions, or moods of people with respect to global issues, from preferred consumer goods to elected officials. In the first half of the assignment, students will learn about how sentiment analysis actually works by training an algorithm to conduct a sentiment analysis in Python. We will then use what we've learned to summarize and assess an already published sentimental analaysis on a global topic of your choosing. 
 
 #### Module 3: Research Paper
 
