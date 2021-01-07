@@ -478,7 +478,7 @@ Jason S. Farr and Travis Chi Wing Lau, "Toward a More Accessible Conference Pres
 
 Wes Holing, “10 Tips for Great Nonprofit PowerPoint Presentations.” TechSoup. 29 May. 2018.
 
-FINAL PROJECT: Final Project Presentation 
+#### FINAL PROJECT: Final Project Presentation 
 
 
 ## WEEK 10: Reflections (Class, Mar 11)
