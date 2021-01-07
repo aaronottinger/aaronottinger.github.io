@@ -356,7 +356,7 @@ Costanza-Chock, Sasha. “Design Values: Hard-Coding Liberation,” Design Justi
 
 #### DISCUSSION: Seeing Audiences Through a Social Justice Lens
 
-### SKILLS ACQUISITION: Web Site Design 101
+### SKILLS ACQUISITION: Web Design 101
 
 Krug, Steve. “Chapters 6 and 7.” Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability, Third Edition. New Riders, 2013.
 
