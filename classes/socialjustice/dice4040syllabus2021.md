@@ -293,7 +293,7 @@ You wouldn’t want a doctor to start operating on you before diagnosing the pro
 
 Last week we looked at our community partner’s website. Now let’s compare it to other sites that have a similar problem and purpose. What do we like more about these sites? What issues do we find that we want to avoid? 
 
-### CONTEXT: Social Justice in the History of Computing
+### CONTEXT: Social Justice and the History of Computing, part I
 
 Tara McPherson, “Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation,” Debates in Digital Humanities, edited by Matthew Gold, Minnesota University Press, 2016. n.p.
 
@@ -319,7 +319,7 @@ In any rhetorical situation, we want to think about the author, the text, and th
 
 This week we also need to draft a proposal regarding our project for our community partner. We will model our proposal on professional UX proposals.
 
-### CONTEXT: Who Gets to Be in Computing, and Why? 
+### CONTEXT: Social Justice and the History of Computing, part II
 
 Charlton D. McIlwain, Black Software: The Internet and Racial Justice, from the AfroNet to Black Lives Matter. Oxford, 2020, 3-8, 59-59-78, and 171-94.
 
