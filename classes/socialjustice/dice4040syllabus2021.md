@@ -309,7 +309,7 @@ Krug, Steve. “Chapter 1” Don't Make Me Think, Revisited: A Common Sense Appr
 
 Unger, Russ, and Carolyn Chandler, “Business Requirements: Know the Problem Before You Create the Solution” A Project Guide to UX Design: For User Experience Designers in the Field or in the Making. 2nd ed. 2012. n.p.
 
-#### FINAL PROJECT: Exploring Directories: Templates and Examples 
+#### FINAL PROJECT: Exploring Directories: Diagnosing Problems 
 
 #### PROGRESS REPORT: Week 2
 
