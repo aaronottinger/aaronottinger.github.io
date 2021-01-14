@@ -119,7 +119,19 @@ Most of this course will take place within the learning management system Canvas
 
 ## Community Agreements
 
-To be created in the first week of class
+Set reasonable goals.  Working out a timeline for completion together will ensure we are all aware of our commitments to the group and are able to meet them.
+
+Construct workload/project goals in a way that gives everyone some wiggle room if we need to negotiate the work loads between folks (sort of cushion so to speak).
+
+Be honest with each other about your problems/issues - or - if you need help, ask for it. We all have really busy lives and things may come up that we can't account for and we should be able to reach out for help if we need it and know that there's a supportive structure in place. 
+
+Show up on time to meetings and keep to the schedule; if the meeting is one hour, keep the discussion on topic and moving forward. 
+
+Flexibility: everyone has a different level of skills so some people may prefer to work on certain things more than others.
+
+Patience: putting an effort into having patience with each other will pay off in the end. 
+
+Be open about the ideas of others: If an idea or thought about changing something doesn't work for the group, try not to diminish the idea itself and instead work to come up with an alternative.   
 
 ## Diversity, Growth, and Future Application
 
