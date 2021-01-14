@@ -117,7 +117,7 @@ It is essential that you have a reliable broadband network connection available 
 
 Most of this course will take place within the learning management system Canvas. For their final project, students will also have the opportunity to work with the R programming environment. We will download R in the early weeks of the course to address any issues before the software is required for the course. 
 
-## Community Agreements
+## Community Agreements (written and ratefied by the class as a whole)
 
 Set reasonable goals.  Working out a timeline for completion together will ensure we are all aware of our commitments to the group and are able to meet them.
 
