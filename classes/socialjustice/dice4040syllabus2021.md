@@ -87,7 +87,7 @@ NB: For several of the texts in this class, students will need either Safari (pr
 
 ### Face-to-Face
 
-I am available meet "face-to-face" online via Zoom meetings. We will have face-to-face classes every other week and individual (one-on-one) conferences twice during the term, once early on and once towards the end. These meetings will be conducted via Zoom.
+I am available to meet "face-to-face" online via Zoom meetings. We will have face-to-face classes every other week and individual (one-on-one) conferences twice during the term, once early on and once towards the end. These meetings will be conducted via Zoom.
 
 ### Email
 
