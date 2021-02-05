@@ -21,7 +21,7 @@ While we will consider the rhetorical and epistemological consequences of our ap
 
 Working with the local organization EchoX.org, we will function much like a nonprofit consulting company. Our mission is to aid this social justice-oriented organization by drafting a proposal, conducting UX research and testing for their website, interpreting analytics, constructing recommended changes (if any apply), and creating a presentation. Specifically, we have been tasked with assessing the usability of the site’s directory, which helps visitors find like-minded organizations that serve marginalized communities. Our findings, ultimately, will contribute to the board’s decision to allocate more funds to developing the directory, or saving that money for other priorities. Our work here will ultimately contribute to a larger whole, where more resources and information are available to those who are routinely underrepresented and underserved in and outside of the digital domain. 
 
-## Aknowledgements 
+## Acknowledgements 
 
 >I would like to thank Elizabeth Seymour at Seattle University's Center for Community Engagement. From our first conversation to her ongoing support, this class would not be what it is without her guidance, feedback, and encouragement. Ann Wright at EchoX, without whom we would have no community partner! Her ideas and positive spirit have made this class into an exciting adventure. I would also like to thank Randy Pagulayan at XBox, whose generosity has been unparallel. Last, Elena Chernock continues to force me to rethink what I think I know each and every day. 
 
