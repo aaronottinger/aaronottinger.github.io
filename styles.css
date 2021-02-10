@@ -56,7 +56,7 @@ nav {
 .content {
 
 		width: 325px;
-		margin: 1%;
+		margin: auto;
 		overflow: hidden;
 		background-color:lightgrey;
 		border: thin solid black;
@@ -65,10 +65,9 @@ nav {
 		padding-top:15px;
 		padding-bottom:25px;
 		position:relative;
-		top 150px;
-		left:50px;
-		box-shadow: 10px 10px 5px black;
-		text-align:justify; 
+		text-align: left; 
+
+</style>
 
 
 }
