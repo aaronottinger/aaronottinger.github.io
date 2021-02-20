@@ -259,7 +259,7 @@ section {
 
 
 h1.em {
-		
+		margin: auto;
 		color:black;
 		font-size:25px; 
 		font-family: helvetica, Sans-serif;
