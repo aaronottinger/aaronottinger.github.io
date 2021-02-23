@@ -408,7 +408,7 @@ footer {
   text-align: auto}
 
 
-ul.nav {
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -419,11 +419,11 @@ ul.nav {
   top: 0;
 }
 
-li.nav {
+li {
   float: left;
 }
 
-li.nav a {
+li a {
   display: block;
   color: white;
   text-align: center;
@@ -431,7 +431,7 @@ li.nav a {
   text-decoration: none;
 }
 
-li.nav a:hover {
+li a:hover {
   background-color: #111;
 }
 
