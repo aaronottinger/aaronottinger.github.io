@@ -420,7 +420,7 @@ footer {
 
 /* LIST #1 */
 ul {list-style:none; text-align:left}
-ul li { display:inline; text-transform:uppercase;padding:10px;letter-spacing:10px; }
+ul li { display:inline; text-transform:uppercase;padding:10px;letter-spacing:10px; color: white; }
 ul li a { text-decoration:none; color:black; }
 li a:hover {
    background-color: grey;  
