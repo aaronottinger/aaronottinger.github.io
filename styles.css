@@ -418,16 +418,33 @@ footer {
   text-align: auto}
 
 
-/* LIST #1 */
-ul {list-style:none; text-align:left}
-ul li { display:inline; text-transform:uppercase;padding:10px;letter-spacing:10px; color: white; }
-ul li a { text-decoration:none; color:black; }
-li a:hover {
-   background-color: grey;  
-   color: white;}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
 
-/*list#2*/
-ol {list-style:none; text-align:left; border: none}
-ol ul {display:inline; text-transformation:none; letter-spacing:1px;font-family:Helvetica; font-size:11}
-ol ul a {text-decoration:none; color:black; }
-ul ul li a:hover { background-color: grey; color:white; }
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
