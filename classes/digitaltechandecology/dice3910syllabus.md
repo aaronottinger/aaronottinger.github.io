@@ -87,10 +87,6 @@ Please email me any questions you have at any time. I recommend using the Canvas
 While you may email me at any hour, I am more likely to respond to student emails from 9am-6pm, Monday through Friday. I will check email less frequently after 6pm. On the weekends, I will do my best to check and respond to email but that is also time for me to get away from the office and unplug. So beware: if you want to make sure your questions are answered, get them in before the end of the workday on Friday.
 Please allow 24 hours for responses.
 
-### Slack
-
-This class will use a private Slack channel (in addition to the department’s #general channel). In keeping with industry standards, it’s important that we have a communication platform to foster a collaborative environment. #4040_20FQ will be available for students and the instructor. You will receive an invitation before the start of class, and students are encouraged to use this outlet. 
-
 ### Twitter
 
 I love Twitter (@AaronOttinger). I often post things that I think will be interesting for students using the hashtag #DICE4040. Nothing I post here is required and I will likely cross-post on Slack. The great thing about Twitter is that we can connect with other working professionals that might be able to help us in our discussions. Feel free to engage with me on this platform as well.
@@ -217,25 +213,31 @@ Each student will meet with the instructor twice for online, one-on-one conferen
 
 #### DISCUSSIONS (10 points ea. / 20% total)
 
-Each week will be a discussion question for you to explore. These should be 150+ words and will be due by midnight Saturday of each week. I would like you to then comment on two of your peer’s postings by midnight on Sunday. We will discuss these in class during the next in class meeting.
+Each week will be a discussion question for you to explore. These should be 100+ words. I would like you to then comment on two of your peer’s postings. Your post AND your comments should be submitted by the due date, so please don’t wait until the last minute (your classmates need something to comment on!). Activities conducted in class fall under the same heading because they will always be collaborative endeavors. While your task might not be a written post, these assignments will still ask you to engage with your classmates’ contributions. 
 
-#### PROGRESS REPORTS (10 points each/ 10%)
+#### SHORT ASSIGNMENTS (20 points each / 25%)
 
-Students will be asked to submit a progress report every other week (4 total) with respect to their particular task(s) or job for the FINAL PROJECT. These can be short reports that simply detail what you have accomplished (or attempted to accomplish) in the last week or so. In each case, students will be asked to provide some kind of evidence for their progress. In many cases, this evidence can be a screenshot of something you’re doing on your computer (it must be legible). In addition, students will be asked to submit how many hours they have spent working on the project, so it is highly recommended that students maintain a log of their hours. 
+These smaller assignments will help you scaffold the kind of information and research you need for MAJOR ASSIGNMENTS (below). Sometimes, we will share these assignments through a discussion board, but they are different from “DISCUSSION BOARD” assignments. The purpose of sharing them through discussion boards is simply to get some feedback, not to spark debate. These assignments will also ask you to go above and beyond understanding and/or responding to the assigned essays for that week. Short assignments might include an experiment, a creative project, or possibly a draft of a larger research paper.
 
-Progress reports are important because you will have to account for your contribution to the FINAL PROJECT at the end of the class. These reports will help you to make a case for your contribution. 
+#### MAJOR ASSIGNMENTS (100 points each / 40%)
 
-#### Quizzes (5-20 points each / 10%)
+We will have three MAJOR ASSIGNMENTS this term. 
 
-Normally our classes avoid quizzes, but because DICE4040 includes many skills acquisition lessons, perhaps the most effective way to test these skills is through short quizzes. These are not meant to “stump” students. While there might be the occasional multiple-choice question, these quizzes are really intended to get students thinking with and applying the skills lessons, so you are more likely to be asked to sketch a design, outline a model, or create a chart. 
+##### Module 1: The Historical Conditions of Digital Cultures and Ecology
 
-#### FINAL PROJECT (up to 300 points / 40%)
+Based on our readings and your own personal experiences, what is one major historical contribution to the present-day relationship between ecology and digital tech/culture (e.g. privacy & surveillance, algorithmic bias, data storage, conflict minerals, exploited labor, and so forth)? To answer this question, students will write a medium-sized essay that draws on course readings, personal experience, and/or basic research (newspaper & magazine articles, are a good source for this assignment). Our mission is to understand how history sets up the conditions that foster current ecodigital divides. 
 
-The Final Project will be a collaborative effort. It will include a proposal (first draft and final draft), usability testing questions and revisions, testing, the interpretation of data, project recommendations, the final deliverable (i.e. a report, wireframes, prototypes, and so forth), the presentation to the community partner, and a final summary of your contribution, which will be similar to a typical progress report. Many of these assignments will be submitted on discussion boards, but they will be labeled as “FINAL PROJECT.” Students will all receive the same grade for the final deliverable and the group presentation; for everything else they will receive an individual score. The final project will conclude with an email to the community partner, which will thank them for the opportunity and provide access to deliverables (a link or compressed file). 
+##### Module 2: Owning the Rhetoric of Responsibility: An Advertisement and Rhetorical Analysis
 
-#### REFLECTIONS (10 points each / 15% total)
+In the second Major Assignment, students will explore the relationship between digital tech/cultures and ecology by making an advertisement for a present-day tech company, accompanied by a short rhetorical analysis of your advertisement. This assignment is really designed to help us understand how visual and linguistic modalities can convince us that tech companies and their products somehow operate “outside” of ecological systems. The question is, is it possible to actually own the rhetoric of responsibility, or must responsibility always be consigned to a disingenuous performance of “technoliberalism” (Smith)? 
 
-Following different weeks and sections, we will submit reflective essays. At 15% of your grade, these reflections are very important. They should demonstrate an understanding of the outcomes fulfilled. Additionally, students will reflect on how the skills acquired in class will apply outside of class. Last, and most important, students can use these reflections to discuss how they feel about their research, their findings, and how it all relates to their world and the world at large. Students are encouraged here to make connections, to course materials, to previous or simultaneous classes, as well as current events. 
+##### Module 3: Tentacular Designs for the Future
+
+The final Major Assignment, our crowning achievement, will be a multimodal, multimedial, multigenric, and even multispecies story about a more just and sustainable future. This storytelling exercise might take the form of a graphic novel, a short film, a video game, or some other art object that combines various elements. This story will like go beyond “mere entertainment.” As many of the examples we will examine demonstrate, tentacular storytelling is about sharing, responsibility, and perhaps, preparedness. Sharing with and responsibility to whom, and preparedness for what, will depend on the story you tell.  
+
+#### REFLECTIONS (10 points each / 10% total)
+
+Following each module, we will submit reflective essays. At 10% of your grade, these reflections are very important. They should demonstrate an understanding of the outcomes fulfilled. Additionally, students will reflect on how the skills acquired in class will apply outside of class. Last, and most important, students can use these reflections to discuss how they feel about their research, their findings, and how it all relates to their world and the world at large. Students are encouraged here to make connections, to course materials, to previous or simultaneous classes, as well as current events. 
 
 ### Grade Scale (screen reader friendly)
 
@@ -258,35 +260,34 @@ Following different weeks and sections, we will submit reflective essays. At 15%
 
 Please note that the following is a ‘working schedule.’ Class materials are subject to change based on the interests, understanding, and general pace of the class.  Changes and announcements will be made in class and through email and Announcements (on Canvas).
 
-## Week 1: What is Social Justice and Digital Media All About? (Lab, Jan 7)
+## Module 1.1: The Human Center of the Past: Nature and Slavery, or the Other Side of the Page
 
-This week is dedicated to understanding the fundamental concepts on which this class is based. We will think about what it means to combine digital technology/media with social justice. Next, we will discuss what it means to do service learning in the classroom, or what it means to take the classroom beyond the university walls and into “real life.” But, with this traversing of borders in mind, we also have to recognize our privileged position within the university system, and so we will explore what it means to colonize others in ways that are consistent with imperialism, capitalism, and neoliberalism, and what it might mean to take a decolonizing approach instead. 
+### Week 1: Eco-nomic Origins of the Information Age: Mathematizing Humans, Flora, and Fauna
 
+This week is dedicated to understanding how the relationship between digital technology and ecology is actually rooted in a centuries-long effort to reduce people (usually Black, Brown, Indigenous, or other marginalized groups), plant-life, and animals to numbers and disposable or substitutable things. It will also argue that this tendency to subordinate one group of humans for the benefit of White supremacy is part and parcel with liberal Enlightenment humanism. 
 For the final project, we will just explore the community partner’s site in depth, and familiarize ourselves with their problem, purpose, audience, medium, and genre. 
 
-### CONTEXT: Digital Activism Beyond Clicking “Like”
+#### CONTEXT: Humanism and the Rise of Modern Colonialist Science
 
-Trebor Scholz, “Where the Activism Is,” Digital Media and Democracy: Tactics in Hard Times, MIT, 2008, 355-66. 
+Tony Davies. “Humanism and Enlightenment,” Humanism. Taylor and Francis, 2006, pp. 105-09 and 116-24. 
 
-### THEORY: Taking Education Outside the Classroom
+#### TEXT: Cugoano’s Narrative of Enslavement
 
-bell hooks, “Democratic Education,” Teaching Community: A Pedagogy of Hope. Routledge, 2003, 41-49. 
+Ottobah Cugoano's "Narrative of the Enslavement of Ottobah Cugoano, a Native of Africa; Published by Himself, in the Year 1787." The Negro's Memorial, or, Abolitionist's Catechism by an Abolitionist. London, 1825. 
 
-### THEORY: Anti-Imperialist Methodologies
+#### CONTEXT: Colonialism, the Slave Trade, and Ecological Destruction 
 
-Smith, Linda Tuhiwai. “Notes from Down Under,” Decolonizing Methodologies: Research and Indigenous Peoples. Zed, 2012. 98-110. 
+Beinart, William, and Hughes, Lotte. “Environmental Aspects of the Atlantic Slave Trade,” Environment and Empire. Oxford: Oxford UP, 2020, pp. 22-39.
 
-#### DISCUSSION: Why Are We Here? 
+##### ACTIVITY: Diagramming Slavery, Ecological Destruction, and Economic Development
 
-### SKILLS ACQUISITION: What is UX? 
+#### TEXT: Turner’s “Slavers Throwing Overboard the Dead and Dying—Typhoon Coming On” (1840)
 
-Krug, Steve. “Introduction: Read Me First,” Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability, Third Edition. New Riders, 2013.
+#### CONTEXT: Slavery, the Zong, and Challenging the Human “Center”
 
-### SKILLS ACQUISITION: Collaboration/Teamwork 
+Sharpe, Christina Elizabeth. Chapter 2: "The Ship," In the Wake: On Blackness and Being. Durham: Duke UP, 2016. 26-62. 
 
-Martine Haas and Mark Mortensen, “The Secrets of Great Teamwork,” The Harvard Business Review. June 2016.
-
-#### FINAL PROJECT: Explore Our Community Partner’s Site
+##### SHORT ASSIGNMENT: What Does the Slave Trade Have to do with Digital Tech, Culture, and Ecology? 
 
 
 # MODULE 1: Social Justice as a Framework for Research and Design
