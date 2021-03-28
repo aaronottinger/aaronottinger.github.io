@@ -287,36 +287,43 @@ Beinart, William, and Hughes, Lotte. “Environmental Aspects of the Atlantic Sl
 
 Sharpe, Christina Elizabeth. Chapter 2: "The Ship," In the Wake: On Blackness and Being. Durham: Duke UP, 2016. 26-62. 
 
-##### SHORT ASSIGNMENT: What Does the Slave Trade Have to do with Digital Tech, Culture, and Ecology? 
+#### SHORT ASSIGNMENT: What Does the Slave Trade Have to do with Digital Tech, Culture, and Ecology? 
 
 
-# MODULE 1: Social Justice as a Framework for Research and Design
+## Module 1.2: The Human Center of the Past: Nature and Slavery, or the Other Side of the Page
 
-## WEEK 2: Problems and Purposes (Class, Jan 14)
+### WEEK 2: The Romantic Response: “Self,” “Nature,” and Print Media/Mediation, circa 1800
 
-You wouldn’t want a doctor to start operating on you before diagnosing the problem. Same in the world of digital culture. But like a doctor, once we identify a problem and start addressing it (our purpose), we may find additional problems that we did not anticipate. That’s fine. It’s still preferable to have a problem in mind while also maintaining an openness to the possibility of other, unforeseen problems as well. 
+In Europe, at the end of the 1700s, it could be argued that the Enlightenment was coming to an end and there was the emergence of what today we commonly refer to as Romanticism. If the Enlightenment privileged science and placed “the human” at the center of the universe, in some respects, Romanticism understands that science has its moral limits (for instance, see Mary Shelley’s gothic masterpiece, Frankenstein) and that humans are not entirely separate from nature. Romanticism is very much a philosophy about the way all things are connected. But Romanticism comes with its own problems. This week we will think about how Romanticism shifted the our understanding of “humanism,” the important role that literary texts and reading played in this shifting understanding, and how these forms of mediation may have actually contributed to prolonging the sufferings of Indigenous, Black, and Brown people and ecological systems, in large part through the construction of “Nature” and the “self.”  
 
-Last week we looked at our community partner’s website. Now let’s compare it to other sites that have a similar problem and purpose. What do we like more about these sites? What issues do we find that we want to avoid? 
+#### TEXT: Wordsworth’s “Tintern Abbey”
 
-### CONTEXT: Social Justice and the History of Computing, part I
+Wordsworth, William. “Lines Composed a Few Miles above Tintern Abbey, On Revisiting the Banks of the Wye during a Tour. July 13, 1798,” Lyrical Ballads, 1798.
 
-Tara McPherson, “Why Are the Digital Humanities So White? or Thinking the Histories of Race and Computation,” Debates in Digital Humanities, edited by Matthew Gold, Minnesota University Press, 2016. n.p.
+#### CONTEXT: The Romantic Self 
 
-### CONTEXT: What is Design Justice?
+Ron Broglio's "Romantic Self and Posthumanism." Genealogy of Posthumanism. July 2, 2019.
 
-Costanza-Chock, Sasha. “Introduction: #TravelingWhileTrans, Design Justice, and Escape from the Matrix of Domination.” Design Justice : Community-led Practices to Build the Worlds We Need. Cambridge, Massachusetts: MIT, 2020, 1-24. 
+##### ACTIVITY: Annotating Wordsworth’s “Tintern Abbey”
 
-#### DISCUSSION: What Kinds of Social Justice Problems Belong to the Digital Domain? What Should Be Our Purpose(s) as Social Justice Designers, Writers, and Researchers? 
+#### CONTEXT: The Construction of Nature
 
-### SKILLS ACQUISITION: Diagnosing Problems in UX
+Review of Timothy Morton's Ecology Without Nature, by Bridget Keegan.  
 
-Krug, Steve. “Chapter 1” Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability, Third Edition. New Riders, 2013.
+Greg Gerrard's Ecocriticism Taylor and Francis, 2011, 44-49. 
 
-Unger, Russ, and Carolyn Chandler, “Business Requirements: Know the Problem Before You Create the Solution” A Project Guide to UX Design: For User Experience Designers in the Field or in the Making. 2nd ed. 2012. n.p.
+##### ACTIVITY: Is It Still Possible to Write Nature Poetry Today? 
 
-#### FINAL PROJECT: Exploring Directories: Diagnosing Problems 
+#### CONTEXT: Feeling at a Distance: The Printed Word, Mediation, and Slave Labor
 
-#### PROGRESS REPORT: Week 2
+Celeste Langan, "Telepathos: Medium Cool Romanticism," Romanticism on the Net 41-42 (February-May 2006), with particular focus on the introduction and the final paragraphs, 1-12 and 32-35.
+
+Sussman, Charlotte. "Women and the Politics of Sugar, 1792." Representations 48.48 (1994): 48-69, with particular focus on 56-60.
+
+##### DISCUSSION: Extra, Extra!: The Case of Print, Nature, and Slavery
+
+
+
 
 ## WEEK 3: Who We Are and Who Gets to Be: Authors/Activists/Designers (Lab, Jan 21)
 
