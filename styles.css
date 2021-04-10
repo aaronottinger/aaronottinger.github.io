@@ -53,7 +53,6 @@ body {
 		padding-left:15px;
 		padding-right: 15px;
 		box-shadow: 2px 5px 2px black;
-
 		
 }
 
@@ -76,33 +75,12 @@ body {
 		position:relative;
 		text-align: left; 
 
-</style>
-
-
 }
 
 
 
 
 
-#dhrole {
-
-		width: 400px;
-		height: 450px;
-		background-color:lightgrey;
-		border: thin solid black;
-		padding-left:15px;
-		padding-right:15px;
-		padding-top:5px;
-		padding-bottom:15px;
-		position:relative;
-		top 200px;
-		left:50px;
-		box-shadow: 10px 10px 5px black;
-		text-align:justify; 
-
-
-}
 
 
 article {
@@ -117,151 +95,6 @@ article {
 		padding-bottom:50px;
 		border: thin solid black;
 	
-}
-
-aside {
-	background-color:lightgrey; 
-	overflow: hidden;
-	word-wrap: break-word;
-	height: 150%;
-	margin: 70px; 
-	float:center;
-	padding-left:25px;
-	padding-right:25px;
-	padding-top:15px;
-	padding-bottom:25px;
-	border: thin solid black;
-}
-
-section {
-	background-color:lightgrey;
-	height: 215px;
-	width: 550px;
-	position: relative;
-	left: 650px;
-	top:200px;
-	padding-left:25px;
-	padding-right:25px;
-	padding-top:15px;
-	padding-bottom:25px;
-	border: thin solid black;
-	box-shadow: 2px 5px 2px black;
-
-}
-
-
-
-
-.publications {
-		font-family:Garramond	
-		font-size:15px
-}
-
-
-
-.forthcoming {
-		background: lightgrey;
-		overflow: hidden;
-		word-wrap: break-word;
-		width:30%;
-		position:relative;
-		float:left;
-		margin: 1.75%;
-		padding-left:25px;
-		padding-right:25px;
-		padding-top:15px;
-		padding-bottom:25px;
-		border: thin solid black;
-}
-
-#pictureframe {
-		background: lightgrey;
-		word-wrap: break-word;
-		width:37.5%;
-		height: 40%;
-		position:relative;
-		float:left;
-		margin: 1.75%;
-		padding-left:30px;
-		padding-right: 10px;
-		padding-top:15px;
-		padding-bottom:25px;
-		border: thin solid black;
-				    		
-
-		
-}
-
-
-#selfpictureframe {
-		background: lightgrey;
-		word-wrap: break-word;
-		width:500px;
-		height: 40%;
-		position:relative;
-		float:left;
-		margin: 1.75%;
-		padding-left:30px;
-		padding-right: 10px;
-		padding-top:15px;
-		padding-bottom:25px;
-		border: thin solid black;
-				    			
-}
-
-
-#adapictureframe {
-		background: lightgrey;
-		word-wrap: break-word;
-		width: 450px;
-		height: 35%;
-		position:relative;
-		float:left;
-		margin: 1.75%;
-		padding-left:30px;
-		padding-right: 10px;
-		padding-top:15px;
-		padding-bottom:25px;
-		border: thin solid black;
-				    		
-
-		
-}
-
-
-
-#dh {
-
-	background: lightgrey;
-		word-wrap: break-word;
-		width:575px;
-		height: 40%;
-		position:relative;
-		float:left;
-		margin: 1.75%;
-		padding-left:30px;
-		padding-right: 10px;
-		padding-top:15px;
-		padding-bottom:25px;
-		border: thin solid black;
-		
-}
-
-#explan {
-
-		width: 400px;
-		height: 550px;
-		background-color:lightgrey;
-		border: thin solid black;
-		padding-left:25px;
-		padding-right:25px;
-		padding-top:15px;
-		padding-bottom:25px;
-		position:relative;
-		top:250px;
-		left:100px;
-		box-shadow: 10px 10px 5px black;
-		text-align:justify; 
 }
 
 
@@ -286,7 +119,8 @@ h3. {
 		color:black;
 		font-size: 20px;
 		font-family: helvetica, Sans-serif;
-		font-weight: normal;}
+		font-weight: normal;
+}
 
 p {
 		color:black;
@@ -312,46 +146,6 @@ object 	{
 }
 
 
- /* Style inputs with type="text", select elements and textareas */
-input[type=text], select, textarea {
-  width: 100%; /* Full width */
-  padding: 12px; /* Some padding */ 
-  border: 1px solid #ccc; /* Gray border */
-  border-radius: 4px; /* Rounded borders */
-  box-sizing: border-box; /* Make sure that padding and width stays in place */
-  margin-top: 6px; /* Add a top margin */
-  margin-bottom: 16px; /* Bottom margin */
-  resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
-}
-
-/* Style the submit button with a specific background color etc */
-input[type=submit] {
-  background-color: #4CAF50;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-}
-
-/* When moving the mouse over the submit button, add a darker green color */
-input[type=submit]:hover {
-  background-color: #45a049;
-}
-
-/* Add a background color and some padding around the form */
-.container {
-  border-radius: 5px;
-  background-color: #f2f2f2;
-  padding: 20px;
-} 
-
-
-
-
-
-
-
 
 a	{
 color:blue
@@ -366,22 +160,11 @@ a:hover {
 }
 
 
-
-
-
-
 #image {
 	display: block;
     margin-left: auto;
     margin-right: auto;
 }
-
-
-
- 
-
-
-
 
 
 
@@ -392,7 +175,6 @@ footer {
    		left: 0;
    		bottom: 100;
    		width: 100%;
-
 }
 
 
