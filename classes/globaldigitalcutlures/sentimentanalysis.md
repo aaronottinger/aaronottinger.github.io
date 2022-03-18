@@ -8,9 +8,9 @@ Okay, let's back up. Imagine your email. How does your email know which messages
 
 (**For a short video on this process, and a slighly closer look at the math behind Bayes' Theorem, click on [this link here](https://youtu.be/O2L2Uv9pdDA).**)
 
-But the same process can also be used to judge if something is positive or negative, as in "This movie is awesome" vs. "This movie stinks!" In this case, our document classifier would be conducting what is commonly referred to as "sentiment analysis." 
+The same process can also be used to judge if something is positive or negative, for instance, a movie review, as in "This movie is awesome" versus "This movie stinks!" In this case, our document classifier would be conducting what is commonly referred to as "sentiment analysis." Rather than "normal" or "spam," the document classifier would be determining if the sentiment of the text was positive or negative.
 
-Sentiment analysis uses an algorithm to determine how people feel about an object based on the linguistic information they provide, usually in an online context (although, you could certainly transcribe non-digital texts into a digital database). Sentiment analysis is used to see if people like a company's products, to see how folks feel about a political candidate, or how people respond to just about anything, but on an emotional (rather than logical) level. 
+Sentiment analysis uses an algorithm to determine how people feel about an object based on the linguistic information they provide, usually in an online context (although, you could certainly transcribe non-digital texts into a digital database). Sentiment analysis is used to see if people like a company's products, to see how folks feel about a political candidate, or how people respond to just about anything on an emotional level. 
 
 Eventually, you could use a document classifier to "scrape" tweets on Twitter, for instance, and gather the opinions of thousands or even millions of users on a particular topic. That is an extremely powerful tool. 
 
