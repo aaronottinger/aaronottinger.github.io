@@ -53,7 +53,7 @@ Yay, movie reivews! But wait, don't get too excited. We're not actually **readin
 
 5. Now we must load and prepare our dataset by importing the Natural Language Tookit, followed by the Movie Review Corpus. In this same step, we will organize the corpus into individual words as categories, and then shuffle those categories at random. In the next step, we will label those categories as either positive or negative. 
 
-**Note:** If you get lost at any point or you if lost your progress, just re-activate your virtual environment and fire up Python and jump in, starting here:
+**Note:** If you get lost at any point or you lose your progress, just re-activate your virtual environment and fire up Python and jump in, starting here:
 
     import nltk
 
