@@ -1,4 +1,5 @@
 # aaronottinger.github.io
 
 
-#This is not a Readme page
+# This is not a Read Me page
+
