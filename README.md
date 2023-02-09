@@ -1,6 +1,4 @@
 # aaronottinger.github.io
 
-
-
-
-Whatever
+# Whatever
+Welcome to my portfolio! 
